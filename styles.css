@@ -12,3 +12,28 @@ body{background:#ddf8f3 url('assets/pearl-cinema.png') center top / 100% auto no
 /* Liquid-glass artwork and editorial typography */
 body{font-family:'Cormorant Garamond','Noto Serif JP',Georgia,serif;background-size:100% auto;color:#124d4b}.brand{gap:10px;display:flex;align-items:center;font-size:25px;font-weight:500;letter-spacing:.8px}.brand-icon{border:1px solid #387b74;border-radius:50%;width:32px;height:32px;display:grid;place-items:center;font-size:26px;line-height:1;margin-right:3px;font-style:normal}.brand-name b{font-size:.85em;letter-spacing:2px}.glass-wordmark{background:none;filter:none;line-height:0;margin:0 auto;width:min(720px,80%);text-shadow:none;-webkit-text-stroke:0;letter-spacing:0}.glass-wordmark img{display:block;width:100%;height:auto;filter:drop-shadow(0 3px 2px #2e6c6450)}.journal-intro{min-height:0;padding:12px 5% 18px}.journal-intro .eyebrow{display:none}.journal-intro .hero-english{font-family:'Cormorant Garamond',Georgia,serif;color:#144a46;font-weight:600;font-style:italic;font-size:clamp(26px,3.2vw,44px);max-width:none;line-height:1.2;margin:5px 0 12px}.journal-intro h1{font-size:21px;font-weight:400;margin:0 0 10px}.journal-intro #intro{font-size:12px}.search input{font-family:'Noto Serif JP',serif;font-size:16px}.filters select,.chips button{font-family:'Noto Serif JP',serif}.card-details>p,.review-text,.studio textarea,.studio input,.studio select{font-family:'Noto Serif JP',Georgia,serif}.card-meta,.scare{font-family:'DM Sans',sans-serif}.collection{padding-top:12px}.section-heading h2{font-size:22px}.release-year{font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:.4px;color:#416b65;margin-top:5px}.studio-heading h1{font-size:48px}.studio label{color:#1f4b43}.studio-tabs button{border-radius:18px 18px 4px 4px;font-family:'Noto Serif JP',serif}.studio-panel,.workspace{background:linear-gradient(120deg,#ffffffd9,#efffffc9)}
 @media(max-width:600px){body{background-size:auto 1000px}.brand{font-size:17px;gap:6px}.brand-icon{width:25px;height:25px;font-size:21px}.brand-name b{letter-spacing:1px}.glass-wordmark{width:100%;margin:8px 0 4px}.journal-intro .hero-english{font-size:27px;line-height:1.15;margin-bottom:12px}.journal-intro h1{font-size:16px}.journal-intro #intro{font-size:10px}.journal-intro{padding:10px 4% 18px}.studio-heading h1{font-size:36px}.search input{font-size:13px}.release-year{font-size:10px}}
+
+/* Approved luminous header — responsive glass artwork */
+body,.editor-page{background-color:#e4faf7;background-image:url('assets/pearl-cinema.png');background-position:center top;background-size:100% auto;background-repeat:repeat-y;background-attachment:scroll}
+header{background:linear-gradient(115deg,#ffffffa8,#e9fffc8c);box-shadow:inset 0 1px 2px #fff,0 3px 18px #66bdb514;backdrop-filter:blur(8px)}
+.brand{font-family:var(--serif);font-weight:500;letter-spacing:1.1px;color:#175956}
+.brand-icon{font-family:'Apple Color Emoji','Segoe UI Emoji',sans-serif;font-style:normal;border:0;background:none;border-radius:0;width:32px;height:36px;font-size:29px;box-shadow:none}
+.brand-name b{font-weight:400}
+.journal-intro{padding:14px 5% 24px;background:linear-gradient(100deg,#ffffff06,#f4ffff12)}
+.glass-wordmark{width:min(830px,86%);margin:0 auto}
+.glass-wordmark img{filter:none;mix-blend-mode:normal}
+.journal-intro .hero-english{font-family:var(--serif);font-style:normal;font-weight:500;letter-spacing:.2px;font-size:clamp(26px,3.25vw,46px);color:#175956;line-height:1.2;margin:2px 0 15px;text-shadow:0 1px 0 #ffffffa8}
+.journal-intro h1{font-weight:400;color:#245b57}
+.language{background:linear-gradient(135deg,#ffffffd9,#d9f6f0aa);border:1px solid #fff;box-shadow:inset 0 1px 3px white,0 3px 9px #438e8121}
+@media(max-width:600px){
+ body,.editor-page{background-size:100% auto;background-repeat:repeat-y;background-attachment:scroll}
+ header{padding:0 4%;gap:8px}.brand{font-size:17px;letter-spacing:.5px;gap:5px}.brand-icon{width:26px;font-size:24px;margin-right:0}.language{padding:7px 12px;white-space:nowrap}
+ .journal-intro{padding:25px 4% 24px;min-height:245px;background-image:linear-gradient(#effffb0a,#effffb20),url('assets/pearl-cinema.png');background-position:center;background-size:100% 100%;background-repeat:no-repeat}
+ .glass-wordmark{width:100%;margin:0 auto 10px}
+ .journal-intro .hero-english{font-size:clamp(23px,6.3vw,34px);line-height:1.15;letter-spacing:0;margin:0 auto 14px;max-width:340px}
+ .journal-intro h1{font-size:15px;line-height:1.7}.journal-intro #intro{font-size:10px;line-height:1.8}
+ .editor-page .studio{background:linear-gradient(#f5fffd55,#e4f9f2ad)}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.cards article{transition:none}}
+
+@media(max-width:600px){.section-heading{display:block}.section-heading h2{font-size:23px;line-height:1.4;margin:0}.section-heading p{font-size:11px;margin:6px 0 0}.collection{background:linear-gradient(#f5ffffb8,#e5f7f3ed)}}
