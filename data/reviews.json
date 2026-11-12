@@ -23,7 +23,8 @@
     "sourceUrl": "https://www.scifinow.co.uk/cinema/fall-exclusive-interview-with-director-scott-mann/",
     "sourceLabel": "Scott Mann interview · SciFiNow",
     "posterUrl": "./posters/ig-17877241380087903.webp",
-    "postedAt": 1717724859
+    "postedAt": 1717724859,
+    "yearBasis": "original-release"
   },
   {
     "id": "euphoria-s3",
@@ -49,7 +50,8 @@
     "sourceUrl": "https://press.wbd.com/ca/media-release/hbo-0/euphoria/season-three-hbo-original-drama-series-euphoria-debuts-april-12",
     "sourceLabel": "HBO · Production notes",
     "posterUrl": "./posters/ig-18405300220151287.webp",
-    "postedAt": 1780713657
+    "postedAt": 1780713657,
+    "yearBasis": "original-release"
   },
   {
     "id": "apple-cider-vinegar-2025",
@@ -75,7 +77,8 @@
     "sourceUrl": "https://www.netflix.com/tudum/articles/apple-cider-vinegar-series",
     "sourceLabel": "Netflix Tudum · Cast & behind the scenes",
     "posterUrl": "./posters/ig-18262080691280869.webp",
-    "postedAt": 1739181474
+    "postedAt": 1739181474,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18168502738469569",
@@ -101,7 +104,8 @@
     "sourceLabel": "Netflix Tudum · Below",
     "sourceUrl": "https://www.netflix.com/tudum/articles/below-release-date-photos-news?inapp=true-65",
     "posterUrl": "./posters/ig-18168502738469569.webp",
-    "postedAt": 1792806608
+    "postedAt": 1792806608,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18106841147528327",
@@ -127,7 +131,8 @@
     "sourceLabel": "A24 · Scott Beck & Bryan Woods",
     "sourceUrl": "https://a24films.com/notes/2024/11/a-sweet-treat-a-note-from-scott-beck-bryan-woods",
     "posterUrl": "./posters/ig-18106841147528327.webp",
-    "postedAt": 1792806352
+    "postedAt": 1792806352,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18134693455677376",
@@ -153,7 +158,8 @@
     "sourceLabel": "MoMA · Hellraiser",
     "sourceUrl": "https://www.moma.org/calendar/events/7978",
     "posterUrl": "./posters/ig-18134693455677376.webp",
-    "postedAt": 1792726183
+    "postedAt": 1792726183,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17992643946097651",
@@ -179,7 +185,8 @@
     "sourceLabel": "Arrow Video · 2009 edition",
     "sourceUrl": "https://www.arrowvideo.com/p/blu-ray/the-last-house-on-the-left-2009-limited-edition/14837764/",
     "posterUrl": "./posters/ig-17992643946097651.webp",
-    "postedAt": 1792722775
+    "postedAt": 1792722775,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18093564194134759",
@@ -205,7 +212,8 @@
     "sourceLabel": "Netflix Tudum · La Palma",
     "sourceUrl": "https://www.netflix.com/tudum/articles/la-palma-release-date-news",
     "posterUrl": "./posters/ig-18093564194134759.webp",
-    "postedAt": 1789359250
+    "postedAt": 1789359250,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17903410638489202",
@@ -231,7 +239,8 @@
     "sourceLabel": "SPOTTED PRODUCTIONS · Film information",
     "sourceUrl": "https://spotted.jp/2014/12/onnanokokirai/",
     "posterUrl": "./posters/ig-17903410638489202.webp",
-    "postedAt": 1786861821
+    "postedAt": 1786861821,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18348341479173281",
@@ -257,7 +266,8 @@
     "sourceLabel": "Sony Pictures · Love Again",
     "sourceUrl": "https://dev.sonypictures.com/movies/loveagain",
     "posterUrl": "./posters/ig-18348341479173281.webp",
-    "postedAt": 1786861733
+    "postedAt": 1786861733,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17909121513460027",
@@ -283,7 +293,8 @@
     "sourceLabel": "Netflix Tudum · La Dolce Villa",
     "sourceUrl": "https://www.netflix.com/tudum/articles/la-dolce-villa-release-date-photos",
     "posterUrl": "./posters/ig-17909121513460027.webp",
-    "postedAt": 1786861445
+    "postedAt": 1786861445,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18111141701080610",
@@ -309,7 +320,8 @@
     "sourceLabel": "Netflix · Production information",
     "sourceUrl": "https://about.netflix.com/en/news/between-hamburg-and-istanbul-culture-clash-glamour-and-big-emotions-the",
     "posterUrl": "./posters/ig-18111141701080610.webp",
-    "postedAt": 1786861336
+    "postedAt": 1786861336,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18113557048973766",
@@ -335,7 +347,8 @@
     "sourceLabel": "Netflix Tudum · Pop Star Academy",
     "sourceUrl": "https://www.netflix.com/tudum/articles/hybe-geffen-girl-group-kpop-documentary",
     "posterUrl": "./posters/ig-18113557048973766.webp",
-    "postedAt": 1786861226
+    "postedAt": 1786861226,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18101540420266265",
@@ -361,7 +374,8 @@
     "sourceLabel": "Distribution announcement · Filmmaker statement",
     "sourceUrl": "https://www.unspoolhollywood.com/the-mouse-trap-announces-distribution-partner-and-release-dates/",
     "posterUrl": "./posters/ig-18101540420266265.webp",
-    "postedAt": 1785579883
+    "postedAt": 1785579883,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17945557992235078",
@@ -387,7 +401,8 @@
     "sourceLabel": "Sony Pictures UK · Credits and synopsis",
     "sourceUrl": "https://www.sonypictures.co.uk/movies/tarot",
     "posterUrl": "./posters/ig-17945557992235078.webp",
-    "postedAt": 1782729405
+    "postedAt": 1782729405,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18600595909009403",
@@ -413,7 +428,8 @@
     "sourceLabel": "Universal Pictures · Production notes",
     "sourceUrl": "https://www.universalpicturesathome.com/press-release/speak-no-evil-press-release",
     "posterUrl": "./posters/ig-18600595909009403.webp",
-    "postedAt": 1782639020
+    "postedAt": 1782639020,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18144287215522785",
@@ -439,7 +455,8 @@
     "sourceLabel": "Netflix Tudum · Brick",
     "sourceUrl": "https://www.netflix.com/tudum/articles/brick-release-date-news",
     "posterUrl": "./posters/ig-18144287215522785.webp",
-    "postedAt": 1782544877
+    "postedAt": 1782544877,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18162018745457947",
@@ -465,7 +482,8 @@
     "sourceLabel": "Asmik Ace · Film information",
     "sourceUrl": "https://www.asmik-ace.co.jp/works/lineup/1076/",
     "posterUrl": "./posters/ig-18162018745457947.webp",
-    "postedAt": 1782544282
+    "postedAt": 1782544282,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18343222609217487",
@@ -491,7 +509,8 @@
     "sourceLabel": "Eiga.com · Film information",
     "sourceUrl": "https://eiga.com/movie/53112/",
     "posterUrl": "./posters/ig-18343222609217487.webp",
-    "postedAt": 1782544183
+    "postedAt": 1782544183,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17997948098961492",
@@ -517,7 +536,8 @@
     "sourceLabel": "Asmik Ace · Narratage",
     "sourceUrl": "https://www.asmik-ace.co.jp/works/lineup/941/",
     "posterUrl": "./posters/ig-17997948098961492.webp",
-    "postedAt": 1782544072
+    "postedAt": 1782544072,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18050036432549564",
@@ -543,7 +563,8 @@
     "sourceLabel": "Netflix · Cast announcement",
     "sourceUrl": "https://about.netflix.com/ja/news/netflix-announces-full-cast-for-film-call-me-chihiro",
     "posterUrl": "./posters/ig-18050036432549564.webp",
-    "postedAt": 1782543942
+    "postedAt": 1782543942,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18154253161488227",
@@ -569,7 +590,8 @@
     "sourceLabel": "Netflix · Tu Yaa Main",
     "sourceUrl": "https://www.netflix.com/jp-en/title/82134630",
     "posterUrl": "./posters/ig-18154253161488227.webp",
-    "postedAt": 1782543752
+    "postedAt": 1782543752,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18067070381436280",
@@ -595,13 +617,14 @@
     "sourceLabel": "Universal Pictures · Production notes",
     "sourceUrl": "https://www.universalpicturesathome.com/press-release/cocaine-bear-press-release",
     "posterUrl": "./posters/ig-18067070381436280.webp",
-    "postedAt": 1782537175
+    "postedAt": 1782537175,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17888646405563068",
     "jp": "I Feel Pretty",
     "en": "I Feel Pretty",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -621,13 +644,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17888646405563068.webp",
-    "postedAt": 1782028360
+    "postedAt": 1782028360,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18067623959447489",
     "jp": "奈落のマイホーム",
     "en": "奈落のマイホーム",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -647,13 +671,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18067623959447489.webp",
-    "postedAt": 1782028093
+    "postedAt": 1782028093,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18036754457802112",
     "jp": "Jennifer's Body",
     "en": "Jennifer's Body",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -673,13 +698,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18036754457802112.webp",
-    "postedAt": 1782027852
+    "postedAt": 1782027852,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18091246163577971",
     "jp": "Wicked For Good",
     "en": "Wicked For Good",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -699,13 +725,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18091246163577971.webp",
-    "postedAt": 1782026696
+    "postedAt": 1782026696,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18131370565609130",
     "jp": "Renfield",
     "en": "Renfield",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -725,13 +752,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18131370565609130.webp",
-    "postedAt": 1782026320
+    "postedAt": 1782026320,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18105924134091645",
     "jp": "The Invisible Man",
     "en": "The Invisible Man",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -751,13 +779,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18105924134091645.webp",
-    "postedAt": 1782026022
+    "postedAt": 1782026022,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17886343752577400",
     "jp": "Behind Her Eyes",
     "en": "Behind Her Eyes",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -777,13 +806,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17886343752577400.webp",
-    "postedAt": 1782025645
+    "postedAt": 1782025645,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17923980963145468",
     "jp": "羊たちの沈黙",
     "en": "羊たちの沈黙",
-    "year": null,
+    "year": 1991,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -803,13 +833,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17923980963145468.webp",
-    "postedAt": 1782025293
+    "postedAt": 1782025293,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18231128497314325",
     "jp": "Black Phone",
     "en": "Black Phone",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -829,13 +860,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18231128497314325.webp",
-    "postedAt": 1782024690
+    "postedAt": 1782024690,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18107426906063888",
     "jp": "Delicious",
     "en": "Delicious",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -855,13 +887,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18107426906063888.webp",
-    "postedAt": 1782024194
+    "postedAt": 1782024194,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17929120593345274",
     "jp": "The Innocents",
     "en": "The Innocents",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -881,13 +914,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17929120593345274.webp",
-    "postedAt": 1782023433
+    "postedAt": 1782023433,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18143084377522425",
     "jp": "アンテベラム",
     "en": "アンテベラム",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -907,13 +941,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18143084377522425.webp",
-    "postedAt": 1782022836
+    "postedAt": 1782022836,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18121170379689887",
     "jp": "Raw",
     "en": "Raw",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": 1,
@@ -933,13 +968,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18121170379689887.webp",
-    "postedAt": 1782022550
+    "postedAt": 1782022550,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18094115363601459",
     "jp": "Carry-on",
     "en": "Carry-on",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -959,13 +995,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18094115363601459.webp",
-    "postedAt": 1782022413
+    "postedAt": 1782022413,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17886349236592320",
     "jp": "Trap",
     "en": "Trap",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -985,13 +1022,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17886349236592320.webp",
-    "postedAt": 1782022119
+    "postedAt": 1782022119,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18111272891297132",
     "jp": "Piggy",
     "en": "Piggy",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -1011,13 +1049,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18111272891297132.webp",
-    "postedAt": 1782021880
+    "postedAt": 1782021880,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18469897498106583",
     "jp": "The Exorcist",
     "en": "The Exorcist",
-    "year": null,
+    "year": 1973,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -1037,13 +1076,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18469897498106583.webp",
-    "postedAt": 1782021471
+    "postedAt": 1782021471,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17989889924813103",
     "jp": "The Pope's Exorcist",
     "en": "The Pope's Exorcist",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -1063,13 +1103,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17989889924813103.webp",
-    "postedAt": 1782021316
+    "postedAt": 1782021316,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18099784247607490",
     "jp": "Good Boy 犬人間",
     "en": "Good Boy 犬人間",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -1089,13 +1130,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18099784247607490.webp",
-    "postedAt": 1782020722
+    "postedAt": 1782020722,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18081429416552091",
     "jp": "Malignant",
     "en": "Malignant",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -1115,13 +1157,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18081429416552091.webp",
-    "postedAt": 1782020007
+    "postedAt": 1782020007,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18119842756838015",
     "jp": "The Life List",
     "en": "The Life List",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -1141,13 +1184,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18119842756838015.webp",
-    "postedAt": 1782019308
+    "postedAt": 1782019308,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17992785638998337",
     "jp": "動物界",
     "en": "動物界",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 1.5,
@@ -1167,13 +1211,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17992785638998337.webp",
-    "postedAt": 1782018807
+    "postedAt": 1782018807,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18594718972050636",
     "jp": "Lucy",
     "en": "Lucy",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -1193,13 +1238,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18594718972050636.webp",
-    "postedAt": 1782017405
+    "postedAt": 1782017405,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17895155307521579",
     "jp": "Sound of Freedom",
     "en": "Sound of Freedom",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -1219,13 +1265,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17895155307521579.webp",
-    "postedAt": 1782016639
+    "postedAt": 1782016639,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17868042390564388",
     "jp": "Haunted Mansion",
     "en": "Haunted Mansion",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1245,13 +1292,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17868042390564388.webp",
-    "postedAt": 1782012543
+    "postedAt": 1782012543,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18074270750688793",
     "jp": "The Woman In Cabin 10",
     "en": "The Woman In Cabin 10",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -1271,13 +1319,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18074270750688793.webp",
-    "postedAt": 1782012401
+    "postedAt": 1782012401,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18104091919967463",
     "jp": "Longlegs",
     "en": "Longlegs",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -1297,13 +1346,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18104091919967463.webp",
-    "postedAt": 1782012158
+    "postedAt": 1782012158,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18121963279779879",
     "jp": "Until Dawn",
     "en": "Until Dawn",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1323,13 +1373,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18121963279779879.webp",
-    "postedAt": 1782011777
+    "postedAt": 1782011777,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18133468303581956",
     "jp": "ラヴ上等",
     "en": "ラヴ上等",
-    "year": null,
+    "year": 2025,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -1349,13 +1400,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18133468303581956.webp",
-    "postedAt": 1782009187
+    "postedAt": 1782009187,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17933327934312277",
-    "jp": "ALIEN",
-    "en": "ALIEN",
-    "year": null,
+    "jp": "エイリアン：ロムルス",
+    "en": "Alien: Romulus",
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -1375,13 +1427,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17933327934312277.webp",
-    "postedAt": 1782008936
+    "postedAt": 1782008936,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18370153597224869",
     "jp": "サユリ",
     "en": "サユリ",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1401,13 +1454,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18370153597224869.webp",
-    "postedAt": 1782008786
+    "postedAt": 1782008786,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18123804109656339",
     "jp": "Mama",
     "en": "Mama",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1427,13 +1481,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18123804109656339.webp",
-    "postedAt": 1782008605
+    "postedAt": 1782008605,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18088152029630164",
     "jp": "A Quiet Place Day One",
     "en": "A Quiet Place Day One",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1453,13 +1508,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18088152029630164.webp",
-    "postedAt": 1782008280
+    "postedAt": 1782008280,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18106817071996265",
     "jp": "Abigail",
     "en": "Abigail",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -1479,13 +1535,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18106817071996265.webp",
-    "postedAt": 1782008080
+    "postedAt": 1782008080,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18132130753586936",
     "jp": "The Suicide Squad",
     "en": "The Suicide Squad",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -1505,13 +1562,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18132130753586936.webp",
-    "postedAt": 1782007628
+    "postedAt": 1782007628,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18107025608074458",
     "jp": "Cocaine Godmother",
     "en": "Cocaine Godmother",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -1531,13 +1589,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18107025608074458.webp",
-    "postedAt": 1782007217
+    "postedAt": 1782007217,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18009471677871586",
     "jp": "As You Stood By",
     "en": "As You Stood By",
-    "year": null,
+    "year": 2025,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -1557,13 +1616,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18009471677871586.webp",
-    "postedAt": 1782007019
+    "postedAt": 1782007019,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18008715764736192",
     "jp": "Thanksgiving",
     "en": "Thanksgiving",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1583,13 +1643,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18008715764736192.webp",
-    "postedAt": 1781760567
+    "postedAt": 1781760567,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18079421159225767",
     "jp": "ドールハウス",
     "en": "ドールハウス",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1609,13 +1670,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18079421159225767.webp",
-    "postedAt": 1764931753
+    "postedAt": 1764931753,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18062442617108004",
     "jp": "Constantine",
     "en": "Constantine",
-    "year": null,
+    "year": 2005,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1635,13 +1697,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18062442617108004.webp",
-    "postedAt": 1759670440
+    "postedAt": 1759670440,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17983592918910362",
     "jp": "Megan 2.0",
     "en": "Megan 2.0",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -1661,14 +1724,15 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17983592918910362.webp",
-    "postedAt": 1759670119
+    "postedAt": 1759670119,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17861398926480604",
     "jp": "Unknown Number",
     "en": "Unknown Number",
-    "year": null,
-    "format": "series",
+    "year": 2025,
+    "format": "film",
     "genre": "other",
     "rating": 3,
     "scare": null,
@@ -1687,13 +1751,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17861398926480604.webp",
-    "postedAt": 1758370714
+    "postedAt": 1758370714,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18049511924111977",
     "jp": "The watchers",
     "en": "The watchers",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -1713,13 +1778,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18049511924111977.webp",
-    "postedAt": 1748774459
+    "postedAt": 1748774459,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18128849494442397",
     "jp": "邪悪なるもの",
     "en": "邪悪なるもの",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -1739,13 +1805,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18128849494442397.webp",
-    "postedAt": 1748594249
+    "postedAt": 1748594249,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18084781141725193",
     "jp": "Euphoria",
     "en": "Euphoria",
-    "year": null,
+    "year": 2019,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -1765,13 +1832,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18084781141725193.webp",
-    "postedAt": 1745745761
+    "postedAt": 1745745761,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18063444364807549",
     "jp": "Kinda Pregnant",
     "en": "Kinda Pregnant",
-    "year": null,
+    "year": 2025,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -1791,13 +1859,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18063444364807549.webp",
-    "postedAt": 1743066905
+    "postedAt": 1743066905,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17957067827779230",
     "jp": "変な家",
     "en": "変な家",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -1817,13 +1886,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17957067827779230.webp",
-    "postedAt": 1741781482
+    "postedAt": 1741781482,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18049562015254354",
     "jp": "Cassandra",
     "en": "Cassandra",
-    "year": null,
+    "year": 2025,
     "format": "series",
     "genre": "horror",
     "rating": 4,
@@ -1843,13 +1913,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18049562015254354.webp",
-    "postedAt": 1741780901
+    "postedAt": 1741780901,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17975029985683086",
     "jp": "Barbarian",
     "en": "Barbarian",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -1869,13 +1940,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17975029985683086.webp",
-    "postedAt": 1739192641
+    "postedAt": 1739192641,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17971479794698957",
     "jp": "Vivarium",
     "en": "Vivarium",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -1895,13 +1967,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17971479794698957.webp",
-    "postedAt": 1738989986
+    "postedAt": 1738989986,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17985187355639931",
     "jp": "Night Swim",
     "en": "Night Swim",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -1921,13 +1994,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17985187355639931.webp",
-    "postedAt": 1738989797
+    "postedAt": 1738989797,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18044225669253373",
     "jp": "ソフトクワイエット",
     "en": "ソフトクワイエット",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 1.5,
@@ -1947,13 +2021,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18044225669253373.webp",
-    "postedAt": 1738989665
+    "postedAt": 1738989665,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18215119732295332",
     "jp": "Disquiet",
     "en": "Disquiet",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -1973,13 +2048,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18215119732295332.webp",
-    "postedAt": 1738989558
+    "postedAt": 1738989558,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17891214174173283",
     "jp": "Missing you",
     "en": "Missing you",
-    "year": null,
+    "year": 2025,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -1999,13 +2075,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17891214174173283.webp",
-    "postedAt": 1738989421
+    "postedAt": 1738989421,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18119619865425297",
     "jp": "Trauma",
     "en": "Trauma",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": 1,
@@ -2025,13 +2102,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18119619865425297.webp",
-    "postedAt": 1738989273
+    "postedAt": 1738989273,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18055056626483416",
     "jp": "Shutter Island",
     "en": "Shutter Island",
-    "year": null,
+    "year": 2010,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -2051,13 +2129,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18055056626483416.webp",
-    "postedAt": 1738989159
+    "postedAt": 1738989159,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18071947831743136",
     "jp": "Black mirior bandersnatch",
     "en": "Black mirior bandersnatch",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -2077,13 +2156,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18071947831743136.webp",
-    "postedAt": 1738989023
+    "postedAt": 1738989023,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17849687520397590",
     "jp": "Bridget jones's diary",
     "en": "Bridget jones's diary",
-    "year": null,
+    "year": 2001,
     "format": "film",
     "genre": "other",
     "rating": 2.5,
@@ -2103,13 +2183,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17849687520397590.webp",
-    "postedAt": 1738988860
+    "postedAt": 1738988860,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17851285572356378",
     "jp": "The watcher",
     "en": "The watcher",
-    "year": null,
+    "year": 2022,
     "format": "series",
     "genre": "horror",
     "rating": 2.5,
@@ -2129,13 +2210,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17851285572356378.webp",
-    "postedAt": 1738938184
+    "postedAt": 1738938184,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18356790901126682",
     "jp": "ゴーストランドの惨劇",
     "en": "ゴーストランドの惨劇",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -2155,13 +2237,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18356790901126682.webp",
-    "postedAt": 1738923041
+    "postedAt": 1738923041,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18105939127470973",
     "jp": "MA",
     "en": "MA",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -2181,13 +2264,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18105939127470973.webp",
-    "postedAt": 1738922776
+    "postedAt": 1738922776,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17959139888894289",
     "jp": "As above so below",
     "en": "As above so below",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -2207,13 +2291,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17959139888894289.webp",
-    "postedAt": 1738922327
+    "postedAt": 1738922327,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18065187622854614",
     "jp": "Bodies Bodies Bodies",
     "en": "Bodies Bodies Bodies",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -2233,13 +2318,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18065187622854614.webp",
-    "postedAt": 1738922036
+    "postedAt": 1738922036,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17866006860317144",
     "jp": "Our little secret",
     "en": "Our little secret",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 2.5,
@@ -2259,13 +2345,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17866006860317144.webp",
-    "postedAt": 1738921893
+    "postedAt": 1738921893,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17899753350108569",
     "jp": "Julia",
     "en": "Julia",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -2285,13 +2372,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17899753350108569.webp",
-    "postedAt": 1738921778
+    "postedAt": 1738921778,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18146268793368183",
     "jp": "Holidate",
     "en": "Holidate",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -2311,13 +2399,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18146268793368183.webp",
-    "postedAt": 1738921644
+    "postedAt": 1738921644,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18056045393062511",
     "jp": "The blue drum",
     "en": "The blue drum",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 1,
@@ -2337,13 +2426,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18056045393062511.webp",
-    "postedAt": 1738921450
+    "postedAt": 1738921450,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18054519098105068",
     "jp": "Xo kitty -season 2-",
     "en": "Xo kitty -season 2-",
-    "year": null,
+    "year": 2025,
     "format": "series",
     "genre": "other",
     "rating": 3.5,
@@ -2363,13 +2453,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18054519098105068.webp",
-    "postedAt": 1738921377
+    "postedAt": 1738921377,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17899342956135093",
     "jp": "I am a killer",
     "en": "I am a killer",
-    "year": null,
+    "year": 2018,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -2389,13 +2480,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17899342956135093.webp",
-    "postedAt": 1738921002
+    "postedAt": 1738921002,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18485136025010083",
     "jp": "Carry on",
     "en": "Carry on",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -2415,13 +2507,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18485136025010083.webp",
-    "postedAt": 1738920322
+    "postedAt": 1738920322,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18010323329695455",
     "jp": "Quarantine",
     "en": "Quarantine",
-    "year": null,
+    "year": 2008,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -2441,13 +2534,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18010323329695455.webp",
-    "postedAt": 1738920213
+    "postedAt": 1738920213,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18055419137488560",
     "jp": "Mama",
     "en": "Mama",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -2467,13 +2561,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18055419137488560.webp",
-    "postedAt": 1738919968
+    "postedAt": 1738919968,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17847448284378958",
     "jp": "Mufasa the lion king",
     "en": "Mufasa the lion king",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -2493,13 +2588,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17847448284378958.webp",
-    "postedAt": 1738250829
+    "postedAt": 1738250829,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17890753269168917",
     "jp": "Terrifier 3",
     "en": "Terrifier 3",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -2519,13 +2615,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17890753269168917.webp",
-    "postedAt": 1736642930
+    "postedAt": 1736642930,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17949218798913956",
     "jp": "Run",
     "en": "Run",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -2545,13 +2642,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17949218798913956.webp",
-    "postedAt": 1736637689
+    "postedAt": 1736637689,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18268124680251155",
     "jp": "Love village",
     "en": "Love village",
-    "year": null,
+    "year": 2023,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -2571,13 +2669,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18268124680251155.webp",
-    "postedAt": 1736637294
+    "postedAt": 1736637294,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18105730165476093",
     "jp": "Black Christmas",
     "en": "Black Christmas",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 1.5,
@@ -2597,13 +2696,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18105730165476093.webp",
-    "postedAt": 1736636857
+    "postedAt": 1736636857,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18062599660835885",
     "jp": "Megan",
     "en": "Megan",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -2623,13 +2723,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18062599660835885.webp",
-    "postedAt": 1732852779
+    "postedAt": 1732852779,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17887950252139820",
     "jp": "Eight for silver 呪われし銀",
     "en": "Eight for silver 呪われし銀",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -2649,13 +2750,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17887950252139820.webp",
-    "postedAt": 1732852677
+    "postedAt": 1732852677,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18083345596552939",
     "jp": "The purge",
     "en": "The purge",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -2675,13 +2777,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18083345596552939.webp",
-    "postedAt": 1732852379
+    "postedAt": 1732852379,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17949367565888534",
     "jp": "Coda あいのうた",
     "en": "Coda あいのうた",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -2701,13 +2804,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17949367565888534.webp",
-    "postedAt": 1732852226
+    "postedAt": 1732852226,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18313809841165603",
     "jp": "Split",
     "en": "Split",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -2727,14 +2831,15 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18313809841165603.webp",
-    "postedAt": 1732540063
+    "postedAt": 1732540063,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17917414290003048",
     "jp": "Skins",
     "en": "Skins",
-    "year": null,
-    "format": "series",
+    "year": 2017,
+    "format": "film",
     "genre": "other",
     "rating": 3.5,
     "scare": null,
@@ -2753,13 +2858,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17917414290003048.webp",
-    "postedAt": 1732539910
+    "postedAt": 1732539910,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18051508132820471",
     "jp": "Ready or not",
     "en": "Ready or not",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -2779,13 +2885,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18051508132820471.webp",
-    "postedAt": 1732357913
+    "postedAt": 1732357913,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17847385851348587",
     "jp": "Interstellar",
     "en": "Interstellar",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -2805,13 +2912,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17847385851348587.webp",
-    "postedAt": 1732196728
+    "postedAt": 1732196728,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17886854955138182",
     "jp": "Missing",
     "en": "Missing",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -2831,13 +2939,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17886854955138182.webp",
-    "postedAt": 1732196602
+    "postedAt": 1732196602,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18155264872333506",
     "jp": "グリーンランド",
     "en": "グリーンランド",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -2857,13 +2966,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18155264872333506.webp",
-    "postedAt": 1732196499
+    "postedAt": 1732196499,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18049261651997528",
     "jp": "It's what's inside",
     "en": "It's what's inside",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -2883,13 +2993,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18049261651997528.webp",
-    "postedAt": 1732196388
+    "postedAt": 1732196388,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18029661221169306",
     "jp": "A family affair",
     "en": "A family affair",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -2909,13 +3020,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18029661221169306.webp",
-    "postedAt": 1732196244
+    "postedAt": 1732196244,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18028049279576037",
     "jp": "Time Cut",
     "en": "Time Cut",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -2935,13 +3047,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18028049279576037.webp",
-    "postedAt": 1732167300
+    "postedAt": 1732167300,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18043160681276012",
     "jp": "Irish Wish",
     "en": "Irish Wish",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -2961,13 +3074,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18043160681276012.webp",
-    "postedAt": 1732166392
+    "postedAt": 1732166392,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18359133847189057",
     "jp": "Untouchable",
     "en": "Untouchable",
-    "year": null,
+    "year": 2011,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -2987,13 +3101,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18359133847189057.webp",
-    "postedAt": 1732166240
+    "postedAt": 1732166240,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17988028298741283",
     "jp": "The bucket list 最高の人生の見つけ方",
     "en": "The bucket list 最高の人生の見つけ方",
-    "year": null,
+    "year": 2007,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -3013,13 +3128,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17988028298741283.webp",
-    "postedAt": 1732166130
+    "postedAt": 1732166130,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18036743591250086",
     "jp": "Passengers",
     "en": "Passengers",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -3039,13 +3155,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18036743591250086.webp",
-    "postedAt": 1732165913
+    "postedAt": 1732165913,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18081143257549439",
     "jp": "To the bone",
     "en": "To the bone",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -3065,13 +3182,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18081143257549439.webp",
-    "postedAt": 1729910961
+    "postedAt": 1729910961,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18030055727521303",
     "jp": "Uglies",
     "en": "Uglies",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -3091,13 +3209,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18030055727521303.webp",
-    "postedAt": 1729910153
+    "postedAt": 1729910153,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17889138891105635",
     "jp": "The deliverance",
     "en": "The deliverance",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -3117,13 +3236,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17889138891105635.webp",
-    "postedAt": 1729908564
+    "postedAt": 1729908564,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18044809106030214",
     "jp": "The platform 2",
     "en": "The platform 2",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -3143,13 +3263,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18044809106030214.webp",
-    "postedAt": 1729908329
+    "postedAt": 1729908329,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18045412253332443",
     "jp": "Terror Tuesday",
     "en": "Terror Tuesday",
-    "year": null,
+    "year": 2024,
     "format": "series",
     "genre": "horror",
     "rating": 3,
@@ -3169,13 +3290,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18045412253332443.webp",
-    "postedAt": 1729908082
+    "postedAt": 1729908082,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18041549095901010",
     "jp": "Don't move",
     "en": "Don't move",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -3195,13 +3317,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18041549095901010.webp",
-    "postedAt": 1729907899
+    "postedAt": 1729907899,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17947773965830320",
     "jp": "Scare Campaign",
     "en": "Scare Campaign",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -3221,13 +3344,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17947773965830320.webp",
-    "postedAt": 1723800860
+    "postedAt": 1723800860,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17932758062912015",
     "jp": "Five feel apart",
     "en": "Five feel apart",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -3247,13 +3371,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17932758062912015.webp",
-    "postedAt": 1723800731
+    "postedAt": 1723800731,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18329042149178954",
     "jp": "You",
     "en": "You",
-    "year": null,
+    "year": 2018,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -3273,13 +3398,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18329042149178954.webp",
-    "postedAt": 1723800550
+    "postedAt": 1723800550,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18035385080501283",
     "jp": "THE FIRST OMEN",
     "en": "THE FIRST OMEN",
-    "year": null,
+    "year": 2024,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -3299,13 +3425,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18035385080501283.webp",
-    "postedAt": 1721997139
+    "postedAt": 1721997139,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18056650843711507",
     "jp": "talk to me",
     "en": "talk to me",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -3325,13 +3452,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18056650843711507.webp",
-    "postedAt": 1721996858
+    "postedAt": 1721996858,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18091389430430395",
     "jp": "女神の継承",
     "en": "女神の継承",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -3351,13 +3479,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18091389430430395.webp",
-    "postedAt": 1716702956
+    "postedAt": 1716702956,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18047189779704989",
     "jp": "Doctor Sleep",
     "en": "Doctor Sleep",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -3377,13 +3506,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18047189779704989.webp",
-    "postedAt": 1716702600
+    "postedAt": 1716702600,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18119105581366046",
     "jp": "Barbie",
     "en": "Barbie",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -3403,13 +3533,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18119105581366046.webp",
-    "postedAt": 1716702428
+    "postedAt": 1716702428,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17941682876704169",
     "jp": "3 body problem",
     "en": "3 body problem",
-    "year": null,
+    "year": 2024,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -3429,13 +3560,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17941682876704169.webp",
-    "postedAt": 1713069234
+    "postedAt": 1713069234,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17914770875827619",
     "jp": "Good will hunting",
     "en": "Good will hunting",
-    "year": null,
+    "year": 1997,
     "format": "film",
     "genre": "other",
     "rating": 4.5,
@@ -3455,13 +3587,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17914770875827619.webp",
-    "postedAt": 1711512403
+    "postedAt": 1711512403,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18018277756984177",
     "jp": "How to lose a guy in 10 days",
     "en": "How to lose a guy in 10 days",
-    "year": null,
+    "year": 2003,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -3481,13 +3614,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18018277756984177.webp",
-    "postedAt": 1711511016
+    "postedAt": 1711511016,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18014077157191287",
     "jp": "この子は邪悪",
     "en": "この子は邪悪",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -3507,13 +3641,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18014077157191287.webp",
-    "postedAt": 1710719700
+    "postedAt": 1710719700,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18258606940172374",
     "jp": "ヴィーガンズハム/barbecue",
     "en": "ヴィーガンズハム/barbecue",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -3533,13 +3668,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18258606940172374.webp",
-    "postedAt": 1710719553
+    "postedAt": 1710719553,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18038399917840699",
     "jp": "Through my window",
     "en": "Through my window",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 1,
@@ -3559,13 +3695,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18038399917840699.webp",
-    "postedAt": 1710719321
+    "postedAt": 1710719321,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18037402024780638",
     "jp": "One Day",
     "en": "One Day",
-    "year": null,
+    "year": 2024,
     "format": "series",
     "genre": "other",
     "rating": 3.5,
@@ -3585,13 +3722,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18037402024780638.webp",
-    "postedAt": 1708875995
+    "postedAt": 1708875995,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17891890259979331",
     "jp": "Everything Now",
     "en": "Everything Now",
-    "year": null,
+    "year": 2023,
     "format": "series",
     "genre": "other",
     "rating": 2.5,
@@ -3611,13 +3749,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17891890259979331.webp",
-    "postedAt": 1708806790
+    "postedAt": 1708806790,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18325924930116653",
     "jp": "Let it snow",
     "en": "Let it snow",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -3637,13 +3776,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18325924930116653.webp",
-    "postedAt": 1706446543
+    "postedAt": 1706446543,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17993824631314824",
     "jp": "Burlesque",
     "en": "Burlesque",
-    "year": null,
+    "year": 2010,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -3663,13 +3803,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17993824631314824.webp",
-    "postedAt": 1706405284
+    "postedAt": 1706405284,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18052344262527684",
     "jp": "Dare Me",
     "en": "Dare Me",
-    "year": null,
+    "year": 2019,
     "format": "series",
     "genre": "other",
     "rating": 2,
@@ -3689,13 +3830,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18052344262527684.webp",
-    "postedAt": 1705714867
+    "postedAt": 1705714867,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18028778146803914",
     "jp": "Yes Day",
     "en": "Yes Day",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -3715,13 +3857,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18028778146803914.webp",
-    "postedAt": 1705624207
+    "postedAt": 1705624207,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17925397898796980",
     "jp": "Ginny&Georgia",
     "en": "Ginny&Georgia",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -3741,13 +3884,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17925397898796980.webp",
-    "postedAt": 1701054554
+    "postedAt": 1701054554,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18037906972527192",
     "jp": "ブギーマン",
     "en": "ブギーマン",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -3767,13 +3911,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18037906972527192.webp",
-    "postedAt": 1700026115
+    "postedAt": 1700026115,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17936014025765195",
     "jp": "The MENU",
     "en": "The MENU",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -3793,13 +3938,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17936014025765195.webp",
-    "postedAt": 1699933473
+    "postedAt": 1699933473,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18008002217107815",
     "jp": "Fear Street",
     "en": "Fear Street",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -3819,13 +3965,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18008002217107815.webp",
-    "postedAt": 1699855393
+    "postedAt": 1699855393,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17888158601946471",
-    "jp": "猿の惑星",
-    "en": "猿の惑星",
-    "year": null,
+    "jp": "猿の惑星：創世記",
+    "en": "Rise of the Planet of the Apes",
+    "year": 2011,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -3845,13 +3992,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17888158601946471.webp",
-    "postedAt": 1699676925
+    "postedAt": 1699676925,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17994505037357618",
     "jp": "ダンボ",
     "en": "ダンボ",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -3871,13 +4019,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17994505037357618.webp",
-    "postedAt": 1699676843
+    "postedAt": 1699676843,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17990329940227396",
     "jp": "ジャングル･ブック",
     "en": "ジャングル･ブック",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -3897,13 +4046,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17990329940227396.webp",
-    "postedAt": 1699676661
+    "postedAt": 1699676661,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18030756376646738",
     "jp": "The killer book club",
     "en": "The killer book club",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -3923,13 +4073,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18030756376646738.webp",
-    "postedAt": 1699676541
+    "postedAt": 1699676541,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17872135707004074",
     "jp": "パラサイト",
     "en": "パラサイト",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -3949,13 +4100,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17872135707004074.webp",
-    "postedAt": 1699676425
+    "postedAt": 1699676425,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17901437483889295",
     "jp": "Miseducation",
     "en": "Miseducation",
-    "year": null,
+    "year": 2023,
     "format": "series",
     "genre": "other",
     "rating": 2,
@@ -3975,13 +4127,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17901437483889295.webp",
-    "postedAt": 1699343508
+    "postedAt": 1699343508,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18001373063022709",
     "jp": "Last Night In SOHO",
     "en": "Last Night In SOHO",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -4001,13 +4154,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18001373063022709.webp",
-    "postedAt": 1699343241
+    "postedAt": 1699343241,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18078964420406479",
     "jp": "The conference",
     "en": "The conference",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": 1.5,
@@ -4027,13 +4181,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18078964420406479.webp",
-    "postedAt": 1699014834
+    "postedAt": 1699014834,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18273256420087666",
     "jp": "One of us is lying",
     "en": "One of us is lying",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -4053,13 +4208,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18273256420087666.webp",
-    "postedAt": 1698805507
+    "postedAt": 1698805507,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17980760870322140",
     "jp": "Mask Girl",
     "en": "Mask Girl",
-    "year": null,
+    "year": 2023,
     "format": "series",
     "genre": "other",
     "rating": 3.5,
@@ -4079,13 +4235,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17980760870322140.webp",
-    "postedAt": 1697373573
+    "postedAt": 1697373573,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18208166482260303",
     "jp": "Smile",
     "en": "Smile",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -4105,13 +4262,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18208166482260303.webp",
-    "postedAt": 1697009406
+    "postedAt": 1697009406,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17909273906831468",
     "jp": "Old People",
     "en": "Old People",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -4131,13 +4289,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17909273906831468.webp",
-    "postedAt": 1696555911
+    "postedAt": 1696555911,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18010745839899995",
     "jp": "Spoiled Brats",
     "en": "Spoiled Brats",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4157,13 +4316,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18010745839899995.webp",
-    "postedAt": 1695560512
+    "postedAt": 1695560512,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18000391388084990",
     "jp": "RRR",
     "en": "RRR",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -4183,13 +4343,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18000391388084990.webp",
-    "postedAt": 1694256609
+    "postedAt": 1694256609,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17996503175316961",
     "jp": "Barracuda Queens",
     "en": "Barracuda Queens",
-    "year": null,
+    "year": 2023,
     "format": "series",
     "genre": "other",
     "rating": 2,
@@ -4209,13 +4370,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17996503175316961.webp",
-    "postedAt": 1692180539
+    "postedAt": 1692180539,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18029731141577351",
     "jp": "Don't Worry Darling",
     "en": "Don't Worry Darling",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -4235,13 +4397,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18029731141577351.webp",
-    "postedAt": 1692087373
+    "postedAt": 1692087373,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18274395319146207",
     "jp": "Run Rabbit Run",
     "en": "Run Rabbit Run",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -4261,13 +4424,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18274395319146207.webp",
-    "postedAt": 1692063440
+    "postedAt": 1692063440,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18056745943431593",
     "jp": "Celebrity",
     "en": "Celebrity",
-    "year": null,
+    "year": 2023,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -4287,13 +4451,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18056745943431593.webp",
-    "postedAt": 1690720756
+    "postedAt": 1690720756,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17988530114015157",
     "jp": "NOPE",
     "en": "NOPE",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -4313,13 +4478,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17988530114015157.webp",
-    "postedAt": 1690168178
+    "postedAt": 1690168178,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17887508594817008",
     "jp": "エスター -ファーストキル-",
     "en": "エスター -ファーストキル-",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -4339,13 +4505,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17887508594817008.webp",
-    "postedAt": 1689999671
+    "postedAt": 1689999671,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18300086665103943",
     "jp": "The good place",
     "en": "The good place",
-    "year": null,
+    "year": 2016,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -4365,13 +4532,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18300086665103943.webp",
-    "postedAt": 1688172919
+    "postedAt": 1688172919,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17968234628264938",
     "jp": "You get me",
     "en": "You get me",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -4391,13 +4559,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17968234628264938.webp",
-    "postedAt": 1685677325
+    "postedAt": 1685677325,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17981365316031039",
     "jp": "Tin & Tina",
     "en": "Tin & Tina",
-    "year": null,
+    "year": 2023,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -4417,13 +4586,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17981365316031039.webp",
-    "postedAt": 1685452700
+    "postedAt": 1685452700,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18046138075452935",
     "jp": "XO, Kitty",
     "en": "XO, Kitty",
-    "year": null,
+    "year": 2023,
     "format": "series",
     "genre": "other",
     "rating": 3.5,
@@ -4443,13 +4613,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18046138075452935.webp",
-    "postedAt": 1684638318
+    "postedAt": 1684638318,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17993094373821036",
     "jp": "FAKES",
     "en": "FAKES",
-    "year": null,
+    "year": 2022,
     "format": "series",
     "genre": "other",
     "rating": 2.5,
@@ -4469,13 +4640,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17993094373821036.webp",
-    "postedAt": 1684638134
+    "postedAt": 1684638134,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17969169650192800",
     "jp": "Night Teeth",
     "en": "Night Teeth",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4495,13 +4667,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17969169650192800.webp",
-    "postedAt": 1684155867
+    "postedAt": 1684155867,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17954937755435399",
     "jp": "Insatiable",
     "en": "Insatiable",
-    "year": null,
+    "year": 2018,
     "format": "series",
     "genre": "other",
     "rating": 2.5,
@@ -4521,13 +4694,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17954937755435399.webp",
-    "postedAt": 1683802994
+    "postedAt": 1683802994,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18279816199186984",
     "jp": "Emily in Paris",
     "en": "Emily in Paris",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "other",
     "rating": 5,
@@ -4547,13 +4721,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18279816199186984.webp",
-    "postedAt": 1683381351
+    "postedAt": 1683381351,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18004210669708418",
     "jp": "To all the boys l've loved before",
     "en": "To all the boys l've loved before",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4573,13 +4748,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18004210669708418.webp",
-    "postedAt": 1682602515
+    "postedAt": 1682602515,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17980455740123578",
     "jp": "ワンダー 君は太陽",
     "en": "ワンダー 君は太陽",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "other",
     "rating": 4.5,
@@ -4599,13 +4775,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17980455740123578.webp",
-    "postedAt": 1682393716
+    "postedAt": 1682393716,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17982606422028824",
     "jp": "Clueless",
     "en": "Clueless",
-    "year": null,
+    "year": 1995,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4625,13 +4802,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17982606422028824.webp",
-    "postedAt": 1682054138
+    "postedAt": 1682054138,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18205557310217977",
     "jp": "Meangirls",
     "en": "Meangirls",
-    "year": null,
+    "year": 2004,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4651,13 +4829,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18205557310217977.webp",
-    "postedAt": 1682054013
+    "postedAt": 1682054013,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18093337726325480",
     "jp": "He's all that",
     "en": "He's all that",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4677,13 +4856,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18093337726325480.webp",
-    "postedAt": 1682046396
+    "postedAt": 1682046396,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17996004841802754",
     "jp": "The internship",
     "en": "The internship",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -4703,13 +4883,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17996004841802754.webp",
-    "postedAt": 1681039907
+    "postedAt": 1681039907,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17991109381883198",
     "jp": "牛首村",
     "en": "牛首村",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -4729,13 +4910,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17991109381883198.webp",
-    "postedAt": 1679738843
+    "postedAt": 1679738843,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18000799564646187",
     "jp": "the fxxk it list",
     "en": "the fxxk it list",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -4755,13 +4937,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18000799564646187.webp",
-    "postedAt": 1678620206
+    "postedAt": 1678620206,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18253005124146282",
     "jp": "Do revenge",
     "en": "Do revenge",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -4781,13 +4964,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18253005124146282.webp",
-    "postedAt": 1677762996
+    "postedAt": 1677762996,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17974473476114888",
     "jp": "Look both ways",
     "en": "Look both ways",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -4807,13 +4991,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17974473476114888.webp",
-    "postedAt": 1677585169
+    "postedAt": 1677585169,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17977391471064934",
     "jp": "Senior Year",
     "en": "Senior Year",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 3.5,
@@ -4833,13 +5018,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17977391471064934.webp",
-    "postedAt": 1677399073
+    "postedAt": 1677399073,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17983446610909489",
     "jp": "the social network",
     "en": "the social network",
-    "year": null,
+    "year": 2010,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4859,13 +5045,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17983446610909489.webp",
-    "postedAt": 1677066943
+    "postedAt": 1677066943,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17899146221751000",
     "jp": "Boo Bitch",
     "en": "Boo Bitch",
-    "year": null,
+    "year": 2022,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -4885,13 +5072,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17899146221751000.webp",
-    "postedAt": 1677066781
+    "postedAt": 1677066781,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17978327083982150",
     "jp": "Unsolved mysteries",
     "en": "Unsolved mysteries",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "horror",
     "rating": 3.5,
@@ -4911,13 +5099,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17978327083982150.webp",
-    "postedAt": 1675843273
+    "postedAt": 1675843273,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17942630864570678",
     "jp": "MERU",
     "en": "MERU",
-    "year": null,
+    "year": 2015,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4937,13 +5126,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17942630864570678.webp",
-    "postedAt": 1675843078
+    "postedAt": 1675843078,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17872573019835410",
     "jp": "Dumplin",
     "en": "Dumplin",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -4963,13 +5153,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17872573019835410.webp",
-    "postedAt": 1675603211
+    "postedAt": 1675603211,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18012769129524152",
     "jp": "Work it",
     "en": "Work it",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -4989,13 +5180,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18012769129524152.webp",
-    "postedAt": 1675521131
+    "postedAt": 1675521131,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18268747948116374",
     "jp": "Lamb",
     "en": "Lamb",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -5015,13 +5207,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18268747948116374.webp",
-    "postedAt": 1675399458
+    "postedAt": 1675399458,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17977228681864983",
     "jp": "Sabrina",
     "en": "Sabrina",
-    "year": null,
+    "year": 2018,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -5041,13 +5234,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17977228681864983.webp",
-    "postedAt": 1675341071
+    "postedAt": 1675341071,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17965956599314375",
     "jp": "My intern",
     "en": "My intern",
-    "year": null,
+    "year": 2015,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -5067,13 +5261,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17965956599314375.webp",
-    "postedAt": 1673875336
+    "postedAt": 1673875336,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17986139410750785",
     "jp": "l am legend",
     "en": "l am legend",
-    "year": null,
+    "year": 2007,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -5093,13 +5288,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17986139410750785.webp",
-    "postedAt": 1672776349
+    "postedAt": 1672776349,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17854424240889908",
     "jp": "今際の国のアリス",
     "en": "今際の国のアリス",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -5119,13 +5315,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17854424240889908.webp",
-    "postedAt": 1672691048
+    "postedAt": 1672691048,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17963675000294218",
     "jp": "28DAYS HAUNTED",
     "en": "28DAYS HAUNTED",
-    "year": null,
+    "year": 2022,
     "format": "series",
     "genre": "horror",
     "rating": 4,
@@ -5145,13 +5342,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17963675000294218.webp",
-    "postedAt": 1672667675
+    "postedAt": 1672667675,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18265827940106645",
     "jp": "聲の形",
     "en": "聲の形",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -5171,13 +5369,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18265827940106645.webp",
-    "postedAt": 1670999787
+    "postedAt": 1670999787,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17947222283268277",
     "jp": "Wednesday",
     "en": "Wednesday",
-    "year": null,
+    "year": 2022,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -5197,13 +5396,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17947222283268277.webp",
-    "postedAt": 1670980952
+    "postedAt": 1670980952,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17993112058613974",
     "jp": "Riverdale",
     "en": "Riverdale",
-    "year": null,
+    "year": 2017,
     "format": "series",
     "genre": "other",
     "rating": 5,
@@ -5223,13 +5423,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17993112058613974.webp",
-    "postedAt": 1670158914
+    "postedAt": 1670158914,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17963665327956714",
     "jp": "Heartbreak High",
     "en": "Heartbreak High",
-    "year": null,
+    "year": 2022,
     "format": "series",
     "genre": "other",
     "rating": 3.5,
@@ -5249,13 +5450,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17963665327956714.webp",
-    "postedAt": 1670158682
+    "postedAt": 1670158682,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17998100617550210",
     "jp": "甘い罠  sweet tooth",
     "en": "甘い罠  sweet tooth",
-    "year": null,
+    "year": 2008,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -5275,13 +5477,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17998100617550210.webp",
-    "postedAt": 1667020850
+    "postedAt": 1667020850,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17973405559659489",
     "jp": "Haunted",
     "en": "Haunted",
-    "year": null,
+    "year": 2018,
     "format": "series",
     "genre": "other",
     "rating": null,
@@ -5301,13 +5504,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17973405559659489.webp",
-    "postedAt": 1660370828
+    "postedAt": 1660370828,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17877162539710407",
     "jp": "Control Z",
     "en": "Control Z",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -5327,13 +5531,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17877162539710407.webp",
-    "postedAt": 1658992803
+    "postedAt": 1658992803,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17882788844689681",
     "jp": "The visit",
     "en": "The visit",
-    "year": null,
+    "year": 2015,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -5353,13 +5558,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17882788844689681.webp",
-    "postedAt": 1657687562
+    "postedAt": 1657687562,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17960774491840105",
     "jp": "咒 Incantation",
     "en": "咒 Incantation",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 4.5,
@@ -5379,13 +5585,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17960774491840105.webp",
-    "postedAt": 1657549517
+    "postedAt": 1657549517,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17949002668891734",
     "jp": "明日カノ",
     "en": "明日カノ",
-    "year": null,
+    "year": 2022,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -5405,13 +5612,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17949002668891734.webp",
-    "postedAt": 1656566325
+    "postedAt": 1656566325,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17977726414574698",
     "jp": "Chambers",
     "en": "Chambers",
-    "year": null,
+    "year": 2019,
     "format": "series",
     "genre": "horror",
     "rating": 4,
@@ -5431,13 +5639,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17977726414574698.webp",
-    "postedAt": 1656566023
+    "postedAt": 1656566023,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17956530799745988",
     "jp": "In the tall grass",
     "en": "In the tall grass",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -5457,13 +5666,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17956530799745988.webp",
-    "postedAt": 1655952128
+    "postedAt": 1655952128,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17944092329101541",
     "jp": "ラチェッド",
     "en": "ラチェッド",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -5483,13 +5693,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17944092329101541.webp",
-    "postedAt": 1655855699
+    "postedAt": 1655855699,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17936638997213223",
     "jp": "犬鳴村",
     "en": "犬鳴村",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -5509,13 +5720,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17936638997213223.webp",
-    "postedAt": 1655855492
+    "postedAt": 1655855492,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17966912902657243",
     "jp": "Old",
     "en": "Old",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -5535,13 +5747,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17966912902657243.webp",
-    "postedAt": 1655855344
+    "postedAt": 1655855344,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17912422550467111",
     "jp": "エスター",
     "en": "エスター",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -5561,13 +5774,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17912422550467111.webp",
-    "postedAt": 1655562821
+    "postedAt": 1655562821,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17897968589619764",
     "jp": "グリーンランド",
     "en": "グリーンランド",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -5587,13 +5801,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17897968589619764.webp",
-    "postedAt": 1655516327
+    "postedAt": 1655516327,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17962666342693837",
     "jp": "Escape room",
     "en": "Escape room",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -5613,13 +5828,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17962666342693837.webp",
-    "postedAt": 1655425713
+    "postedAt": 1655425713,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17921912225320982",
     "jp": "The conjuring 3",
     "en": "The conjuring 3",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 4.5,
@@ -5639,13 +5855,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17921912225320982.webp",
-    "postedAt": 1655425537
+    "postedAt": 1655425537,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17943156394957836",
     "jp": "The roommate",
     "en": "The roommate",
-    "year": null,
+    "year": 2011,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -5665,13 +5882,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17943156394957836.webp",
-    "postedAt": 1655425367
+    "postedAt": 1655425367,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17931361091116476",
     "jp": "Notting Hill",
     "en": "Notting Hill",
-    "year": null,
+    "year": 1999,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -5691,13 +5909,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17931361091116476.webp",
-    "postedAt": 1654063458
+    "postedAt": 1654063458,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17858551802723227",
     "jp": "Us",
     "en": "Us",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -5717,13 +5936,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17858551802723227.webp",
-    "postedAt": 1654063342
+    "postedAt": 1654063342,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17902887905581593",
     "jp": "Don't Breath2",
     "en": "Don't Breath2",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -5743,13 +5963,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17902887905581593.webp",
-    "postedAt": 1651554118
+    "postedAt": 1651554118,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17948605177867766",
     "jp": "Choose or Die",
     "en": "Choose or Die",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -5769,13 +5990,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17948605177867766.webp",
-    "postedAt": 1650532283
+    "postedAt": 1650532283,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17974545568536597",
     "jp": "Green Inferno",
     "en": "Green Inferno",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": 3.5,
@@ -5795,13 +6017,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17974545568536597.webp",
-    "postedAt": 1650156175
+    "postedAt": 1650156175,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18025643383352069",
     "jp": "Single's inferno",
     "en": "Single's inferno",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -5821,13 +6044,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18025643383352069.webp",
-    "postedAt": 1646402527
+    "postedAt": 1646402527,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17889978674517018",
     "jp": "ゴーストバスターズ2",
     "en": "ゴーストバスターズ2",
-    "year": null,
+    "year": 1989,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -5847,13 +6071,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17889978674517018.webp",
-    "postedAt": 1646402385
+    "postedAt": 1646402385,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17937027103942890",
     "jp": "ゴーストバスターズ",
     "en": "ゴーストバスターズ",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -5873,13 +6098,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17937027103942890.webp",
-    "postedAt": 1646402311
+    "postedAt": 1646402311,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17930615678072461",
     "jp": "Texas Chainsaw Massacre",
     "en": "Texas Chainsaw Massacre",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -5899,13 +6125,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17930615678072461.webp",
-    "postedAt": 1646221026
+    "postedAt": 1646221026,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17923717070182052",
     "jp": "Tall Girl 2",
     "en": "Tall Girl 2",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -5925,13 +6152,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17923717070182052.webp",
-    "postedAt": 1646220833
+    "postedAt": 1646220833,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18008495482383313",
     "jp": "Tall Girl",
     "en": "Tall Girl",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -5951,13 +6179,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18008495482383313.webp",
-    "postedAt": 1646220754
+    "postedAt": 1646220754,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17981682790469941",
     "jp": "l'm not okay with this",
     "en": "l'm not okay with this",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "other",
     "rating": 2,
@@ -5977,13 +6206,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17981682790469941.webp",
-    "postedAt": 1646220626
+    "postedAt": 1646220626,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18152824639235763",
     "jp": "Wounds",
     "en": "Wounds",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 1.5,
@@ -6003,13 +6233,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18152824639235763.webp",
-    "postedAt": 1645190141
+    "postedAt": 1645190141,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17873743862606496",
     "jp": "Our House",
     "en": "Our House",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": 2.5,
@@ -6029,13 +6260,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17873743862606496.webp",
-    "postedAt": 1645190026
+    "postedAt": 1645190026,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17932171453989829",
-    "jp": "OUIJA",
-    "en": "OUIJA",
-    "year": null,
+    "jp": "ウィジャ ビギニング ～呪い襲い殺す～",
+    "en": "Ouija: Origin of Evil",
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -6055,13 +6287,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17932171453989829.webp",
-    "postedAt": 1645189868
+    "postedAt": 1645189868,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18279545686010546",
     "jp": "Mamma Mia!",
     "en": "Mamma Mia!",
-    "year": null,
+    "year": 2008,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -6081,13 +6314,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18279545686010546.webp",
-    "postedAt": 1644692891
+    "postedAt": 1644692891,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17959355653586280",
     "jp": "The kissing booth",
     "en": "The kissing booth",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -6107,13 +6341,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17959355653586280.webp",
-    "postedAt": 1644692821
+    "postedAt": 1644692821,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17908371821416016",
     "jp": "Surviving Death",
     "en": "Surviving Death",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "horror",
     "rating": 2,
@@ -6133,13 +6368,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17908371821416016.webp",
-    "postedAt": 1644692736
+    "postedAt": 1644692736,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17978013850484249",
     "jp": "Black mirror",
     "en": "Black mirror",
-    "year": null,
+    "year": 2011,
     "format": "series",
     "genre": "horror",
     "rating": 4,
@@ -6159,13 +6395,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17978013850484249.webp",
-    "postedAt": 1644692654
+    "postedAt": 1644692654,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18164433832168225",
     "jp": "A classic horror story",
     "en": "A classic horror story",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -6185,13 +6422,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18164433832168225.webp",
-    "postedAt": 1644692584
+    "postedAt": 1644692584,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17924596022023891",
     "jp": "Eli",
     "en": "Eli",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -6211,13 +6449,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17924596022023891.webp",
-    "postedAt": 1644692379
+    "postedAt": 1644692379,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17945590756776799",
     "jp": "The tinder swindler",
     "en": "The tinder swindler",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -6237,13 +6476,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17945590756776799.webp",
-    "postedAt": 1644692255
+    "postedAt": 1644692255,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17929924994064567",
     "jp": "Don't listen",
     "en": "Don't listen",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -6263,13 +6503,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17929924994064567.webp",
-    "postedAt": 1644692121
+    "postedAt": 1644692121,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17923754495148457",
     "jp": "Malevolent",
     "en": "Malevolent",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -6289,13 +6530,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17923754495148457.webp",
-    "postedAt": 1644518160
+    "postedAt": 1644518160,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17920396622192516",
     "jp": "The silence",
     "en": "The silence",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -6315,13 +6557,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17920396622192516.webp",
-    "postedAt": 1644487635
+    "postedAt": 1644487635,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17885023334527936",
     "jp": "縞模様のパジャマの少年",
     "en": "縞模様のパジャマの少年",
-    "year": null,
+    "year": 2008,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -6341,13 +6584,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17885023334527936.webp",
-    "postedAt": 1644487500
+    "postedAt": 1644487500,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17926333430101447",
     "jp": "Hellbound",
     "en": "Hellbound",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "horror",
     "rating": 3,
@@ -6367,13 +6611,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17926333430101447.webp",
-    "postedAt": 1644156756
+    "postedAt": 1644156756,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18046932034309462",
     "jp": "His house",
     "en": "His house",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -6393,13 +6638,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18046932034309462.webp",
-    "postedAt": 1644156721
+    "postedAt": 1644156721,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17943710293773720",
     "jp": "呪怨 呪いの家",
     "en": "呪怨 呪いの家",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "horror",
     "rating": 2,
@@ -6419,13 +6665,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17943710293773720.webp",
-    "postedAt": 1643742684
+    "postedAt": 1643742684,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17923156838127368",
     "jp": "LIMIT",
     "en": "LIMIT",
-    "year": null,
+    "year": 2010,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -6445,13 +6692,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17923156838127368.webp",
-    "postedAt": 1643637024
+    "postedAt": 1643637024,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17910774551343837",
     "jp": "The MAUS",
     "en": "The MAUS",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": 1,
@@ -6471,13 +6719,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17910774551343837.webp",
-    "postedAt": 1643636657
+    "postedAt": 1643636657,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17947365760731458",
     "jp": "CARGO",
     "en": "CARGO",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -6497,13 +6746,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17947365760731458.webp",
-    "postedAt": 1643636439
+    "postedAt": 1643636439,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18278897899011708",
     "jp": "The PROM",
     "en": "The PROM",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -6523,13 +6773,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18278897899011708.webp",
-    "postedAt": 1643635478
+    "postedAt": 1643635478,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17918751563091794",
     "jp": "Cam",
     "en": "Cam",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": 2,
@@ -6549,13 +6800,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17918751563091794.webp",
-    "postedAt": 1643387432
+    "postedAt": 1643387432,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17905557005426037",
     "jp": "信義",
     "en": "信義",
-    "year": null,
+    "year": 2012,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -6575,13 +6827,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17905557005426037.webp",
-    "postedAt": 1643368343
+    "postedAt": 1643368343,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17929554352997768",
     "jp": "美男ですね",
     "en": "美男ですね",
-    "year": null,
+    "year": 2009,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -6601,13 +6854,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17929554352997768.webp",
-    "postedAt": 1643368198
+    "postedAt": 1643368198,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17927414585060830",
     "jp": "イタズラなKiss",
     "en": "イタズラなKiss",
-    "year": null,
+    "year": 2010,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -6627,13 +6881,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17927414585060830.webp",
-    "postedAt": 1643368103
+    "postedAt": 1643368103,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17873529935598551",
     "jp": "フルハウス",
     "en": "フルハウス",
-    "year": null,
+    "year": 2004,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -6653,13 +6908,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17873529935598551.webp",
-    "postedAt": 1643368000
+    "postedAt": 1643368000,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17963238448531511",
     "jp": "天国の階段",
     "en": "天国の階段",
-    "year": null,
+    "year": 2003,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -6679,13 +6935,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17963238448531511.webp",
-    "postedAt": 1643367950
+    "postedAt": 1643367950,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17939381164865157",
     "jp": "青い海の伝説",
     "en": "青い海の伝説",
-    "year": null,
+    "year": 2016,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -6705,13 +6962,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17939381164865157.webp",
-    "postedAt": 1643367869
+    "postedAt": 1643367869,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17918132783232428",
     "jp": "ザ・キング",
     "en": "ザ・キング",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -6731,13 +6989,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17918132783232428.webp",
-    "postedAt": 1643367730
+    "postedAt": 1643367730,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18164447029200213",
     "jp": "花より男子",
     "en": "花より男子",
-    "year": null,
+    "year": 2009,
     "format": "series",
     "genre": "other",
     "rating": 5,
@@ -6757,13 +7016,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18164447029200213.webp",
-    "postedAt": 1643367577
+    "postedAt": 1643367577,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17874340739634707",
     "jp": "相続者たち",
     "en": "相続者たち",
-    "year": null,
+    "year": 2013,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -6783,13 +7043,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17874340739634707.webp",
-    "postedAt": 1643367374
+    "postedAt": 1643367374,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17866283069657263",
     "jp": "Story Of My Life",
     "en": "Story Of My Life",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -6809,13 +7070,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17866283069657263.webp",
-    "postedAt": 1643366736
+    "postedAt": 1643366736,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17929821259997122",
     "jp": "Birds Of Prey",
     "en": "Birds Of Prey",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -6835,13 +7097,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17929821259997122.webp",
-    "postedAt": 1643366559
+    "postedAt": 1643366559,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17985650887447640",
     "jp": "Suicide Squad",
     "en": "Suicide Squad",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -6861,13 +7124,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17985650887447640.webp",
-    "postedAt": 1643366316
+    "postedAt": 1643366316,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17919762104179858",
     "jp": "Aladdin",
     "en": "Aladdin",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -6887,13 +7151,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17919762104179858.webp",
-    "postedAt": 1643365067
+    "postedAt": 1643365067,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17937499012788646",
     "jp": "Cinderella",
     "en": "Cinderella",
-    "year": null,
+    "year": 2015,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -6913,13 +7178,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17937499012788646.webp",
-    "postedAt": 1643364977
+    "postedAt": 1643364977,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17928302801013453",
     "jp": "Beauty And The Beast ~French版~",
     "en": "Beauty And The Beast ~French版~",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -6939,13 +7205,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17928302801013453.webp",
-    "postedAt": 1643364910
+    "postedAt": 1643364910,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17958609430580106",
     "jp": "Beauty And The Beast 美女と野獣",
     "en": "Beauty And The Beast 美女と野獣",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -6965,13 +7232,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17958609430580106.webp",
-    "postedAt": 1643364707
+    "postedAt": 1643364707,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18147649399216506",
     "jp": "Alice In Wonderland 2",
     "en": "Alice In Wonderland 2",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -6991,13 +7259,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18147649399216506.webp",
-    "postedAt": 1643364556
+    "postedAt": 1643364556,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17916263966258501",
     "jp": "Alice In Wonderland",
     "en": "Alice In Wonderland",
-    "year": null,
+    "year": 2010,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -7017,13 +7286,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17916263966258501.webp",
-    "postedAt": 1643364398
+    "postedAt": 1643364398,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17936997907768807",
     "jp": "Maleficent",
     "en": "Maleficent",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -7043,13 +7313,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17936997907768807.webp",
-    "postedAt": 1643364258
+    "postedAt": 1643364258,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18020979232358548",
-    "jp": "Snow White 白雪姫",
-    "en": "Snow White 白雪姫",
-    "year": null,
+    "jp": "スノーホワイト",
+    "en": "Snow White and the Huntsman",
+    "year": 2012,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -7069,13 +7340,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18020979232358548.webp",
-    "postedAt": 1643364208
+    "postedAt": 1643364208,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17931744934958402",
     "jp": "Red Riding Hoot 赤ずきん",
     "en": "Red Riding Hoot 赤ずきん",
-    "year": null,
+    "year": 2011,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -7095,13 +7367,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17931744934958402.webp",
-    "postedAt": 1643364133
+    "postedAt": 1643364133,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17957849584526911",
     "jp": "Saw",
     "en": "Saw",
-    "year": null,
+    "year": 2004,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -7121,13 +7394,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17957849584526911.webp",
-    "postedAt": 1643363047
+    "postedAt": 1643363047,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18276092116011174",
     "jp": "GRETEL & HANSEL",
     "en": "GRETEL & HANSEL",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -7147,13 +7421,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18276092116011174.webp",
-    "postedAt": 1643222412
+    "postedAt": 1643222412,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17934448960840806",
     "jp": "Fantasy Island",
     "en": "Fantasy Island",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -7173,13 +7448,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17934448960840806.webp",
-    "postedAt": 1643222277
+    "postedAt": 1643222277,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17959488844577732",
     "jp": "lf anything happens l love you",
     "en": "lf anything happens l love you",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -7199,14 +7475,15 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17959488844577732.webp",
-    "postedAt": 1643222138
+    "postedAt": 1643222138,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18255749524078472",
     "jp": "Hannibal",
     "en": "Hannibal",
-    "year": null,
-    "format": "series",
+    "year": 2001,
+    "format": "film",
     "genre": "horror",
     "rating": null,
     "scare": 2,
@@ -7225,13 +7502,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18255749524078472.webp",
-    "postedAt": 1642887098
+    "postedAt": 1642887098,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17910161228219594",
     "jp": "How l fell in love with gangster",
     "en": "How l fell in love with gangster",
-    "year": null,
+    "year": 2022,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -7251,13 +7529,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17910161228219594.webp",
-    "postedAt": 1642886975
+    "postedAt": 1642886975,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17899396388375926",
     "jp": "The Ritual",
     "en": "The Ritual",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -7277,13 +7556,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17899396388375926.webp",
-    "postedAt": 1642510153
+    "postedAt": 1642510153,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17996086009409567",
     "jp": "HOSTEL",
     "en": "HOSTEL",
-    "year": null,
+    "year": 2005,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -7303,13 +7583,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17996086009409567.webp",
-    "postedAt": 1642510125
+    "postedAt": 1642510125,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17876788565567417",
     "jp": "14PEAKS",
     "en": "14PEAKS",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -7329,13 +7610,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17876788565567417.webp",
-    "postedAt": 1642510081
+    "postedAt": 1642510081,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17907365747274486",
     "jp": "Apostle",
     "en": "Apostle",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -7355,13 +7637,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17907365747274486.webp",
-    "postedAt": 1642510045
+    "postedAt": 1642510045,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17958310366568000",
     "jp": "Everest",
     "en": "Everest",
-    "year": null,
+    "year": 2015,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -7381,13 +7664,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17958310366568000.webp",
-    "postedAt": 1642233182
+    "postedAt": 1642233182,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17925713174033492",
     "jp": "The guilty",
     "en": "The guilty",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -7407,13 +7691,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17925713174033492.webp",
-    "postedAt": 1642232972
+    "postedAt": 1642232972,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17905806128465674",
     "jp": "The unforgivable",
     "en": "The unforgivable",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -7433,13 +7718,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17905806128465674.webp",
-    "postedAt": 1641824703
+    "postedAt": 1641824703,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18021919048323709",
     "jp": "The open house",
     "en": "The open house",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -7459,13 +7745,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18021919048323709.webp",
-    "postedAt": 1641824499
+    "postedAt": 1641824499,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17926084729913365",
     "jp": "The invisible man",
     "en": "The invisible man",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": 3,
@@ -7485,13 +7772,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17926084729913365.webp",
-    "postedAt": 1641755206
+    "postedAt": 1641755206,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18200673403121935",
     "jp": "イカゲーム",
     "en": "イカゲーム",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -7511,13 +7799,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18200673403121935.webp",
-    "postedAt": 1641664150
+    "postedAt": 1641664150,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17908777976349760",
     "jp": "Creep",
     "en": "Creep",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -7537,13 +7826,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17908777976349760.webp",
-    "postedAt": 1641663940
+    "postedAt": 1641663940,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17937461902884622",
     "jp": "Love actually",
     "en": "Love actually",
-    "year": null,
+    "year": 2003,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -7563,13 +7853,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17937461902884622.webp",
-    "postedAt": 1641663846
+    "postedAt": 1641663846,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17953156687554282",
     "jp": "Elves",
     "en": "Elves",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "other",
     "rating": 3,
@@ -7589,13 +7880,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17953156687554282.webp",
-    "postedAt": 1640554585
+    "postedAt": 1640554585,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17907613487225027",
     "jp": "Love Hard",
     "en": "Love Hard",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -7615,13 +7907,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17907613487225027.webp",
-    "postedAt": 1636399535
+    "postedAt": 1636399535,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17899029347470371",
     "jp": "Jailbirds New Orleans",
     "en": "Jailbirds New Orleans",
-    "year": null,
+    "year": 2021,
     "format": "series",
     "genre": "other",
     "rating": null,
@@ -7641,13 +7934,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17899029347470371.webp",
-    "postedAt": 1636386031
+    "postedAt": 1636386031,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17943242086628110",
     "jp": "Jailbirds",
     "en": "Jailbirds",
-    "year": null,
+    "year": 2019,
     "format": "series",
     "genre": "other",
     "rating": null,
@@ -7667,13 +7961,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17943242086628110.webp",
-    "postedAt": 1636385994
+    "postedAt": 1636385994,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17901895256138813",
     "jp": "Britney vs Spears",
     "en": "Britney vs Spears",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -7693,13 +7988,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17901895256138813.webp",
-    "postedAt": 1633110026
+    "postedAt": 1633110026,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17900609156148187",
     "jp": "The Platform",
     "en": "The Platform",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -7719,13 +8015,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17900609156148187.webp",
-    "postedAt": 1632927466
+    "postedAt": 1632927466,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17891874890501239",
     "jp": "Fatherhood",
     "en": "Fatherhood",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -7745,13 +8042,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17891874890501239.webp",
-    "postedAt": 1632680174
+    "postedAt": 1632680174,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17854370372635799",
     "jp": "Marriage Story",
     "en": "Marriage Story",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -7771,13 +8069,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17854370372635799.webp",
-    "postedAt": 1632582063
+    "postedAt": 1632582063,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17910632990085188",
     "jp": "愛の不時着",
     "en": "愛の不時着",
-    "year": null,
+    "year": 2019,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -7797,13 +8096,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17910632990085188.webp",
-    "postedAt": 1632296496
+    "postedAt": 1632296496,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17862694385561895",
     "jp": "Cinderella",
     "en": "Cinderella",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -7823,13 +8123,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17862694385561895.webp",
-    "postedAt": 1631384252
+    "postedAt": 1631384252,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17916121777929439",
     "jp": "Never have l ever",
     "en": "Never have l ever",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -7849,13 +8150,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17916121777929439.webp",
-    "postedAt": 1630346055
+    "postedAt": 1630346055,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18249963685049439",
     "jp": "Titanic",
     "en": "Titanic",
-    "year": null,
+    "year": 1997,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -7875,13 +8177,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18249963685049439.webp",
-    "postedAt": 1630162269
+    "postedAt": 1630162269,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18247598380010601",
     "jp": "ZOMBIELAND",
     "en": "ZOMBIELAND",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -7901,13 +8204,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18247598380010601.webp",
-    "postedAt": 1630162154
+    "postedAt": 1630162154,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18126832615237751",
     "jp": "ANACONDA",
     "en": "ANACONDA",
-    "year": null,
+    "year": 1997,
     "format": "film",
     "genre": "other",
     "rating": 1,
@@ -7927,13 +8231,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18126832615237751.webp",
-    "postedAt": 1630161786
+    "postedAt": 1630161786,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17905938445982556",
     "jp": "Resort to love",
     "en": "Resort to love",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -7953,13 +8258,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17905938445982556.webp",
-    "postedAt": 1628881769
+    "postedAt": 1628881769,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17889022982353087",
     "jp": "The swarm",
     "en": "The swarm",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -7979,13 +8285,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17889022982353087.webp",
-    "postedAt": 1628797309
+    "postedAt": 1628797309,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17904268769089378",
     "jp": "Psycho",
     "en": "Psycho",
-    "year": null,
+    "year": 1960,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8005,13 +8312,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17904268769089378.webp",
-    "postedAt": 1628233425
+    "postedAt": 1628233425,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17912606434932024",
     "jp": "Fuller House",
     "en": "Fuller House",
-    "year": null,
+    "year": 2016,
     "format": "series",
     "genre": "other",
     "rating": 5,
@@ -8031,13 +8339,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17912606434932024.webp",
-    "postedAt": 1628061395
+    "postedAt": 1628061395,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17925666565702373",
     "jp": "Full House",
     "en": "Full House",
-    "year": null,
+    "year": 1987,
     "format": "series",
     "genre": "other",
     "rating": 5,
@@ -8057,13 +8366,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17925666565702373.webp",
-    "postedAt": 1628061277
+    "postedAt": 1628061277,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17881478585439933",
     "jp": "Mother",
     "en": "Mother",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8083,13 +8393,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17881478585439933.webp",
-    "postedAt": 1627455473
+    "postedAt": 1627455473,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17899563746048674",
     "jp": "このサイテーな世界の終わり",
     "en": "このサイテーな世界の終わり",
-    "year": null,
+    "year": 2017,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -8109,13 +8420,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17899563746048674.webp",
-    "postedAt": 1626828141
+    "postedAt": 1626828141,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17934282658579437",
     "jp": "A GHOST STORY",
     "en": "A GHOST STORY",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8135,13 +8447,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17934282658579437.webp",
-    "postedAt": 1626430878
+    "postedAt": 1626430878,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17888943701251430",
     "jp": "Quiet Place Ⅱ",
     "en": "Quiet Place Ⅱ",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8161,13 +8474,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17888943701251430.webp",
-    "postedAt": 1624787000
+    "postedAt": 1624787000,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17872509377424816",
     "jp": "ライトオフ",
     "en": "ライトオフ",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8187,13 +8501,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17872509377424816.webp",
-    "postedAt": 1624531165
+    "postedAt": 1624531165,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17941104337484228",
     "jp": "着信アリ",
     "en": "着信アリ",
-    "year": null,
+    "year": 2003,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8213,13 +8528,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17941104337484228.webp",
-    "postedAt": 1624428124
+    "postedAt": 1624428124,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17928365227611427",
     "jp": "A rainy day in New York",
     "en": "A rainy day in New York",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -8239,13 +8555,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17928365227611427.webp",
-    "postedAt": 1624428052
+    "postedAt": 1624428052,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17945866633491797",
     "jp": "Scary Stories",
     "en": "Scary Stories",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8265,13 +8582,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17945866633491797.webp",
-    "postedAt": 1623380478
+    "postedAt": 1623380478,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17874247208480960",
     "jp": "SILENT Hill",
     "en": "SILENT Hill",
-    "year": null,
+    "year": 2006,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8291,13 +8609,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17874247208480960.webp",
-    "postedAt": 1620492643
+    "postedAt": 1620492643,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17884129271282533",
     "jp": "悪魔のいけにえ",
     "en": "悪魔のいけにえ",
-    "year": null,
+    "year": 1974,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8317,13 +8636,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17884129271282533.webp",
-    "postedAt": 1620492552
+    "postedAt": 1620492552,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17872005320416086",
     "jp": "Crazy Stupid Love",
     "en": "Crazy Stupid Love",
-    "year": null,
+    "year": 2011,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -8343,13 +8663,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17872005320416086.webp",
-    "postedAt": 1620105279
+    "postedAt": 1620105279,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17875001420367014",
     "jp": "闇はささやく",
     "en": "Things Heard & Seen",
-    "year": null,
+    "year": 2021,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8369,13 +8690,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17875001420367014.webp",
-    "postedAt": 1619846650
+    "postedAt": 1619846650,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17978575915363349",
     "jp": "The vvitch",
     "en": "The vvitch",
-    "year": null,
+    "year": 2015,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8395,13 +8717,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17978575915363349.webp",
-    "postedAt": 1617002269
+    "postedAt": 1617002269,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17910142318728647",
     "jp": "17 again",
     "en": "17 again",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -8421,13 +8744,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17910142318728647.webp",
-    "postedAt": 1616922313
+    "postedAt": 1616922313,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17926027324543509",
     "jp": "Pet Sematary",
     "en": "Pet Sematary",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8447,13 +8771,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17926027324543509.webp",
-    "postedAt": 1616819957
+    "postedAt": 1616819957,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17875526402197223",
     "jp": "HUSH",
     "en": "HUSH",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8473,13 +8798,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17875526402197223.webp",
-    "postedAt": 1616560102
+    "postedAt": 1616560102,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17884641050118036",
     "jp": "The Call",
     "en": "The Call",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8499,13 +8825,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17884641050118036.webp",
-    "postedAt": 1616399802
+    "postedAt": 1616399802,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17865201458349246",
     "jp": "ザ・ホーンティング・オブ・ブライマナー",
     "en": "The Haunting of Bly Manor",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "horror",
     "rating": null,
@@ -8525,13 +8852,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17865201458349246.webp",
-    "postedAt": 1616368489
+    "postedAt": 1616368489,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18144859228151201",
     "jp": "ジェーンドウの解剖",
     "en": "ジェーンドウの解剖",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": 4,
@@ -8551,13 +8879,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18144859228151201.webp",
-    "postedAt": 1616306672
+    "postedAt": 1616306672,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17854846028517259",
     "jp": "love rosie",
     "en": "love rosie",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -8577,13 +8906,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17854846028517259.webp",
-    "postedAt": 1616250157
+    "postedAt": 1616250157,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17875156994197396",
     "jp": "About Time",
     "en": "About Time",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -8603,13 +8933,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17875156994197396.webp",
-    "postedAt": 1616250029
+    "postedAt": 1616250029,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17920924147577233",
     "jp": "Grave Encounters",
     "en": "Grave Encounters",
-    "year": null,
+    "year": 2011,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8629,13 +8960,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17920924147577233.webp",
-    "postedAt": 1616231042
+    "postedAt": 1616231042,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17937953656468450",
     "jp": "searching",
     "en": "searching",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -8655,13 +8987,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17937953656468450.webp",
-    "postedAt": 1616078392
+    "postedAt": 1616078392,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17855004269496006",
     "jp": "Door Lock",
     "en": "Door Lock",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8681,13 +9014,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17855004269496006.webp",
-    "postedAt": 1616046159
+    "postedAt": 1616046159,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17897747251880762",
     "jp": "きみに読む物語",
     "en": "きみに読む物語",
-    "year": null,
+    "year": 2004,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -8707,13 +9041,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17897747251880762.webp",
-    "postedAt": 1615982314
+    "postedAt": 1615982314,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17904995155663926",
     "jp": "ヘレディタリー",
     "en": "ヘレディタリー",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8733,13 +9068,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17904995155663926.webp",
-    "postedAt": 1611559376
+    "postedAt": 1611559376,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18176414899065624",
     "jp": "13の理由",
     "en": "13の理由",
-    "year": null,
+    "year": 2017,
     "format": "series",
     "genre": "other",
     "rating": 5,
@@ -8759,13 +9095,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18176414899065624.webp",
-    "postedAt": 1610370005
+    "postedAt": 1610370005,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17868084704128937",
     "jp": "ザ･プロム",
     "en": "ザ･プロム",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -8785,13 +9122,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17868084704128937.webp",
-    "postedAt": 1608118631
+    "postedAt": 1608118631,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17872332098060887",
     "jp": "ミッドサマー",
     "en": "ミッドサマー",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8811,13 +9149,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17872332098060887.webp",
-    "postedAt": 1608084649
+    "postedAt": 1608084649,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17912836390521183",
     "jp": "ムカデ人間",
     "en": "The Human Centipede",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -8837,13 +9176,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17912836390521183.webp",
-    "postedAt": 1608002299
+    "postedAt": 1608002299,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17850983510461157",
     "jp": "アフター",
     "en": "After",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "other",
     "rating": 2,
@@ -8863,13 +9203,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17850983510461157.webp",
-    "postedAt": 1608002120
+    "postedAt": 1608002120,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17859551996327939",
     "jp": "世界一キライなあなたに",
     "en": "世界一キライなあなたに",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -8889,13 +9230,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17859551996327939.webp",
-    "postedAt": 1607768291
+    "postedAt": 1607768291,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17972758384330479",
     "jp": "レディオアノット",
     "en": "レディオアノット",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8915,13 +9257,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17972758384330479.webp",
-    "postedAt": 1604885592
+    "postedAt": 1604885592,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18169536154011817",
     "jp": "バードボックス",
     "en": "バードボックス",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8941,13 +9284,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18169536154011817.webp",
-    "postedAt": 1603101329
+    "postedAt": 1603101329,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17970474331324315",
     "jp": "テイル・フロム・ダーク1：迷離夜",
     "en": "Tales from the Dark 1",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -8967,13 +9311,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17970474331324315.webp",
-    "postedAt": 1600239987
+    "postedAt": 1600239987,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17849748608307471",
     "jp": "クェダム",
     "en": "クェダム",
-    "year": null,
+    "year": 2020,
     "format": "series",
     "genre": "horror",
     "rating": null,
@@ -8993,13 +9338,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17849748608307471.webp",
-    "postedAt": 1600239922
+    "postedAt": 1600239922,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17842404725398253",
     "jp": "世にもおぞましい物語",
     "en": "世にもおぞましい物語",
-    "year": null,
+    "year": 2019,
     "format": "series",
     "genre": "horror",
     "rating": null,
@@ -9019,13 +9365,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17842404725398253.webp",
-    "postedAt": 1600239852
+    "postedAt": 1600239852,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17880688756773928",
     "jp": "キャリー",
     "en": "キャリー",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9045,13 +9392,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17880688756773928.webp",
-    "postedAt": 1599127645
+    "postedAt": 1599127645,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17848861964319372",
     "jp": "呪われの橋",
     "en": "呪われの橋",
-    "year": null,
+    "year": 2020,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9071,13 +9419,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17848861964319372.webp",
-    "postedAt": 1599049861
+    "postedAt": 1599049861,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18046125172249740",
     "jp": "スレンダーマン",
     "en": "スレンダーマン",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9097,13 +9446,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18046125172249740.webp",
-    "postedAt": 1597054534
+    "postedAt": 1597054534,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18140665447077599",
     "jp": "死霊館 エンフィールド事件",
     "en": "死霊館 エンフィールド事件",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9123,13 +9473,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18140665447077599.webp",
-    "postedAt": 1596871097
+    "postedAt": 1596871097,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17883303247667853",
     "jp": "バイバイマン",
     "en": "バイバイマン",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9149,13 +9500,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17883303247667853.webp",
-    "postedAt": 1596442635
+    "postedAt": 1596442635,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18040296700269220",
     "jp": "エクソシスト",
     "en": "エクソシスト",
-    "year": null,
+    "year": 1973,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9175,13 +9527,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18040296700269220.webp",
-    "postedAt": 1596428561
+    "postedAt": 1596428561,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17881679554688396",
     "jp": "地獄少女",
     "en": "地獄少女",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9201,13 +9554,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17881679554688396.webp",
-    "postedAt": 1595386940
+    "postedAt": 1595386940,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17872714129838823",
     "jp": "ドクムシ",
     "en": "ドクムシ",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9227,13 +9581,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17872714129838823.webp",
-    "postedAt": 1595386869
+    "postedAt": 1595386869,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17898827935517773",
     "jp": "クロユリ団地",
     "en": "クロユリ団地",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9253,13 +9608,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17898827935517773.webp",
-    "postedAt": 1595386830
+    "postedAt": 1595386830,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17865010984930560",
     "jp": "トリハダ",
     "en": "トリハダ",
-    "year": null,
+    "year": 2012,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9279,13 +9635,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17865010984930560.webp",
-    "postedAt": 1595386773
+    "postedAt": 1595386773,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17849325728205372",
     "jp": "テケテケ",
     "en": "テケテケ",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9305,13 +9662,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17849325728205372.webp",
-    "postedAt": 1595386708
+    "postedAt": 1595386708,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17908918738469678",
     "jp": "僕の初恋をキミに捧ぐ",
     "en": "僕の初恋をキミに捧ぐ",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -9331,13 +9689,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17908918738469678.webp",
-    "postedAt": 1595386658
+    "postedAt": 1595386658,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18156978868011821",
     "jp": "ライフ・イズ・ビューティフル",
     "en": "ライフ・イズ・ビューティフル",
-    "year": null,
+    "year": 1997,
     "format": "film",
     "genre": "other",
     "rating": null,
@@ -9357,13 +9716,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18156978868011821.webp",
-    "postedAt": 1595386610
+    "postedAt": 1595386610,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17943403219371671",
     "jp": "このサイテーな世界の終わり",
     "en": "このサイテーな世界の終わり",
-    "year": null,
+    "year": 2017,
     "format": "series",
     "genre": "other",
     "rating": 4,
@@ -9383,13 +9743,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17943403219371671.webp",
-    "postedAt": 1595386504
+    "postedAt": 1595386504,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17879655745709992",
     "jp": "恋空",
     "en": "恋空",
-    "year": null,
+    "year": 2007,
     "format": "film",
     "genre": "other",
     "rating": 3,
@@ -9409,13 +9770,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17879655745709992.webp",
-    "postedAt": 1595385689
+    "postedAt": 1595385689,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17956711762339489",
     "jp": "きっとうまくいく",
     "en": "きっとうまくいく",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -9435,13 +9797,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17956711762339489.webp",
-    "postedAt": 1595385629
+    "postedAt": 1595385629,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18112500295093976",
     "jp": "イエスマン",
     "en": "イエスマン",
-    "year": null,
+    "year": 2008,
     "format": "film",
     "genre": "other",
     "rating": 5,
@@ -9461,13 +9824,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18112500295093976.webp",
-    "postedAt": 1595385521
+    "postedAt": 1595385521,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17892687469567669",
     "jp": "何がジェーンに起こったか？",
     "en": "何がジェーンに起こったか？",
-    "year": null,
+    "year": 1962,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9487,13 +9851,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17892687469567669.webp",
-    "postedAt": 1595385421
+    "postedAt": 1595385421,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17845216862292766",
     "jp": "アンフレンデッド",
     "en": "アンフレンデッド",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9513,13 +9878,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17845216862292766.webp",
-    "postedAt": 1595385342
+    "postedAt": 1595385342,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18108928111176550",
     "jp": "七番房の奇跡",
     "en": "七番房の奇跡",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -9539,13 +9905,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18108928111176550.webp",
-    "postedAt": 1595385287
+    "postedAt": 1595385287,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17846261312273615",
     "jp": "ドント・ブリーズ",
     "en": "ドント・ブリーズ",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9565,13 +9932,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17846261312273615.webp",
-    "postedAt": 1595385218
+    "postedAt": 1595385218,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17870307892868139",
     "jp": "レオン",
     "en": "レオン",
-    "year": null,
+    "year": 1994,
     "format": "film",
     "genre": "other",
     "rating": 4,
@@ -9591,13 +9959,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17870307892868139.webp",
-    "postedAt": 1595385150
+    "postedAt": 1595385150,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17884609732637681",
     "jp": "LUCY",
     "en": "LUCY",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9617,13 +9986,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17884609732637681.webp",
-    "postedAt": 1595385075
+    "postedAt": 1595385075,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17862365534007187",
     "jp": "ミスミソウ",
     "en": "ミスミソウ",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9643,13 +10013,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17862365534007187.webp",
-    "postedAt": 1595384895
+    "postedAt": 1595384895,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17923904077422171",
     "jp": "シックスセンス",
     "en": "シックスセンス",
-    "year": null,
+    "year": 1999,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9669,13 +10040,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17923904077422171.webp",
-    "postedAt": 1595304930
+    "postedAt": 1595304930,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18037761880264848",
     "jp": "ゴーストバスターズ",
     "en": "ゴーストバスターズ",
-    "year": null,
+    "year": 1984,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9695,13 +10067,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18037761880264848.webp",
-    "postedAt": 1595295626
+    "postedAt": 1595295626,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18073590301211981",
     "jp": "ヴィレッジ",
     "en": "ヴィレッジ",
-    "year": null,
+    "year": 2004,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9721,13 +10094,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18073590301211981.webp",
-    "postedAt": 1595295580
+    "postedAt": 1595295580,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17865483697943889",
     "jp": "イット･フォローズ",
     "en": "イット･フォローズ",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9747,13 +10121,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17865483697943889.webp",
-    "postedAt": 1595295539
+    "postedAt": 1595295539,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17878849066733747",
     "jp": "ザ･ボーイ",
     "en": "ザ･ボーイ",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9773,13 +10148,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17878849066733747.webp",
-    "postedAt": 1595295441
+    "postedAt": 1595295441,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17863996243971052",
     "jp": "ブレア・ウィッチ・プロジェクト",
     "en": "ブレア・ウィッチ・プロジェクト",
-    "year": null,
+    "year": 1999,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9799,13 +10175,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17863996243971052.webp",
-    "postedAt": 1595295358
+    "postedAt": 1595295358,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17860021067051621",
     "jp": "ハッピーデスデイ2",
     "en": "ハッピーデスデイ2",
-    "year": null,
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9825,13 +10202,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17860021067051621.webp",
-    "postedAt": 1595295273
+    "postedAt": 1595295273,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17848565537219266",
     "jp": "ネオンデーモン",
     "en": "ネオンデーモン",
-    "year": null,
+    "year": 2016,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9851,13 +10229,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17848565537219266.webp",
-    "postedAt": 1595295197
+    "postedAt": 1595295197,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17881176694712844",
     "jp": "ザ・リング",
     "en": "ザ・リング",
-    "year": null,
+    "year": 2002,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9877,13 +10256,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17881176694712844.webp",
-    "postedAt": 1595295110
+    "postedAt": 1595295110,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18077434027204606",
     "jp": "コンジアム",
     "en": "コンジアム",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9903,13 +10283,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18077434027204606.webp",
-    "postedAt": 1595295057
+    "postedAt": 1595295057,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17894368486544828",
     "jp": "サスペリア",
     "en": "サスペリア",
-    "year": null,
+    "year": 1977,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9929,13 +10310,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17894368486544828.webp",
-    "postedAt": 1595294989
+    "postedAt": 1595294989,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17965890991315288",
     "jp": "クワイエットプレイス",
     "en": "クワイエットプレイス",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9955,13 +10337,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17965890991315288.webp",
-    "postedAt": 1595294941
+    "postedAt": 1595294941,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17886711763617836",
     "jp": "ハッピーデスデイ",
     "en": "ハッピーデスデイ",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -9981,13 +10364,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17886711763617836.webp",
-    "postedAt": 1595294901
+    "postedAt": 1595294901,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17884578775629069",
     "jp": "スクリーム",
     "en": "スクリーム",
-    "year": null,
+    "year": 1996,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10007,13 +10391,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17884578775629069.webp",
-    "postedAt": 1595294843
+    "postedAt": 1595294843,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17855855579105599",
-    "jp": "IT",
-    "en": "IT",
-    "year": null,
+    "jp": "IT／イット THE END “それ”が見えたら、終わり。",
+    "en": "It Chapter Two",
+    "year": 2019,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10033,13 +10418,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17855855579105599.webp",
-    "postedAt": 1595294787
+    "postedAt": 1595294787,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17864144506972011",
     "jp": "13日の金曜日",
     "en": "13日の金曜日",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10059,13 +10445,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17864144506972011.webp",
-    "postedAt": 1595294634
+    "postedAt": 1595294634,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17855025860119691",
     "jp": "チャイルド・プレイ",
     "en": "チャイルド・プレイ",
-    "year": null,
+    "year": 1988,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10085,13 +10472,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17855025860119691.webp",
-    "postedAt": 1595294570
+    "postedAt": 1595294570,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18152776849015155",
     "jp": "海底47m",
     "en": "海底47m",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10111,13 +10499,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18152776849015155.webp",
-    "postedAt": 1595294508
+    "postedAt": 1595294508,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17843506007307349",
     "jp": "エクリプス",
     "en": "エクリプス",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10137,13 +10526,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17843506007307349.webp",
-    "postedAt": 1595294422
+    "postedAt": 1595294422,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17872138231821273",
     "jp": "アメリカンホラーストーリー〜精神科病棟〜",
     "en": "アメリカンホラーストーリー〜精神科病棟〜",
-    "year": null,
+    "year": 2012,
     "format": "series",
     "genre": "horror",
     "rating": null,
@@ -10163,13 +10553,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17872138231821273.webp",
-    "postedAt": 1595293621
+    "postedAt": 1595293621,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18137653540075091",
     "jp": "アメリカンホラーストーリー〜呪いの館〜",
     "en": "アメリカンホラーストーリー〜呪いの館〜",
-    "year": null,
+    "year": 2011,
     "format": "series",
     "genre": "horror",
     "rating": null,
@@ -10189,13 +10580,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18137653540075091.webp",
-    "postedAt": 1595293536
+    "postedAt": 1595293536,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17881542448684385",
     "jp": "ウィンチェスターハウス",
     "en": "ウィンチェスターハウス",
-    "year": null,
+    "year": 2018,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10215,13 +10607,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17881542448684385.webp",
-    "postedAt": 1595293274
+    "postedAt": 1595293274,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17860471898031293",
     "jp": "エルム街の悪夢",
     "en": "エルム街の悪夢",
-    "year": null,
+    "year": 1984,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10241,13 +10634,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17860471898031293.webp",
-    "postedAt": 1595287224
+    "postedAt": 1595287224,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18002532856289562",
     "jp": "The Shining",
     "en": "The Shining",
-    "year": null,
+    "year": 1980,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10267,13 +10661,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18002532856289562.webp",
-    "postedAt": 1595287141
+    "postedAt": 1595287141,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17869112980896039",
     "jp": "ミスト",
     "en": "ミスト",
-    "year": null,
+    "year": 2007,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10293,13 +10688,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17869112980896039.webp",
-    "postedAt": 1595287078
+    "postedAt": 1595287078,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18110203003151873",
     "jp": "リアル鬼ごっこ",
     "en": "リアル鬼ごっこ",
-    "year": null,
+    "year": 2015,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10319,13 +10715,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18110203003151873.webp",
-    "postedAt": 1595287004
+    "postedAt": 1595287004,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17854031192136731",
     "jp": "神様の言う通り",
     "en": "神様の言う通り",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10345,13 +10742,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17854031192136731.webp",
-    "postedAt": 1595286956
+    "postedAt": 1595286956,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17927645755399307",
     "jp": "インシディアス",
     "en": "インシディアス",
-    "year": null,
+    "year": 2010,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10371,13 +10769,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17927645755399307.webp",
-    "postedAt": 1595286893
+    "postedAt": 1595286893,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17859105581033166",
     "jp": "呪怨",
     "en": "呪怨",
-    "year": null,
+    "year": 2002,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10397,13 +10796,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17859105581033166.webp",
-    "postedAt": 1595286784
+    "postedAt": 1595286784,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17858594363065244",
     "jp": "CABIN",
     "en": "CABIN",
-    "year": null,
+    "year": 2011,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10423,13 +10823,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17858594363065244.webp",
-    "postedAt": 1595286731
+    "postedAt": 1595286731,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17917852852439892",
     "jp": "死霊館❤",
     "en": "死霊館❤",
-    "year": null,
+    "year": 2013,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10449,13 +10850,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17917852852439892.webp",
-    "postedAt": 1595286660
+    "postedAt": 1595286660,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18044526553251802",
     "jp": "GETOUT",
     "en": "GETOUT",
-    "year": null,
+    "year": 2017,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10475,13 +10877,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18044526553251802.webp",
-    "postedAt": 1595286576
+    "postedAt": 1595286576,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-17887882387614175",
     "jp": "エスター",
     "en": "Orphan",
-    "year": null,
+    "year": 2009,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10501,13 +10904,14 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-17887882387614175.webp",
-    "postedAt": 1595286505
+    "postedAt": 1595286505,
+    "yearBasis": "original-release"
   },
   {
     "id": "ig-18077239573207940",
     "jp": "ANNABELLE",
     "en": "ANNABELLE",
-    "year": null,
+    "year": 2014,
     "format": "film",
     "genre": "horror",
     "rating": null,
@@ -10527,6 +10931,7 @@
     "sourceLabel": "",
     "sourceUrl": "",
     "posterUrl": "./posters/ig-18077239573207940.webp",
-    "postedAt": 1595285804
+    "postedAt": 1595285804,
+    "yearBasis": "original-release"
   }
 ]
