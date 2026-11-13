@@ -1,0 +1,117 @@
+[
+  {
+    "id": "psychological",
+    "ja": "心理スリラー",
+    "en": "Psychological"
+  },
+  {
+    "id": "mystery",
+    "ja": "ミステリー",
+    "en": "Mystery"
+  },
+  {
+    "id": "survival",
+    "ja": "サバイバル",
+    "en": "Survival"
+  },
+  {
+    "id": "supernatural",
+    "ja": "心霊・超常現象",
+    "en": "Supernatural"
+  },
+  {
+    "id": "crime",
+    "ja": "犯罪・サイコ",
+    "en": "Crime & killers"
+  },
+  {
+    "id": "romance",
+    "ja": "恋愛",
+    "en": "Romance"
+  },
+  {
+    "id": "comedy",
+    "ja": "コメディ",
+    "en": "Comedy"
+  },
+  {
+    "id": "scifi",
+    "ja": "SF",
+    "en": "Sci-fi"
+  },
+  {
+    "id": "creature",
+    "ja": "巨大生物・モンスター",
+    "en": "Creatures"
+  },
+  {
+    "id": "disaster",
+    "ja": "災害・パニック",
+    "en": "Disaster"
+  },
+  {
+    "id": "slasher",
+    "ja": "スラッシャー",
+    "en": "Slashers"
+  },
+  {
+    "id": "possession",
+    "ja": "悪魔・悪魔祓い",
+    "en": "Demons & exorcisms"
+  },
+  {
+    "id": "vampire",
+    "ja": "吸血鬼",
+    "en": "Vampires"
+  },
+  {
+    "id": "zombie",
+    "ja": "感染・ゾンビ",
+    "en": "Infection & zombies"
+  },
+  {
+    "id": "doll",
+    "ja": "人形ホラー",
+    "en": "Creepy dolls"
+  },
+  {
+    "id": "village",
+    "ja": "村・閉鎖社会",
+    "en": "Folk & isolated communities"
+  },
+  {
+    "id": "body",
+    "ja": "ボディホラー",
+    "en": "Body horror"
+  },
+  {
+    "id": "trapped",
+    "ja": "密室・脱出",
+    "en": "Trapped"
+  },
+  {
+    "id": "teen",
+    "ja": "ティーン",
+    "en": "Teen drama"
+  },
+  {
+    "id": "documentary",
+    "ja": "ドキュメンタリー",
+    "en": "Documentary"
+  },
+  {
+    "id": "truecrime",
+    "ja": "実録犯罪",
+    "en": "True crime"
+  },
+  {
+    "id": "heartwarming",
+    "ja": "心温まる",
+    "en": "Heartwarming"
+  },
+  {
+    "id": "darkcomedy",
+    "ja": "ブラックコメディ",
+    "en": "Dark comedy"
+  }
+]

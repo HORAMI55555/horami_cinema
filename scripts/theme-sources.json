@@ -1,0 +1,10 @@
+{
+  "checked": "2026-11-13",
+  "order": "Editorial discovery order, NOT measured search popularity",
+  "sources": [
+    "https://www.netflix.com/jp/browse/genre/8711",
+    "https://www.netflix.com/jp/browse/genre/8933",
+    "https://www.netflix.com/jp/browse/genre/9994"
+  ],
+  "notes": "Netflix genre pages do not provide search-volume rankings. Curated theme membership uses known premises; no inferred low-gore or ending-spoiler tags."
+}

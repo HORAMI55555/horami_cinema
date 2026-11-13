@@ -1,7 +1,8 @@
 {
   "fall-2022": {
     "tags": [
-      "survival"
+      "survival",
+      "trapped"
     ],
     "region": "JP",
     "checkedAt": "2026-11-13",
@@ -19,12 +20,22 @@
   },
   "ig-18134693455677376": {
     "tags": [
+      "body",
       "supernatural"
     ]
   },
   "ig-18093564194134759": {
     "tags": [
+      "disaster",
       "survival"
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-13",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/jp/title/81640070"
+      }
     ]
   },
   "ig-17945557992235078": {
@@ -39,11 +50,14 @@
   },
   "ig-18067070381436280": {
     "tags": [
-      "creature"
+      "comedy",
+      "creature",
+      "darkcomedy"
     ]
   },
   "ig-18067623959447489": {
     "tags": [
+      "disaster",
       "survival"
     ]
   },
@@ -54,11 +68,13 @@
   },
   "ig-17886343752577400": {
     "tags": [
+      "mystery",
       "psychological"
     ]
   },
   "ig-17923980963145468": {
     "tags": [
+      "crime",
       "psychological"
     ]
   },
@@ -79,11 +95,13 @@
   },
   "ig-18469897498106583": {
     "tags": [
+      "possession",
       "supernatural"
     ]
   },
   "ig-17989889924813103": {
     "tags": [
+      "possession",
       "supernatural"
     ]
   },
@@ -94,6 +112,7 @@
   },
   "ig-17992785638998337": {
     "tags": [
+      "body",
       "creature"
     ]
   },
@@ -109,7 +128,8 @@
   },
   "ig-17933327934312277": {
     "tags": [
-      "creature"
+      "creature",
+      "scifi"
     ]
   },
   "ig-18370153597224869": {
@@ -129,21 +149,25 @@
   },
   "ig-18106817071996265": {
     "tags": [
-      "creature"
+      "creature",
+      "vampire"
     ]
   },
   "ig-18079421159225767": {
     "tags": [
+      "doll",
       "supernatural"
     ]
   },
   "ig-18062442617108004": {
     "tags": [
+      "possession",
       "supernatural"
     ]
   },
   "ig-18128849494442397": {
     "tags": [
+      "possession",
       "village"
     ]
   },
@@ -154,6 +178,7 @@
   },
   "ig-18055056626483416": {
     "tags": [
+      "mystery",
       "psychological"
     ]
   },
@@ -169,7 +194,8 @@
   },
   "ig-18010323329695455": {
     "tags": [
-      "survival"
+      "survival",
+      "zombie"
     ]
   },
   "ig-18055419137488560": {
@@ -185,6 +211,9 @@
         "name": "U-NEXT",
         "url": "https://video.unext.jp/title/SID0285893"
       }
+    ],
+    "tags": [
+      "teen"
     ]
   },
   "apple-cider-vinegar-2025": {
@@ -195,6 +224,181 @@
         "name": "Netflix",
         "url": "https://www.netflix.com/jp/title/81637595"
       }
+    ]
+  },
+  "ig-17909121513460027": {
+    "region": "JP",
+    "checkedAt": "2026-11-13",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/jp/title/81346727"
+      }
+    ],
+    "tags": [
+      "heartwarming",
+      "romance"
+    ]
+  },
+  "ig-18113557048973766": {
+    "region": "JP",
+    "checkedAt": "2026-11-13",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/jp/title/81587828"
+      }
+    ],
+    "tags": [
+      "documentary"
+    ]
+  },
+  "ig-17957067827779230": {
+    "tags": [
+      "mystery"
+    ]
+  },
+  "ig-17891214174173283": {
+    "tags": [
+      "mystery"
+    ]
+  },
+  "ig-18104091919967463": {
+    "tags": [
+      "crime"
+    ]
+  },
+  "ig-18107025608074458": {
+    "tags": [
+      "crime"
+    ]
+  },
+  "ig-17899342956135093": {
+    "tags": [
+      "crime",
+      "documentary",
+      "truecrime"
+    ]
+  },
+  "ig-18348341479173281": {
+    "tags": [
+      "romance"
+    ]
+  },
+  "ig-17849687520397590": {
+    "tags": [
+      "romance"
+    ]
+  },
+  "ig-17866006860317144": {
+    "tags": [
+      "romance"
+    ]
+  },
+  "ig-18146268793368183": {
+    "tags": [
+      "romance"
+    ]
+  },
+  "ig-17888646405563068": {
+    "tags": [
+      "comedy"
+    ]
+  },
+  "ig-18131370565609130": {
+    "tags": [
+      "comedy",
+      "darkcomedy",
+      "vampire"
+    ]
+  },
+  "ig-18063444364807549": {
+    "tags": [
+      "comedy"
+    ]
+  },
+  "ig-18594718972050636": {
+    "tags": [
+      "scifi"
+    ]
+  },
+  "ig-17983592918910362": {
+    "tags": [
+      "doll",
+      "scifi"
+    ]
+  },
+  "ig-18049562015254354": {
+    "tags": [
+      "scifi"
+    ]
+  },
+  "ig-17971479794698957": {
+    "tags": [
+      "scifi",
+      "trapped",
+      "village"
+    ]
+  },
+  "ig-17992643946097651": {
+    "tags": [
+      "slasher"
+    ]
+  },
+  "ig-18101540420266265": {
+    "tags": [
+      "slasher"
+    ]
+  },
+  "ig-18008715764736192": {
+    "tags": [
+      "slasher"
+    ]
+  },
+  "ig-18121170379689887": {
+    "tags": [
+      "body"
+    ]
+  },
+  "ig-18144287215522785": {
+    "tags": [
+      "trapped"
+    ]
+  },
+  "ig-18036754457802112": {
+    "tags": [
+      "teen"
+    ]
+  },
+  "ig-18084781141725193": {
+    "tags": [
+      "teen"
+    ]
+  },
+  "ig-18054519098105068": {
+    "tags": [
+      "teen"
+    ]
+  },
+  "ig-17861398926480604": {
+    "tags": [
+      "documentary",
+      "truecrime"
+    ]
+  },
+  "ig-18162018745457947": {
+    "tags": [
+      "heartwarming"
+    ]
+  },
+  "ig-18343222609217487": {
+    "tags": [
+      "heartwarming"
+    ]
+  },
+  "ig-18065187622854614": {
+    "tags": [
+      "darkcomedy"
     ]
   }
 }

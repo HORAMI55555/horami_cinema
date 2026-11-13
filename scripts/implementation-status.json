@@ -1,11 +1,10 @@
 {
   "date": "2026-11-13",
-  "reviews": 405,
-  "vodVerified": 3,
-  "vodPending": 402,
-  "vodQueue": "scripts/vod-pending.json",
-  "englishReviewsComplete": 93,
-  "englishReviewsPending": 312,
-  "browserVisualQA": "blocked by browser URL policy; code and static validation passed",
-  "deployment": "not deployed; deliverable is an update package"
+  "release": "gacha6",
+  "verifiedProviderPosts": 6,
+  "remainingProviderPosts": 399,
+  "themeOptions": 23,
+  "themeOrder": "editorial, not measured search popularity",
+  "visualQA": "browser access unavailable; logic and static checks passed",
+  "deployment": "user uploads ZIP to existing GitHub repository"
 }
