@@ -124,3 +124,21 @@ body:not(.editor-page){padding-top:8px}.site-header{min-height:52px!important;pa
   mask-image:linear-gradient(to bottom,transparent 66%,#000 72%);
  }
 }
+/* V11: mobile signature, matched capsule machines and explicit mode switch. */
+@media(max-width:600px){
+ .journal-intro .glass-wordmark{width:min(348px,92.4%)!important;margin:16px auto 0!important;}
+}
+.gacha-mode-toolbar{display:flex;justify-content:flex-end;margin:0 0 8px;}
+#gacha-mode{font:600 12px/1.5 'DM Sans','Noto Sans JP',sans-serif;color:#564568;border:1px solid #c7b9df;background:linear-gradient(120deg,#fff9,#e4d9f9dd);padding:9px 16px;border-radius:24px;cursor:pointer;box-shadow:0 3px 15px #82729b18;}
+#gacha-mode:focus-visible{outline:2px solid #63517a;outline-offset:3px;}
+#gacha-mode:disabled{opacity:.6;cursor:wait;}
+.gacha-art{width:100%;max-width:100%;margin:0;display:block;}
+.gacha-crank{left:47%;top:69%;}
+.gacha-capsule{left:47%;}
+.horror-gacha .gacha-crank{left:46%;top:63%;}
+.horror-gacha .gacha-capsule{left:46%;}
+.gacha-link,#gacha-draw,.gacha-heading h1{font-family:'DM Sans','Noto Sans JP',sans-serif;font-variant-numeric:lining-nums;}
+/* Set the poster into the lid, with the lip of the chest in front. */
+.jewel-display .jewel-poster-frame{width:29%;top:44%;border:1px solid #ffffff85;border-radius:3px;background:#e0ffff14;box-shadow:0 3px 9px #477e8022;transform:translate(-50%,-50%) perspective(700px) rotateY(-5deg) rotate(-1deg);}
+.modal-banner .jewel-poster-frame img{opacity:.77;border-radius:2px;filter:saturate(.8) contrast(.9) brightness(1.09);}
+@media(max-width:720px){.jewel-display .jewel-poster-frame{width:36%;top:44%;}}
