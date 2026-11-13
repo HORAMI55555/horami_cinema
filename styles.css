@@ -96,3 +96,31 @@ body:not(.editor-page){padding-top:8px}.site-header{min-height:52px!important;pa
  .jewel-display .jewel-poster-frame{width:40%;top:42%;border-width:4px;border-radius:12px}
  .modal-banner .jewel-poster-frame img{border-radius:8px}
 }
+/* V10: glass-mounted artwork inside the chest, with jewels in front. */
+.jewel-display .jewel-poster-frame{
+ border-width:2px;border-radius:8px;
+ background:linear-gradient(135deg,#effffb35,#d2eeed12) padding-box,linear-gradient(120deg,#ffffffc9,#b8dfdf55,#ffffffb3) border-box;
+ box-shadow:0 4px 10px #4a919b20,0 0 12px #ffffff66;
+}
+.modal-banner .jewel-poster-frame img{
+ opacity:.88;filter:saturate(.86) contrast(.96) brightness(1.04);border-radius:5px;
+}
+.jewel-poster-frame::after{
+ content:'';position:absolute;inset:0;border-radius:5px;pointer-events:none;
+ background:linear-gradient(118deg,#ffffff29 0%,#e5ffff0a 32%,#ffffff40 39%,#fff0 46%,#dcfcff0b 74%,#ffffff29 100%);
+ box-shadow:inset 0 0 10px #e9ffff45,inset 1px 1px 2px #ffffffb3;
+}
+.modal-banner.jewel-display::after{
+ content:'';position:absolute;inset:0;z-index:3;pointer-events:none;
+ background:inherit;border-radius:inherit;
+ -webkit-mask-image:linear-gradient(to bottom,transparent 61%,#000 66%);
+ mask-image:linear-gradient(to bottom,transparent 61%,#000 66%);
+}
+@media(min-width:721px){
+ .modal-banner.jewel-display{aspect-ratio:1.85;}
+ .jewel-display .jewel-poster-frame{width:32%;top:44%;}
+ .modal-banner.jewel-display::after{
+  -webkit-mask-image:linear-gradient(to bottom,transparent 66%,#000 72%);
+  mask-image:linear-gradient(to bottom,transparent 66%,#000 72%);
+ }
+}
