@@ -1,0 +1,12 @@
+.gacha-page .gacha-main{max-width:980px;padding-top:10px;}
+.gacha-page .gacha-stage{width:min(360px,100%);margin:0 auto;border-radius:24px;overflow:hidden;box-shadow:0 8px 35px #66a9b54d;border:1px solid #fff9;}
+.gacha-page .gacha-art{display:block;width:100%;height:auto;max-width:100%;margin:0;object-fit:contain;}
+.gacha-page .gacha-crank,.gacha-page.horror-gacha .gacha-crank{left:50%;top:67%;width:17%;height:8%;}
+.gacha-page .gacha-capsule,.gacha-page.horror-gacha .gacha-capsule{left:50%;top:81%;}
+.gacha-page .gacha-heading{margin:3px 0 13px;}.gacha-page .gacha-heading h1{font-size:30px;}
+.gacha-page .gacha-action{margin-top:13px;}
+.gacha-share-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:18px;}
+.gacha-share-actions button{padding:9px 17px;border:1px solid #fff;border-radius:24px;background:linear-gradient(125deg,#efffffd9,#b9ebe5b3);color:#265f65;}
+#gacha-share-status{font-size:12px;text-align:center;}
+@media(min-width:721px){.gacha-page .gacha-stage{width:min(310px,100%);}}
+@media(max-width:720px){.gacha-page .gacha-main{padding:8px 12px 30px;}.gacha-page .gacha-heading h1{font-size:24px;}.gacha-page .gacha-stage{width:min(300px,78vw);}.gacha-page .gacha-heading p{font-size:11px;}.gacha-share-actions button{font-size:12px;}}
