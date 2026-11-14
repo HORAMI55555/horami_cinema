@@ -10,3 +10,14 @@
 #gacha-share-status{font-size:12px;text-align:center;}
 @media(min-width:721px){.gacha-page .gacha-stage{width:min(310px,100%);}}
 @media(max-width:720px){.gacha-page .gacha-main{padding:8px 12px 30px;}.gacha-page .gacha-heading h1{font-size:24px;}.gacha-page .gacha-stage{width:min(300px,78vw);}.gacha-page .gacha-heading p{font-size:11px;}.gacha-share-actions button{font-size:12px;}}
+/* Page scenery is independent of the two capsule-machine images. */
+body.gacha-page{background-image:linear-gradient(#e8ffff24,#e8ffff24),url('assets/gacha-page-background-v18.jpeg');background-size:100% auto;background-position:center top;background-repeat:repeat-y;background-attachment:scroll;}
+.gacha-page .gacha-stage{width:min(800px,100%);border-radius:24px;margin-inline:auto;}
+.gacha-page .gacha-art{width:100%;height:auto;aspect-ratio:3/2;object-fit:contain;}
+.gacha-page .gacha-crank{left:47%;top:69%;width:10%;height:10%;}
+.gacha-page .gacha-capsule{left:47%;top:82%;}
+.gacha-page.horror-gacha .gacha-crank{left:46%;top:63%;width:10%;height:10%;}
+.gacha-page.horror-gacha .gacha-capsule{left:46%;top:80%;}
+.gacha-page .gacha-heading{background:#eaffffb3;border:1px solid #ffffff91;border-radius:20px;padding:12px;backdrop-filter:blur(5px);}
+.gacha-page .gacha-action{background:#efffffbd;border-radius:20px;padding:12px;}
+@media(max-width:720px){.gacha-page .gacha-stage{width:100%;}.gacha-page .gacha-heading{padding:10px 8px;}.gacha-page .gacha-heading h1{font-size:24px;}}

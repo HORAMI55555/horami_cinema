@@ -1,10 +1,17 @@
 {
-  "date": "2026-11-13",
-  "release": "gacha6",
+  "date": "2026-11-14",
+  "release": "archive18",
   "verifiedProviderPosts": 6,
   "remainingProviderPosts": 399,
   "themeOptions": 23,
   "themeOrder": "editorial, not measured search popularity",
-  "visualQA": "browser access unavailable; logic and static checks passed",
-  "deployment": "user uploads ZIP to existing GitHub repository"
+  "visualQA": "No browser preview: access previously rejected. JavaScript VM mode/share/filter checks and data/build checks passed.",
+  "deployment": "user uploads ZIP to existing GitHub repository",
+  "completedBilingualReviews": 143,
+  "addedThisRelease": 30,
+  "gachaBackground": "assets/gacha-page-background-v18.jpeg",
+  "gachaMachines": [
+    "assets/cinema-gacha-all-v11.jpeg",
+    "assets/cinema-gacha-horror-v11.jpeg"
+  ]
 }
