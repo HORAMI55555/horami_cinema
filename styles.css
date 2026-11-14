@@ -142,3 +142,22 @@ body:not(.editor-page){padding-top:8px}.site-header{min-height:52px!important;pa
 .jewel-display .jewel-poster-frame{width:29%;top:44%;border:1px solid #ffffff85;border-radius:3px;background:#e0ffff14;box-shadow:0 3px 9px #477e8022;transform:translate(-50%,-50%) perspective(700px) rotateY(-5deg) rotate(-1deg);}
 .modal-banner .jewel-poster-frame img{opacity:.77;border-radius:2px;filter:saturate(.8) contrast(.9) brightness(1.09);}
 @media(max-width:720px){.jewel-display .jewel-poster-frame{width:36%;top:44%;}}
+/* V12: editorial type and crystal streaming-service samples. */
+.gacha-link,#gacha-draw,.gacha-heading h1{font-family:inherit;}
+@media(max-width:600px){#collection-title{padding-left:12px;}}
+.vod-crystal-section{margin:28px 0;padding:24px 15px 18px;border-radius:24px;background:radial-gradient(ellipse at 25% 20%,#fff9,transparent 45%),linear-gradient(125deg,#d6f1ef66,#edf8fa88,#def5f066);}
+.vod-heading{display:flex;align-items:center;justify-content:center;gap:18px;text-align:center;letter-spacing:.12em;color:#4d7f8d;}
+.vod-heading::before,.vod-heading::after{content:'';height:1px;flex:1;max-width:180px;background:linear-gradient(90deg,transparent,#83a9b9,#fff);}
+.vod-heading::after{transform:scaleX(-1);}
+.vod-crystal-section>.fine{text-align:center;}
+.vod-crystal-section .vod-links,.vod-crystal-links{display:flex;justify-content:center;gap:22px;flex-wrap:wrap;padding:10px 0 24px;}
+.vod-crystal-links>.fine{flex-basis:100%;text-align:center;margin:0;}
+.vod-crystal-link{display:flex;flex-direction:column;align-items:center;gap:12px;width:130px;text-decoration:none!important;color:#4b7485;font-size:15px;text-align:center;line-height:1.3;}
+.vod-orb{position:relative;display:grid;place-items:center;width:116px;aspect-ratio:1;border-radius:50%;background-image:url('assets/vod-crystal-reference.jpeg');background-size:760% 427.727%;background-position-y:48.544%;box-shadow:0 7px 13px #9ccbd32b;transition:transform .2s ease;}
+.vod-orb::after{content:'';position:absolute;inset:0;border-radius:50%;box-shadow:inset 0 0 4px #fff9;pointer-events:none;}
+.vod-logo-netflix{background-position-x:4.752%;}.vod-logo-hulu{background-position-x:20.248%;}.vod-logo-prime{background-position-x:35.399%;}.vod-logo-disney{background-position-x:50.758%;}.vod-logo-unext{background-position-x:65.565%;}.vod-logo-tver{background-position-x:80.716%;}.vod-logo-youtube{background-position-x:96.074%;}
+.vod-logo-fallback{background:radial-gradient(circle at 28% 25%,white,#dff5f680 45%,#d7c9f799 70%,white);font:600 15px sans-serif;border:2px solid #fff;}
+.vod-crystal-link:hover .vod-orb{transform:translateY(-3px);}.vod-crystal-link:focus-visible{outline:2px solid #527c87;outline-offset:5px;border-radius:15px;}
+.vod-provider-name small{font:11px sans-serif;opacity:.7;}.vod-crystal-section .vod-search-row{text-align:center;}
+@media(max-width:600px){.vod-crystal-section{padding:18px 8px 12px;}.vod-heading{font-size:19px;gap:10px;}.vod-crystal-link{width:110px;font-size:13px;}.vod-orb{width:100px;}.vod-crystal-section .vod-links,.vod-crystal-links{gap:14px;}}
+@media(prefers-reduced-motion:reduce){.vod-orb{transition:none;}}
