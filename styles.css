@@ -161,3 +161,46 @@ body:not(.editor-page){padding-top:8px}.site-header{min-height:52px!important;pa
 .vod-provider-name small{font:11px sans-serif;opacity:.7;}.vod-crystal-section .vod-search-row{text-align:center;}
 @media(max-width:600px){.vod-crystal-section{padding:18px 8px 12px;}.vod-heading{font-size:19px;gap:10px;}.vod-crystal-link{width:110px;font-size:13px;}.vod-orb{width:100px;}.vod-crystal-section .vod-links,.vod-crystal-links{gap:14px;}}
 @media(prefers-reduced-motion:reduce){.vod-orb{transition:none;}}
+/* V13 — compact streaming jewels and a luminous cinema dispatch. */
+.vod-crystal-section .vod-links,.vod-crystal-links{flex-wrap:nowrap;justify-content:flex-start;gap:12px;overflow-x:auto;overscroll-behavior-x:contain;padding:10px 5px 16px;scrollbar-width:thin;}
+.vod-crystal-link{flex:0 0 82px;width:82px;gap:6px;font-size:12px;}
+.vod-orb{width:72px;flex-shrink:0;}
+.vod-logo-fallback{font-size:11px;padding:8px;box-sizing:border-box;}
+.vod-access{font:10px/1.5 'Noto Sans JP',sans-serif;color:#456975;}
+.news-intro{padding:16px 12px 22px;}
+.news-intro h1{font-family:inherit;font-weight:500;font-size:clamp(25px,3vw,37px);line-height:1.35;margin:7px 0;letter-spacing:.04em;}
+.news-intro>p{margin:8px auto;max-width:620px;}
+.news-intro .kicker{font-size:11px;letter-spacing:.22em;}
+.news-intro .back-link{display:inline-block;margin-top:12px;}
+.news-collection{padding:0 16px 50px;}
+#news-filters{justify-content:center;margin:0 auto 20px;}
+#news-count{font-size:11px;text-align:right;}
+.news-cards{display:flex;flex-direction:column;gap:22px;}
+.news-card{position:relative;display:grid;grid-template-columns:210px minmax(0,1fr);gap:26px;align-items:center;padding:16px;border:1px solid #ffffffdf;border-radius:28px;background:linear-gradient(120deg,#ffffffb8,#dcf8f288,#f4ecff77);box-shadow:inset 0 0 0 1px #b9e9e7b3,0 8px 28px #568a9717;backdrop-filter:blur(14px);overflow:hidden;}
+.news-card::after{content:'';position:absolute;inset:0;border-radius:inherit;pointer-events:none;box-shadow:inset 1px 1px 4px white,inset -1px -1px 3px #dfc6f399;}
+.news-visual{display:block;width:100%;height:210px;object-fit:contain;border-radius:16px;background:#e9ffff75;}
+.news-copy{min-width:0;padding:8px 10px;}
+.news-meta{display:flex;gap:12px;align-items:center;flex-wrap:wrap;font-size:12px;}
+.news-date{font-size:12px;letter-spacing:.05em;}
+.news-label{font-size:11px;border:1px solid #a2d9d7;background:#d9f5f1b0;border-radius:30px;padding:4px 10px;}
+.news-card h2{font-size:26px;line-height:1.45;letter-spacing:.03em;margin:12px 0;color:#245f6a;word-break:keep-all;overflow-wrap:anywhere;}
+.news-card p{font-size:14px;line-height:1.95;margin:8px 0;color:#355e68;}
+.news-card-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:16px;font-size:12px;flex-wrap:wrap;}
+.news-card-foot .fine{font-size:10px;}
+.news-feature{grid-template-columns:minmax(0,1fr) 40%;padding:24px;min-height:340px;}
+.news-feature .news-visual{grid-column:2;grid-row:1;height:350px;}
+.news-feature .news-copy{grid-column:1;grid-row:1;}
+.news-feature h2{font-size:34px;}
+@media(max-width:720px){
+ .news-intro h1{font-size:clamp(20px,5.6vw,24px);white-space:nowrap;letter-spacing:.025em;}
+ .news-intro{padding:12px 8px 18px;}.news-intro>p{font-size:12px;line-height:1.8;}
+ .news-collection{padding:0 4px 32px;}#news-filters{gap:7px;}#news-filters button{padding:8px 12px;font-size:11px;}
+ .news-card{grid-template-columns:88px minmax(0,1fr);gap:10px;padding:12px;border-radius:22px;align-items:start;}
+ .news-visual{height:132px;border-radius:12px;}.news-copy{padding:0;}
+ .news-card h2{font-size:19px;margin:8px 0;}.news-card p{font-size:12px;line-height:1.85;}
+ .news-meta{gap:6px;}.news-date{font-size:10px;}.news-label{font-size:9px;padding:3px 7px;}
+ .news-card-foot{font-size:11px;margin-top:10px;gap:6px;}
+ .news-feature{grid-template-columns:minmax(0,1fr) 37%;gap:12px;padding:16px;min-height:0;}
+ .news-feature .news-visual{height:210px;align-self:center;}.news-feature h2{font-size:23px;}
+ .vod-crystal-link{flex-basis:64px;width:64px;font-size:10px;}.vod-orb{width:56px;}.vod-crystal-section .vod-links,.vod-crystal-links{gap:8px;}.vod-access{font-size:9px;}
+}

@@ -5,13 +5,46 @@
       "trapped"
     ],
     "region": "JP",
-    "checkedAt": "2026-11-13",
+    "checkedAt": "2026-11-14",
     "services": [
       {
         "name": "U-NEXT",
-        "url": "https://video.unext.jp/title/SID0079935"
+        "url": "https://video.unext.jp/title/SID0079935",
+        "accessJa": "見放題",
+        "accessEn": "Subscription"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.hulu.jp/fall",
+        "accessJa": "見放題",
+        "accessEn": "Subscription"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.amazon.co.jp/dp/B0B8SCJ851",
+        "accessJa": "見放題・レンタル等",
+        "accessEn": "Subscription / rent"
+      },
+      {
+        "name": "FOD",
+        "url": "https://fod.fujitv.co.jp/title/11a8/",
+        "accessJa": "見放題",
+        "accessEn": "Subscription"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://tv.apple.com/jp/movie/fallフォール/umc.cmc.5a3tgaq1sy2jkct0x96a3ilot",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy"
+      },
+      {
+        "name": "TELASA",
+        "url": "https://www.telasa.jp/videos/216300",
+        "accessJa": "レンタル",
+        "accessEn": "Rental"
       }
-    ]
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/fall"
   },
   "ig-18106841147528327": {
     "tags": [

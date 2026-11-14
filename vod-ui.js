@@ -9,6 +9,6 @@ window.renderVodService=(service,id)=>{
  const logo=names[String(service.name).trim().toLowerCase()];
  const attrs=`href="${esc(service.url)}" target="_blank" rel="noopener" data-track="vod/${esc(id)}"`;
  if(!pilot.has(id))return `<a class="vod-gem" ${attrs}>${esc(service.name)} ↗</a>`;
- return `<a class="vod-crystal-link" ${attrs}><span class="vod-orb ${logo?'vod-logo-'+logo[0]:'vod-logo-fallback'}" aria-hidden="true">${logo?'':esc(service.name)}</span><span class="vod-provider-name">${esc(logo?logo[1]:service.name)} <small>↗</small></span></a>`;
+ return `<a class="vod-crystal-link" ${attrs}><span class="vod-orb ${logo?'vod-logo-'+logo[0]:'vod-logo-fallback'}" aria-hidden="true">${logo?'':esc(service.name)}</span><span class="vod-provider-name">${esc(logo?logo[1]:service.name)} <small>↗</small></span>${service.accessJa?`<span class="vod-access">${esc(document.documentElement.lang==='en'?service.accessEn:service.accessJa)}</span>`:''}</a>`;
 };
 })();
