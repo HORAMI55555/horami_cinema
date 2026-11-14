@@ -204,3 +204,28 @@ body:not(.editor-page){padding-top:8px}.site-header{min-height:52px!important;pa
  .news-feature .news-visual{height:210px;align-self:center;}.news-feature h2{font-size:23px;}
  .vod-crystal-link{flex-basis:64px;width:64px;font-size:10px;}.vod-orb{width:56px;}.vod-crystal-section .vod-links,.vod-crystal-links{gap:8px;}.vod-access{font-size:9px;}
 }
+/* V14: global releases, short crystal-glass news strips. */
+.news-feature{min-height:0;padding:20px 24px;grid-template-columns:minmax(0,1fr) 36%;}
+.news-feature .news-visual{height:270px;}
+.news-feature h2{font-size:30px;}
+.news-cards{gap:18px;}
+.news-row{grid-template-columns:160px minmax(0,1fr);gap:20px;padding:10px 54px 10px 12px;min-height:112px;border-radius:28px;background:linear-gradient(115deg,#ffffff52,#d9f7f12b 56%,#f4edff35);backdrop-filter:blur(5px);box-shadow:inset 0 0 0 1px #bcebe65c,0 4px 18px #689ba012;border-color:#ffffffb0;}
+.news-row .news-visual{height:106px;object-fit:cover;object-position:center 30%;border-radius:15px;background:#e4ffff35;}
+.news-row .news-copy{padding:0;}
+.news-row h2{font-size:23px;line-height:1.3;margin:6px 0;}
+.news-row p{font-size:12px;line-height:1.7;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.news-row .news-card-foot{position:absolute;right:15px;top:50%;transform:translateY(-50%);margin:0;}
+.news-row .news-card-foot a{display:grid;place-items:center;width:28px;height:28px;border:1px solid #729fa78c;border-radius:50%;text-decoration:none;font-size:17px;}
+.news-row .news-card-foot a:focus-visible{outline:2px solid #246b78;outline-offset:4px;}
+@media(max-width:720px){
+ .news-feature{padding:16px;grid-template-columns:minmax(0,1fr) 34%;gap:10px;}
+ .news-feature .news-visual{height:175px;}.news-feature h2{font-size:22px;}
+ .news-feature p{font-size:11px;line-height:1.75;}
+ .news-row{grid-template-columns:84px minmax(0,1fr);gap:10px;padding:9px 34px 9px 9px;min-height:94px;border-radius:23px;align-items:center;}
+ .news-row .news-visual{height:84px;border-radius:12px;}
+ .news-row h2{font-size:16px;margin:5px 0;line-height:1.3;}
+ .news-row p{font-size:10px;line-height:1.65;}
+ .news-row .news-meta{gap:4px;}.news-row .news-date{font-size:9px;letter-spacing:0;}
+ .news-row .news-label{font-size:8px;padding:2px 6px;}
+ .news-row .news-card-foot{right:8px;}.news-row .news-card-foot a{width:22px;height:22px;font-size:14px;}
+}

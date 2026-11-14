@@ -13,7 +13,11 @@
     "imageUrl": "assets/other-mommy.jpg",
     "featured": true,
     "published": true,
-    "updatedAt": "2026-11-14"
+    "updatedAt": "2026-11-14",
+    "releaseType": "cinema",
+    "categories": [
+      "horror"
+    ]
   },
   {
     "id": "kyoto-o-2026",
@@ -23,13 +27,17 @@
     "releaseDate": "2026-12-25",
     "releaseJa": "2026.12.25 日本公開",
     "releaseEn": "25 Dec 2026 · Japan",
-    "bodyJa": "ネットで語り継がれてきた、あの不気味な村の話が映画に。巨大な頭を持つ存在が現れる都市伝説「巨頭オ」を、近藤亮太監督が映像化。前田拳太郎と久保史緒里が出演する、年末に待つ異様な一作。村系ホラーが好きなら気にしておきたい。",
-    "bodyEn": "An unsettling village legend makes its way from the internet to the screen. Director Ryota Kondo adapts the online story of beings with enormous heads, with Kentaro Maeda and Shiori Kubo in the cast. A year-end release to watch if eerie village horror is your thing.",
+    "bodyJa": "ネットで語り継がれた不気味な村の都市伝説を、近藤亮太監督が映画化。前田拳太郎と久保史緒里が出演。村系ホラー好きなら気にしておきたい。",
+    "bodyEn": "An eerie online village legend reaches the screen. Directed by Ryota Kondo and starring Kentaro Maeda and Shiori Kubo, this is one for fans of unsettling rural horror.",
     "sourceUrl": "https://www.hakuhodody-map.jp/news/post_9768",
     "imageUrl": "assets/kyoto-o.jpg",
     "featured": false,
     "published": true,
-    "updatedAt": "2026-11-14"
+    "updatedAt": "2026-11-14",
+    "releaseType": "cinema",
+    "categories": [
+      "horror"
+    ]
   },
   {
     "id": "noroi-sumaho-2026",
@@ -39,10 +47,55 @@
     "releaseDate": "2026-11-13",
     "releaseJa": "2026.11.13 日本公開",
     "releaseEn": "13 Nov 2026 · Japan",
-    "bodyJa": "届いた動画に映っていたのは、自分の死。旧校舎で見つけた古いスマホをきっかけに、高校生たちへ不気味なAI動画が届き始める。早瀬憩主演、山元環監督・脚本。毎日触るスマホが恐怖の入口になる、身近さが嫌な余韻を残しそうなホラー。",
-    "bodyEn": "The video on your phone shows your own death. After discovering an old smartphone in a disused school building, a group of high-school students start receiving disturbing AI-generated videos. Starring Ikoi Hayase and written and directed by Tamaki Yamamoto, this horror turns an everyday device into a doorway to dread.",
+    "bodyJa": "届いた動画に映っていたのは、自分の死。旧校舎で見つけたスマホから始まる恐怖を、早瀬憩主演・山元環監督で描く。",
+    "bodyEn": "A video shows your own death. An old smartphone found in a disused school building unleashes terror in this horror starring Ikoi Hayase, directed by Tamaki Yamamoto.",
     "sourceUrl": "https://movies.shochiku.co.jp/noroi-sumaho/",
     "imageUrl": "assets/noroi-sumaho.webp",
+    "featured": false,
+    "published": true,
+    "updatedAt": "2026-11-14",
+    "releaseType": "cinema",
+    "categories": [
+      "horror"
+    ]
+  },
+  {
+    "id": "the-body-2026",
+    "titleJa": "The Body",
+    "titleEn": "The Body",
+    "category": "series",
+    "categories": [
+      "horror",
+      "series"
+    ],
+    "releaseType": "streaming",
+    "releaseDate": "2026-11-11",
+    "releaseJa": "2026.11.11 Netflix配信開始（米国）",
+    "releaseEn": "11 Nov 2026 · Netflix (US)",
+    "bodyJa": "ダンス部の入部儀式が、町じゅうを巻き込む悪夢に。予知めいた幻覚が広がるNetflixの新作ティーン・ホラー、全8話。",
+    "bodyEn": "A dance-team initiation spirals into prophetic visions and town-wide hysteria. Netflix’s new eight-episode teen horror blends Catholic-school tensions with coming-of-age chaos.",
+    "sourceUrl": "https://www.netflix.com/tudum/articles/the-body-plot-release-date-news",
+    "imageUrl": "assets/the-body.jpg",
+    "featured": false,
+    "published": true,
+    "updatedAt": "2026-11-14"
+  },
+  {
+    "id": "werwulf-2026",
+    "titleJa": "Werwulf",
+    "titleEn": "Werwulf",
+    "category": "horror",
+    "categories": [
+      "horror"
+    ],
+    "releaseType": "cinema",
+    "releaseDate": "2026-12-25",
+    "releaseJa": "2026.12.25 米国劇場公開",
+    "releaseEn": "25 Dec 2026 · US cinemas",
+    "bodyJa": "ロバート・エガース監督の新たなホラー。アーロン・テイラー＝ジョンソン、ウィレム・デフォー、リリー＝ローズ・デップが出演。クリスマスに届く、不穏な一作。",
+    "bodyEn": "Robert Eggers returns with a new horror starring Aaron Taylor-Johnson, Willem Dafoe and Lily-Rose Depp. A dark Christmas release exploring devotion, damnation and the evil within.",
+    "sourceUrl": "https://www.focusfeatures.com/werwulf",
+    "imageUrl": "assets/werwulf.jpg",
     "featured": false,
     "published": true,
     "updatedAt": "2026-11-14"
