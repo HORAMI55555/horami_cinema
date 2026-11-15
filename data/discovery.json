@@ -8,54 +8,149 @@
     "checkedAt": "2026-11-14",
     "services": [
       {
-        "name": "U-NEXT",
-        "url": "https://video.unext.jp/title/SID0079935",
-        "accessJa": "見放題",
-        "accessEn": "Subscription"
+        "name": "Amazon Prime Video",
+        "url": "https://www.amazon.co.jp/dp/B0B8SCJ851",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/fall"
       },
       {
         "name": "Hulu",
         "url": "https://www.hulu.jp/fall",
         "accessJa": "見放題",
-        "accessEn": "Subscription"
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/fall"
       },
       {
-        "name": "Amazon Prime Video",
-        "url": "https://www.amazon.co.jp/dp/B0B8SCJ851",
-        "accessJa": "見放題・レンタル等",
-        "accessEn": "Subscription / rent"
+        "name": "U-NEXT",
+        "url": "https://video.unext.jp/title/SID0079935",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/fall"
       },
       {
         "name": "FOD",
         "url": "https://fod.fujitv.co.jp/title/11a8/",
         "accessJa": "見放題",
-        "accessEn": "Subscription"
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/fall"
       },
       {
         "name": "Apple TV Store",
         "url": "https://tv.apple.com/jp/movie/fallフォール/umc.cmc.5a3tgaq1sy2jkct0x96a3ilot",
         "accessJa": "レンタル・購入",
-        "accessEn": "Rent / buy"
-      },
-      {
-        "name": "TELASA",
-        "url": "https://www.telasa.jp/videos/216300",
-        "accessJa": "レンタル",
-        "accessEn": "Rental"
+        "accessEn": "Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/fall"
       }
     ],
-    "availabilitySource": "https://www.justwatch.com/jp/映画/fall"
+    "availabilitySource": "https://www.justwatch.com/jp/映画/fall",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "ig-18106841147528327": {
     "tags": [
       "psychological"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/heretic",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heretic"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/heretic",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heretic"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/heretic",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heretic"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/heretic",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heretic"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/heretic",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heretic"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/heretic",
+        "accessJa": "レンタル",
+        "accessEn": "Rental",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heretic"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/heretic",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "ig-18134693455677376": {
     "tags": [
       "body",
       "supernatural"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/herureiza",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/herureiza"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/herureiza",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/herureiza"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/herureiza",
+        "accessJa": "レンタル",
+        "accessEn": "Rental",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/herureiza"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/herureiza",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/herureiza"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/herureiza",
+        "accessJa": "レンタル",
+        "accessEn": "Rental",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/herureiza"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/herureiza",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "ig-18093564194134759": {
     "tags": [
@@ -63,215 +158,663 @@
       "survival"
     ],
     "region": "JP",
-    "checkedAt": "2026-11-13",
+    "checkedAt": "2026-11-14",
     "services": [
       {
         "name": "Netflix",
-        "url": "https://www.netflix.com/jp/title/81640070"
+        "url": "https://www.netflix.com/jp/title/81640070",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/テレビ番組/la-palma"
       }
-    ]
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/テレビ番組/la-palma",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "ig-17945557992235078": {
     "tags": [
       "supernatural"
-    ]
+    ],
+    "services": []
   },
   "ig-18600595909009403": {
     "tags": [
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-18067070381436280": {
     "tags": [
       "comedy",
       "creature",
       "darkcomedy"
-    ]
+    ],
+    "services": []
   },
   "ig-18067623959447489": {
     "tags": [
       "disaster",
       "survival"
-    ]
+    ],
+    "services": []
   },
   "ig-18105924134091645": {
     "tags": [
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-17886343752577400": {
     "tags": [
       "mystery",
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-17923980963145468": {
     "tags": [
       "crime",
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-18231128497314325": {
     "tags": [
       "supernatural"
-    ]
+    ],
+    "services": []
   },
   "ig-18094115363601459": {
     "tags": [
       "survival"
-    ]
+    ],
+    "services": []
   },
   "ig-17886349236592320": {
     "tags": [
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-18469897498106583": {
     "tags": [
       "possession",
       "supernatural"
-    ]
+    ],
+    "services": []
   },
   "ig-17989889924813103": {
     "tags": [
       "possession",
       "supernatural"
-    ]
+    ],
+    "services": []
   },
   "ig-18099784247607490": {
     "tags": [
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-17992785638998337": {
     "tags": [
       "body",
       "creature"
-    ]
+    ],
+    "services": []
   },
   "ig-17868042390564388": {
     "tags": [
       "supernatural"
-    ]
+    ],
+    "services": []
   },
   "ig-18121963279779879": {
     "tags": [
       "survival"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/until-dawn",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/until-dawn",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/until-dawn",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/until-dawn",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/until-dawn",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/until-dawn",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/until-dawn",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-17933327934312277": {
     "tags": [
       "creature",
       "scifi"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Disney+",
+        "url": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/alien-romulus",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/alien-romulus",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18370153597224869": {
     "tags": [
       "supernatural"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/sayuri-2024",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/sayuri-2024",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18123804109656339": {
     "tags": [
       "supernatural"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/mama",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18088152029630164": {
     "tags": [
       "survival"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/a-quiet-place-day-one",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18106817071996265": {
     "tags": [
       "creature",
       "vampire"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/abigail-2024",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/abigail-2024",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18079421159225767": {
     "tags": [
       "doll",
       "supernatural"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/doruhausu",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/doruhausu",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/doruhausu",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/doruhausu",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/doruhausu",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/doruhausu",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/doruhausu",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/doruhausu",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/doruhausu",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18062442617108004": {
     "tags": [
       "possession",
       "supernatural"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/constantine",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/constantine",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/constantine",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/constantine",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/constantine",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/constantine",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/constantine",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/constantine",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/constantine",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18128849494442397": {
     "tags": [
       "possession",
       "village"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/when-evil-lurks",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/when-evil-lurks",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/when-evil-lurks",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/when-evil-lurks",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/when-evil-lurks",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/when-evil-lurks",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/when-evil-lurks",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-17985187355639931": {
     "tags": [
       "supernatural"
-    ]
+    ],
+    "services": []
   },
   "ig-18055056626483416": {
     "tags": [
       "mystery",
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-18105939127470973": {
     "tags": [
       "psychological"
-    ]
+    ],
+    "services": []
   },
   "ig-18485136025010083": {
     "tags": [
       "survival"
-    ]
+    ],
+    "services": []
   },
   "ig-18010323329695455": {
     "tags": [
       "survival",
       "zombie"
-    ]
+    ],
+    "services": []
   },
   "ig-18055419137488560": {
     "tags": [
       "supernatural"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/mama",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mama",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/mama",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "euphoria-s3": {
     "region": "JP",
-    "checkedAt": "2026-11-13",
+    "checkedAt": "2026-11-14",
     "services": [
       {
         "name": "U-NEXT",
-        "url": "https://video.unext.jp/title/SID0285893"
+        "url": "https://video.unext.jp/title/SID0285893",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/テレビ番組/yuhuoria-euphoria/シーズン-3"
       }
     ],
     "tags": [
       "teen"
-    ]
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/テレビ番組/yuhuoria-euphoria/シーズン-3",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "apple-cider-vinegar-2025": {
     "region": "JP",
-    "checkedAt": "2026-11-13",
+    "checkedAt": "2026-11-14",
     "services": [
       {
         "name": "Netflix",
-        "url": "https://www.netflix.com/jp/title/81637595"
+        "url": "https://www.netflix.com/jp/title/81637595",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/テレビ番組/apple-cider-vinegar/シーズン-1"
       }
-    ]
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/テレビ番組/apple-cider-vinegar/シーズン-1",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "ig-17909121513460027": {
     "region": "JP",
-    "checkedAt": "2026-11-13",
+    "checkedAt": "2026-11-14",
     "services": [
       {
         "name": "Netflix",
-        "url": "https://www.netflix.com/jp/title/81346727"
+        "url": "https://www.netflix.com/jp/title/81346727",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://movie.best-item.co.jp/movie/1252377"
       }
     ],
     "tags": [
       "heartwarming",
       "romance"
-    ]
+    ],
+    "availabilitySource": "https://movie.best-item.co.jp/movie/1252377",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "ig-18113557048973766": {
     "region": "JP",
@@ -289,149 +832,1045 @@
   "ig-17957067827779230": {
     "tags": [
       "mystery"
-    ]
+    ],
+    "services": []
   },
   "ig-17891214174173283": {
     "tags": [
       "mystery"
-    ]
+    ],
+    "services": []
   },
   "ig-18104091919967463": {
     "tags": [
       "crime"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/longlegs",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/longlegs",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/longlegs",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/longlegs",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/longlegs",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/longlegs",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/longlegs",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/longlegs",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/longlegs",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18107025608074458": {
     "tags": [
       "crime"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/cocaine-godmother",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/cocaine-godmother",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/cocaine-godmother",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-17899342956135093": {
     "tags": [
       "crime",
       "documentary",
       "truecrime"
-    ]
+    ],
+    "services": []
   },
   "ig-18348341479173281": {
     "tags": [
       "romance"
-    ]
+    ],
+    "services": []
   },
   "ig-17849687520397590": {
     "tags": [
       "romance"
-    ]
+    ],
+    "services": []
   },
   "ig-17866006860317144": {
     "tags": [
       "romance"
-    ]
+    ],
+    "services": []
   },
   "ig-18146268793368183": {
     "tags": [
       "romance"
-    ]
+    ],
+    "services": []
   },
   "ig-17888646405563068": {
     "tags": [
       "comedy"
-    ]
+    ],
+    "services": []
   },
   "ig-18131370565609130": {
     "tags": [
       "comedy",
       "darkcomedy",
       "vampire"
-    ]
+    ],
+    "services": []
   },
   "ig-18063444364807549": {
     "tags": [
       "comedy"
-    ]
+    ],
+    "services": []
   },
   "ig-18594718972050636": {
     "tags": [
       "scifi"
-    ]
+    ],
+    "services": []
   },
   "ig-17983592918910362": {
     "tags": [
       "doll",
       "scifi"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "accessJa": "見放題 / レンタル",
+        "accessEn": "Subscription / Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/m3gan-2-0",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18049562015254354": {
     "tags": [
       "scifi"
-    ]
+    ],
+    "services": []
   },
   "ig-17971479794698957": {
     "tags": [
       "scifi",
       "trapped",
       "village"
-    ]
+    ],
+    "services": []
   },
   "ig-17992643946097651": {
     "tags": [
       "slasher"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/the-last-house-on-the-left",
+        "accessJa": "レンタル",
+        "accessEn": "Rental",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-last-house-on-the-left"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/the-last-house-on-the-left",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-last-house-on-the-left"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/the-last-house-on-the-left",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-last-house-on-the-left"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/the-last-house-on-the-left",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
   },
   "ig-18101540420266265": {
     "tags": [
       "slasher"
-    ]
+    ],
+    "services": []
   },
   "ig-18008715764736192": {
     "tags": [
       "slasher"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/thanksgiving",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/thanksgiving",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/thanksgiving",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/thanksgiving",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/thanksgiving",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/thanksgiving",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/thanksgiving",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18121170379689887": {
     "tags": [
       "body"
-    ]
+    ],
+    "services": []
   },
   "ig-18144287215522785": {
     "tags": [
       "trapped"
-    ]
+    ],
+    "services": []
   },
   "ig-18036754457802112": {
     "tags": [
       "teen"
-    ]
+    ],
+    "services": []
   },
   "ig-18084781141725193": {
     "tags": [
       "teen"
-    ]
+    ],
+    "services": []
   },
   "ig-18054519098105068": {
     "tags": [
       "teen"
-    ]
+    ],
+    "services": []
   },
   "ig-17861398926480604": {
     "tags": [
       "documentary",
       "truecrime"
-    ]
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/unknown-number-the-high-school-catfish",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/unknown-number-the-high-school-catfish",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/unknown-number-the-high-school-catfish",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
   },
   "ig-18162018745457947": {
     "tags": [
       "heartwarming"
-    ]
+    ],
+    "services": []
   },
   "ig-18343222609217487": {
     "tags": [
       "heartwarming"
-    ]
+    ],
+    "services": []
   },
   "ig-18065187622854614": {
     "tags": [
       "darkcomedy"
-    ]
+    ],
+    "services": []
+  },
+  "ig-18168502738469569": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/jp/title/81652677",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.netflix.com/jp/title/81652677"
+      }
+    ],
+    "availabilitySource": "https://www.netflix.com/jp/title/81652677",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
+  },
+  "ig-17903410638489202": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/onnanokokirai",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/onnanokokirai"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/onnanokokirai",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/onnanokokirai"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/onnanokokirai",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/onnanokokirai"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/onnanokokirai",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/onnanokokirai"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/onnanokokirai",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rental / Purchase",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/onnanokokirai"
+      },
+      {
+        "name": "ビデックス",
+        "url": "https://www.videx.jp/detail/cinema/v_c_ryosenmytheater/cmyc0955_0001/index.htm",
+        "accessJa": "レンタル",
+        "accessEn": "Rental",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/onnanokokirai"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/onnanokokirai",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
+  },
+  "ig-18111141701080610": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/shisetsudomeibi-xing-senoxuan-bifang",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/shisetsudomeibi-xing-senoxuan-bifang"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/shisetsudomeibi-xing-senoxuan-bifang",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向け配信一覧で確認。料金・提供状況は移動先でご確認ください。",
+    "availabilityNoteEn": "Checked against Japan availability listings. Please confirm price and availability at the destination."
+  },
+  "ig-18074270750688793": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/di-10ke-shi-nonu",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/di-10ke-shi-nonu",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/di-10ke-shi-nonu",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
+  },
+  "ig-18133468303581956": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/テレビ番組/ravushang-deng",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/テレビ番組/ravushang-deng",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/テレビ番組/ravushang-deng",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
+  },
+  "ig-18132130753586936": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/the-suicide-squad",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "U-NEXTのHBO Max作品として掲載。その他は都度課金です。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
+  },
+  "ig-18009471677871586": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/テレビ番組/as-you-stood-by",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/テレビ番組/as-you-stood-by",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/テレビ番組/as-you-stood-by",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
+  },
+  "ig-18049511924111977": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/the-watchers",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-watchers",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/the-watchers",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-watchers",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/the-watchers",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-watchers",
+        "linkType": "availabilityListing"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/the-watchers",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-watchers",
+        "linkType": "availabilityListing"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/the-watchers",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "日本向けの掲載情報。料金・対象プランは視聴前に配信先で確認してください。",
+    "availabilityNoteEn": "Japan listings; confirm current terms and plans before watching."
+  },
+  "ig-17890753269168917": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "ビデオマーケット",
+        "url": "https://www.videomarket.jp/title/174YMN/A174YMN004999H01",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.videomarket.jp/title/174YMN/A174YMN004999H01"
+      }
+    ],
+    "availabilitySource": "https://www.videomarket.jp/title/174YMN/A174YMN004999H01",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-17949218798913956": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Hulu",
+        "url": "https://www.hulu.jp/run",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.hulu.jp/run"
+      }
+    ],
+    "availabilitySource": "https://www.hulu.jp/run",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18268124680251155": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://about.netflix.com/ja/news/love-village-3-trailer",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://about.netflix.com/ja/news/love-village-3-trailer"
+      }
+    ],
+    "availabilitySource": "https://about.netflix.com/ja/news/love-village-3-trailer",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18105730165476093": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/black-christmas",
+        "accessJa": "見放題・レンタル",
+        "accessEn": "Subscription / Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/black-christmas"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/black-christmas",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/black-christmas"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/black-christmas",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18062599660835885": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/m3gan",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/m3gan"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/m3gan",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/m3gan"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/m3gan",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/m3gan"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/m3gan",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-17887950252139820": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [],
+    "availabilitySource": "https://filmarks.com/movies/95405/vod",
+    "availabilityStatus": "unavailable",
+    "availabilityNoteJa": "日本の配信先は確認できませんでした。Netflix日本でも視聴不可表示です。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18083345596552939": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/the-purge",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-purge"
+      },
+      {
+        "name": "Amazon Video",
+        "url": "https://www.justwatch.com/jp/映画/the-purge",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-purge"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/the-purge",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-purge"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/the-purge",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/the-purge"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/the-purge",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-17949367565888534": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/coda-2021",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/coda-2021"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/coda-2021",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/coda-2021"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/coda-2021",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/coda-2021"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/coda-2021",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/coda-2021"
+      },
+      {
+        "name": "Amazon Video",
+        "url": "https://www.justwatch.com/jp/映画/coda-2021",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/coda-2021"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/coda-2021",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/coda-2021"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/coda-2021",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18313809841165603": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/supuritsuto",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/supuritsuto"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/supuritsuto",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/supuritsuto"
+      },
+      {
+        "name": "Amazon Video",
+        "url": "https://www.justwatch.com/jp/映画/supuritsuto",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/supuritsuto"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/supuritsuto",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/supuritsuto"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/supuritsuto",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18051508132820471": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Disney+",
+        "url": "https://www.justwatch.com/jp/映画/ready-or-not",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/ready-or-not"
+      },
+      {
+        "name": "Amazon Video",
+        "url": "https://www.justwatch.com/jp/映画/ready-or-not",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/ready-or-not"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/ready-or-not",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/ready-or-not"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/ready-or-not",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/ready-or-not"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/ready-or-not",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-17847385851348587": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/intasutera",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/intasutera"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/intasutera",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/intasutera"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/intasutera",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/intasutera"
+      },
+      {
+        "name": "Amazon Video",
+        "url": "https://www.justwatch.com/jp/映画/intasutera",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/intasutera"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/intasutera",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/intasutera"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/intasutera",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/intasutera"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/intasutera",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-17917414290003048": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/pieles",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/pieles"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/pieles",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-17886854955138182": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/missing-2023",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/missing-2023"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/missing-2023",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/missing-2023"
+      },
+      {
+        "name": "Amazon Video",
+        "url": "https://www.justwatch.com/jp/映画/missing-2023",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/missing-2023"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/missing-2023",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/missing-2023"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/missing-2023",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18155264872333506": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/greenland",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/greenland"
+      },
+      {
+        "name": "Amazon Video",
+        "url": "https://www.justwatch.com/jp/映画/greenland",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/greenland"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/greenland",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rent / Buy",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/greenland"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/greenland",
+        "accessJa": "レンタル",
+        "accessEn": "Rent",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/greenland"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/greenland",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18029661221169306": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/jp/title/81361154",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.netflix.com/jp/title/81361154"
+      }
+    ],
+    "availabilitySource": "https://www.netflix.com/jp/title/81361154",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18028049279576037": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.netflix.com/jp/title/81504326",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.netflix.com/jp/title/81504326"
+      }
+    ],
+    "availabilitySource": "https://www.netflix.com/jp/title/81504326",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "ig-18043160681276012": {
+    "region": "JP",
+    "checkedAt": "2026-11-14",
+    "services": [
+      {
+        "name": "Netflix",
+        "url": "https://www.justwatch.com/jp/映画/irish-wish",
+        "accessJa": "見放題",
+        "accessEn": "Subscription",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/irish-wish"
+      }
+    ],
+    "availabilitySource": "https://www.justwatch.com/jp/映画/irish-wish",
+    "availabilityStatus": "verified",
+    "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
   }
 }

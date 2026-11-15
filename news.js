@@ -1,11 +1,11 @@
 'use strict';
-let items=[],lang=new URLSearchParams(location.search).get('lang')==='en'?'en':'ja',category='all';
+let items=[],lang=new URLSearchParams(location.search).get('lang')==='en'?'en':'ja',category='horror';
 const $=s=>document.querySelector(s),txt=(a,b)=>lang==='ja'?a:b;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const kinds={horror:['ホラー・スリラー','Horror & thriller'],drama:['ドラマ','Drama'],series:['シリーズ','Series']};
+const kinds={horror:['ホラー・スリラー','Horror & thriller'],general:['全般','General'],series:['シリーズ','Series']};
 function render(){document.querySelectorAll("[data-ja]").forEach(e=>e.textContent=e.dataset[lang]);document.querySelector(".gacha-link").href="gacha.html?lang="+lang;document.querySelector(".news-link").href="coming-soon.html?lang="+lang;document.documentElement.lang=lang;$('#language').textContent=txt('EN ↗','日本語 ↗');$('#news-intro').textContent=txt('世界のスクリーンから、おうちのNetflixまで。次に夢中になる一本を。','From cinemas around the world to your next streaming obsession.');$('#back').textContent=txt('レビュー一覧へ ↗','Explore the reviews ↗');$('#back').href='index.html?lang='+lang;$('.brand').href='index.html?lang='+lang;
-$('#news-filters').innerHTML=[['all','すべて','All news'],['horror',...kinds.horror],['streaming','配信作品','Streaming'],['drama',...kinds.drama],['series',...kinds.series]].map(([key,ja,en])=>`<button type="button" data-category="${key}" class="${key===category?'chosen':''}" aria-pressed="${key===category}">${txt(ja,en)}</button>`).join('');
-const visible=items.filter(n=>n.published===true&&(category==='all'||(category==='streaming'?n.releaseType==='streaming':n.category===category||(n.categories||[]).includes(category)))).sort((a,b)=>String(b.updatedAt||'').localeCompare(String(a.updatedAt||'')));
+$('#news-filters').innerHTML=[['horror',...kinds.horror],['series',...kinds.series],['general',...kinds.general]].map(([key,ja,en])=>`<button type="button" data-category="${key}" class="${key===category?'chosen':''}" aria-pressed="${key===category}">${txt(ja,en)}</button>`).join('');
+const visible=items.filter(n=>n.published===true&&(category==='general'||n.category===category||(n.categories||[]).includes(category))).sort((a,b)=>String(b.updatedAt||'').localeCompare(String(a.updatedAt||'')));
 $('#news-count').textContent=visible.length+txt('件のニュース',' updates');$('#news-empty').hidden=visible.length>0;$('#empty-title').textContent=txt('次の楽しみ、見つけているところ。','The next obsession is on its way.');$('#empty-copy').textContent=txt('公開・配信情報を確認できた作品から、ここにお届けします。待っている間は、レビュー一覧で次の一本を探してみてね。','Confirmed release updates will appear here. In the meantime, explore the reviews for something to watch tonight.');
 const lead=visible.find(n=>n.featured);
 $('#news-cards').innerHTML=visible.length?[...(lead?[lead]:[]),...visible.filter(n=>n!==lead)].map((n,i)=>{
