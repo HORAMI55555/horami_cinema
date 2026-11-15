@@ -118,3 +118,18 @@ body.news-page{background-size:100% auto;background-repeat:repeat-y;background-p
  .news-page .news-cards{gap:12px;}
 }
 @media(max-width:360px){.news-page .news-feature{grid-template-columns:minmax(0,1fr) 92px;gap:8px;padding:12px;}.news-page .news-feature .news-orb-art{width:92px;}.news-page .news-feature h2{font-size:18px;}}
+/* V20: permanent glass album sleeve for the featured film. */
+.news-page .news-feature .news-orb-art{isolation:isolate;aspect-ratio:1;border-radius:22px;border:1px solid #ecffffdd;background:linear-gradient(130deg,#f5ffffb3,#c6ecf02b 38%,#f3fbff6e 68%,#b5e0ed4a);box-shadow:inset 2px 2px 4px #fff,inset -3px -3px 7px #9ccee487,0 7px 18px #40809235,0 0 0 4px #edffff38;transform:none;overflow:visible;padding:9px;}
+.news-page .news-feature .news-orb-art .news-visual{inset:9px;width:calc(100% - 18px);height:calc(100% - 18px);border-radius:15px;object-fit:cover;object-position:center;opacity:1;mix-blend-mode:normal;}
+.news-page .news-orb-art::before{inset:4px;z-index:2;width:auto;height:auto;border:1px solid #fff9;border-radius:19px;background:linear-gradient(135deg,#ffffff2e,transparent 28%,transparent 74%,#e6f8ff33);box-shadow:inset 2px 1px 2px #fff9,inset -2px -1px 4px #b8dce773;transform:none;}
+.news-page .news-orb-art::after{inset:-5px 6px 5px -5px;z-index:-1;width:auto;height:auto;border:1px solid #f4ffffa8;border-radius:23px;background:linear-gradient(140deg,#efffff45,transparent 48%,#c3e9f624);box-shadow:0 2px 4px #faffffb3;transform:rotate(-2deg);}
+.news-page .news-orb-art .orb-shine{z-index:3;inset:0;border-radius:22px;pointer-events:none;background:linear-gradient(164deg,transparent 0 13%,#faffffba 13.3%,#d9f8ff4f 14%,transparent 16% 85%,#fff9 85.4%,transparent 87%);box-shadow:inset 1px 0 2px #fff9,inset -1px 0 3px #fff9;}
+.news-page .news-orb-art .orb-glint{font-size:24px;right:auto;left:0;top:-6px;opacity:.9;}
+@media(max-width:720px){
+ .news-page .news-feature .news-orb-art{border-radius:13px;padding:5px;}
+ .news-page .news-feature .news-orb-art .news-visual{inset:5px;width:calc(100% - 10px);height:calc(100% - 10px);border-radius:9px;}
+ .news-page .news-orb-art::before{inset:2px;border-radius:11px;border-width:1px;}
+ .news-page .news-orb-art::after{inset:-3px 3px 3px -3px;border-radius:14px;border-width:1px;}
+ .news-page .news-orb-art .orb-shine{border-radius:13px;}
+ .news-page .news-orb-art .orb-glint{font-size:16px;top:-5px;}
+}

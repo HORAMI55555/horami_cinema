@@ -45,3 +45,27 @@
 .cards .card-rating-footer .rating-row,.cards .card-rating-footer .scare,.cards .card-rating-footer .rating-label,.cards .card-rating-footer small{font-family:'DM Sans','Noto Serif JP',sans-serif;font-size:var(--rating-text-size);letter-spacing:0;line-height:1.5;}
 .cards .card-rating-footer .rating-label{font-weight:500;}
 .cards .card-rating-footer small{font-weight:400;}
+/* V20: one identical crystal asset, one fixed row, for every provider. */
+.vod-crystal-section{margin:16px 0;padding:12px 8px 8px;}
+.vod-crystal-section .vod-heading{margin:0 0 5px;font-size:18px;}
+.vod-crystal-section>.fine{margin:2px 0 4px;font-size:10px;}
+.vod-crystal-section .vod-links,.vod-links.vod-crystal-links{display:flex;flex-wrap:nowrap;align-items:flex-start;justify-content:flex-start;gap:10px;overflow-x:auto;overflow-y:hidden;padding:5px 2px 7px;margin:4px 0;scrollbar-width:thin;}
+.vod-crystal-link{display:grid;grid-template-rows:76px 32px 30px;justify-items:center;align-items:start;align-content:start;flex:0 0 86px;width:86px;min-width:86px;gap:3px;margin:0;padding:0;text-decoration:none;}
+.vod-crystal-link .vod-orb.vod-orb-unified{position:relative;display:grid;place-items:center;width:76px;height:76px;min-width:76px;aspect-ratio:1;box-sizing:border-box;margin:0;padding:0;border:0;border-radius:0;background:transparent url('assets/vod-crystal-universal.png') center/100% 100% no-repeat;box-shadow:none;transform:none;}
+.vod-orb-unified::after{display:none;}
+.vod-brand-mark{display:grid;place-items:center;position:absolute;inset:21% 14%;line-height:1;}
+.vod-brand-mark svg{display:block;width:100%;height:100%;overflow:visible;}
+.vod-generic-name{font:700 10px/1.2 'DM Sans','Noto Sans JP',sans-serif;color:#183b4b;text-align:center;overflow-wrap:anywhere;}
+.vod-crystal-link .vod-provider-name{display:flex;align-items:flex-start;justify-content:center;width:100%;height:32px;margin:0;padding:0;font:400 11px/1.4 var(--serif);overflow-wrap:normal;word-break:normal;text-align:center;}
+.vod-crystal-link .vod-access{display:block;width:100%;height:30px;margin:0;font:400 9px/1.5 'DM Sans','Noto Sans JP',sans-serif;color:#456975;text-align:center;overflow-wrap:anywhere;}
+.vod-crystal-section .vod-search-row{margin:0;}
+.vod-crystal-section .vod-search{font-size:10px;padding:2px 0;}
+.vod-crystal-section .vod-availability-note{margin:3px 0;font-size:10px;}
+@media(max-width:720px){
+ .vod-crystal-section .vod-links,.vod-links.vod-crystal-links{gap:5px;}
+ .vod-crystal-link{grid-template-rows:56px 28px 28px;flex-basis:64px;width:64px;min-width:64px;gap:2px;}
+ .vod-crystal-link .vod-orb.vod-orb-unified{width:56px;height:56px;min-width:56px;}
+ .vod-crystal-link .vod-provider-name{height:28px;font-size:9px;line-height:1.45;}
+ .vod-crystal-link .vod-access{height:28px;font-size:8px;}
+ .vod-generic-name{font-size:8px;}
+}
