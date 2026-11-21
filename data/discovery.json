@@ -1872,5 +1872,31 @@
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
     "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+  },
+  "oxygen-2021": {
+    "tags": [
+      "survival",
+      "trapped",
+      "scifi",
+      "mystery"
+    ]
+  },
+  "open-water-2003": {
+    "tags": [
+      "survival",
+      "creature"
+    ]
+  },
+  "ig-17977228681864983": {
+    "tags": [
+      "supernatural",
+      "teen"
+    ]
+  },
+  "ig-17965956599314375": {
+    "tags": [
+      "comedy",
+      "heartwarming"
+    ]
   }
 }
