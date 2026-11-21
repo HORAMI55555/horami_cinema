@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "baseCommit": "ccd30e8243ff9a056b6c41813895b5231714797f",
-  "step": "01 OGP",
+  "step": "02 internal review links",
   "status": "prepared-not-published",
   "newReviewIds": [
     "oxygen-2021",
@@ -9,18 +9,18 @@
   ],
   "completedArchiveIds": [
     "ig-17977228681864983",
-    "ig-17965956599314375"
-  ],
-  "total": 407,
-  "englishComplete": 197,
-  "remainingIds": [
+    "ig-17965956599314375",
     "ig-17986139410750785",
     "ig-17854424240889908",
     "ig-17963675000294218",
     "ig-18265827940106645",
     "ig-17947222283268277",
     "ig-17993112058613974",
-    "ig-17963665327956714",
+    "ig-17963665327956714"
+  ],
+  "total": 407,
+  "englishComplete": 204,
+  "remainingIds": [
     "ig-17998100617550210",
     "ig-17973405559659489",
     "ig-17877162539710407",
@@ -227,10 +227,9 @@
   ],
   "preservedUserRatings": true,
   "next": [
-    "User applies ZIP and pushes main",
-    "Check live OGP asset and LINE preview",
-    "Step02 internal links / Search Console",
-    "Continue archived review completion"
+    "Publish and verify live preview",
+    "Verify Search Console ownership and submit sitemap",
+    "Continue archive from remainingIds"
   ],
   "pending": [
     "Instagram URLs for two new reviews not recovered",
