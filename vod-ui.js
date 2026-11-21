@@ -20,7 +20,7 @@ window.renderVodService=(s,id)=>{
  if(!/^https:\/\//.test(s.url||''))return '';
  const key=provider(s.name),en=document.documentElement.lang==='en',label=String(s.name),condition=en?(s.accessEn||''):s.accessJa||'';
  const mark=marks[key]||`<span class="vod-generic-name">${esc(label)}</span>`;
- return `<a class="vod-crystal-link" href="${esc(s.url)}" target="_blank" rel="noopener" data-track="vod/${esc(id)}"><span class="vod-orb vod-orb-unified" aria-hidden="true"><span class="vod-brand-mark">${mark}</span></span><span class="vod-provider-name">${esc(label)}</span><span class="vod-access">${esc(condition)}</span></a>`;
+ return `<a class="vod-crystal-link" href="${esc(s.url)}" target="_blank" rel="noopener" data-track="vod/${esc(id)}/${esc(key || encodeURIComponent(label))}"><span class="vod-orb vod-orb-unified" aria-hidden="true"><span class="vod-brand-mark">${mark}</span></span><span class="vod-provider-name">${esc(label)}</span><span class="vod-access">${esc(condition)}</span></a>`;
 };
 window.vodAvailabilityNote=(d={})=>{
  const en=document.documentElement.lang==='en';

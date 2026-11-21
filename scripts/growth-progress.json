@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "baseCommit": "ccd30e8243ff9a056b6c41813895b5231714797f",
-  "step": "02 internal review links",
+  "step": "03 GoatCounter events",
   "status": "prepared-not-published",
   "newReviewIds": [
     "oxygen-2021",
@@ -16,17 +16,17 @@
     "ig-18265827940106645",
     "ig-17947222283268277",
     "ig-17993112058613974",
-    "ig-17963665327956714"
-  ],
-  "total": 407,
-  "englishComplete": 204,
-  "remainingIds": [
+    "ig-17963665327956714",
     "ig-17998100617550210",
     "ig-17973405559659489",
     "ig-17877162539710407",
     "ig-17882788844689681",
     "ig-17960774491840105",
-    "ig-17949002668891734",
+    "ig-17949002668891734"
+  ],
+  "total": 407,
+  "englishComplete": 210,
+  "remainingIds": [
     "ig-17977726414574698",
     "ig-17956530799745988",
     "ig-17944092329101541",
@@ -227,8 +227,8 @@
   ],
   "preservedUserRatings": true,
   "next": [
-    "Publish and verify live preview",
-    "Verify Search Console ownership and submit sitemap",
+    "Publish and confirm live event counts in GoatCounter",
+    "Check Search Console sitemap retry",
     "Continue archive from remainingIds"
   ],
   "pending": [
