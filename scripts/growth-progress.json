@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "baseCommit": "ccd30e8243ff9a056b6c41813895b5231714797f",
-  "step": "03 GoatCounter events",
+  "step": "04 movie quiz",
   "status": "prepared-not-published",
   "newReviewIds": [
     "oxygen-2021",
@@ -22,11 +22,7 @@
     "ig-17877162539710407",
     "ig-17882788844689681",
     "ig-17960774491840105",
-    "ig-17949002668891734"
-  ],
-  "total": 407,
-  "englishComplete": 210,
-  "remainingIds": [
+    "ig-17949002668891734",
     "ig-17977726414574698",
     "ig-17956530799745988",
     "ig-17944092329101541",
@@ -36,7 +32,11 @@
     "ig-17897968589619764",
     "ig-17962666342693837",
     "ig-17921912225320982",
-    "ig-17943156394957836",
+    "ig-17943156394957836"
+  ],
+  "total": 407,
+  "englishComplete": 220,
+  "remainingIds": [
     "ig-17931361091116476",
     "ig-17858551802723227",
     "ig-17902887905581593",
@@ -227,9 +227,9 @@
   ],
   "preservedUserRatings": true,
   "next": [
-    "Publish and confirm live event counts in GoatCounter",
-    "Check Search Console sitemap retry",
-    "Continue archive from remainingIds"
+    "Publish quiz; confirm live quiz_start and quiz_complete",
+    "Continue archive from remainingIds",
+    "Build first editorial collection"
   ],
   "pending": [
     "Instagram URLs for two new reviews not recovered",

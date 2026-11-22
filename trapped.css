@@ -1,0 +1,14 @@
+* { box-sizing: border-box }
+body { margin: 0; color: #153c46; background: #d9f2f2 url(assets/crystal-ribbons.png) center top / cover; font: 1rem/1.65 Georgia,"Yu Mincho",serif }
+main { max-width: 980px; margin: auto; padding: clamp(14px,4vw,42px) }
+nav,article,header,footer { background: rgb(249 255 255 / 90%); border: 1px solid white; border-radius: 18px }
+nav { display: flex; justify-content: space-between; padding: 10px 18px; letter-spacing: .06em }
+a { color: inherit; text-underline-offset: .2em }
+header,footer { text-align: center; margin: 16px 0; padding: 16px }
+h1 { font-size: clamp(1.65rem,4vw,2.8rem); line-height: 1.2; margin: .3em 0 }
+section { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,320px),1fr)); gap: 12px }
+article { display: grid; grid-template-columns: 30% 1fr; align-items: start; gap: 14px; padding: 14px }
+article img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 10px }
+h2 { font-size: 1.16rem; line-height: 1.4; margin: 2px 0 }
+p { margin: .45em 0 }
+small { color: #385c65 }

@@ -7,7 +7,9 @@ BASE='https://horami55555.github.io/horami_cinema/'
 rows=json.loads((ROOT/'data/reviews.json').read_text())
 out=ROOT/'reviews';out.mkdir(exist_ok=True)
 esc=lambda x:html.escape(str(x or ''),quote=True)
-urls=[BASE,BASE+'gacha.html',BASE+'coming-soon.html',BASE+'reviews/index.html']
+urls=[BASE,BASE+'quiz.html',BASE+'gacha.html',BASE+'coming-soon.html',BASE+'reviews/index.html']
+from trapped import build_collection
+urls.extend(build_collection(ROOT, rows, BASE))
 links=[]
 for m in rows:
  assert re.fullmatch(r'[A-Za-z0-9_-]+',m['id']), 'Unsafe review ID'
