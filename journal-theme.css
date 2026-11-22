@@ -39,7 +39,7 @@ html body{isolation:isolate;background-image:none!important;background-color:tra
     content: "";
     position: absolute;
     inset-inline: 0;
-    top: calc(env(safe-area-inset-top, 0px) - clamp(38px, 11vw, 62px));
+    top: calc(env(safe-area-inset-top, 0px) - clamp(38px, 11vw, 62px) - 6px);
     aspect-ratio: 2 / 3;
     background: url('assets/crystal-ribbons.png') center top / 100% auto no-repeat;
     -webkit-mask-image: linear-gradient(transparent, black 5%, black 86%, transparent);
