@@ -32,4 +32,6 @@
 @media(max-width:400px){
 html[lang=en] #collection #categories{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
 }
-@media(max-width:600px){body.home-journal{background-position:center -42px}}
+@media(max-width:600px){body.home-journal{background-position:center -58px}}
+
+body:not(.home-journal) .cinema-nav #language{display:none!important}

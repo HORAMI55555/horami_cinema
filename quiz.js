@@ -69,7 +69,7 @@ function render(focus=false){
   document.title=say('今夜の映画診断','Tonight’s Movie Quiz')+' | HORAMI CINEMA';
   document.querySelector('#title').textContent=say('今夜の映画診断','Tonight’s Movie Quiz');
   document.querySelector('#home').href='index.html?lang='+(en?'en':'ja');
-  document.querySelector('#language').textContent=say('EN ↗','日本語 ↗');
+  for(const a of document.querySelectorAll('#cinema-menu a[href]')){if(a.origin===location.origin){const u=new URL(a.href);u.searchParams.set('lang',en?'en':'ja');a.href=u;}}
   panel.replaceChildren();
   if(!loaded){panel.textContent=say('作品を読み込み中…','Loading reviews…');return;}
   if(!movies.length){panel.append(button(say('再読み込み','Reload reviews'),()=>location.reload()));return;}
@@ -90,6 +90,7 @@ function render(focus=false){
   if(focus){const h=panel.querySelector('h2');h.tabIndex=-1;h.focus();}
 }
 function results(){
+  prepareMovieStory(picks,en,"quiz");
   panel.append(node('h2',say('今夜の候補はこちら','Your picks for tonight')));
   if(detailed && answers.length){
     panel.append(node('p',say('怖さ・作品タイプ・年代・題材の順に近い3本を選びました。','Three closest matches, prioritizing scare level, format, era, then subject.')));
@@ -102,12 +103,11 @@ function results(){
     const copy=node('span');copy.append(node('strong',(en?m.en:m.jp)+' ↗'),node('small',say('おすすめ度 ','Rating ')+(m.rating==null?'—':m.rating+'/5')+' · '+say('ホラー度 ','Scare ')+(m.scare==null?'—':m.scare+'/5')),node('small',en?m.hookEn:m.hook));a.append(art,copy);panel.append(a);
   }
   const actions=node('div',undefined,'actions'), status=node('p');status.setAttribute('role','status');
-  actions.append(button(say('ストーリー画像をシェア ↗','Share story card ↗'),()=>{
+  actions.append(button(say('ストーリーズでシェア ↗','Share story card ↗'),()=>{
     window.track?.('quiz-share/story');openMovieStory(picks,en,'quiz');
   }));
   actions.append(button(say('もう一度診断','Try again'),reset));actions.append(modeButton());panel.append(actions,status);
 }
-document.querySelector('#language').onclick=()=>{en=!en;updateUrl();render();};
 render();
 async function json(path){const r=await fetch(path);if(!r.ok)throw Error();return r.json();}
 Promise.all([json('data/reviews.json'),json('data/discovery.json').catch(()=>({}))]).then(([rows,metadata])=>{

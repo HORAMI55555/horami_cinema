@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "baseCommit": "ccd30e8243ff9a056b6c41813895b5231714797f",
-  "step": "10 weekly features and story cards",
+  "step": "11 collection and stories",
   "status": "prepared-not-published",
   "newReviewIds": [
     "oxygen-2021",
@@ -59,16 +59,16 @@
     "ig-17923754495148457",
     "ig-17920396622192516",
     "ig-17885023334527936",
-    "ig-17926333430101447"
-  ],
-  "total": 407,
-  "englishComplete": 247,
-  "remainingIds": [
+    "ig-17926333430101447",
     "ig-18046932034309462",
     "ig-17943710293773720",
     "ig-17923156838127368",
     "ig-17910774551343837",
-    "ig-17947365760731458",
+    "ig-17947365760731458"
+  ],
+  "total": 407,
+  "englishComplete": 252,
+  "remainingIds": [
     "ig-18278897899011708",
     "ig-17918751563091794",
     "ig-17905557005426037",

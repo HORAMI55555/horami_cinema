@@ -229,3 +229,5 @@ body:not(.editor-page){padding-top:8px}.site-header{min-height:52px!important;pa
  .news-row .news-label{font-size:8px;padding:2px 6px;}
  .news-row .news-card-foot{right:8px;}.news-row .news-card-foot a{width:22px;height:22px;font-size:14px;}
 }
+
+.review-page .review-index a:nth-child(4):last-child{display:none}
