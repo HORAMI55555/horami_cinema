@@ -10,6 +10,8 @@ esc=lambda x:html.escape(str(x or ''),quote=True)
 urls=[BASE,BASE+'quiz.html',BASE+'gacha.html',BASE+'coming-soon.html',BASE+'reviews/index.html']
 from trapped import PICKS, build_collection
 collection_ids = {pick[0] for pick in PICKS}
+from features import build_features
+urls.append(build_features(ROOT, rows, BASE))
 urls.extend(build_collection(ROOT, rows, BASE))
 links=[]
 for m in rows:
