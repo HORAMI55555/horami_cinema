@@ -23,3 +23,11 @@
 .card-title,.modal-hook,.gacha-result-copy h2{color:var(--journal-title)}
 .card-meta,.gacha-score,.news-page .news-date{color:var(--journal-muted)}
 .features .feature-story h2{color:inherit}
+
+/* Keep the scenery anchored even on mobile browsers that scroll body backgrounds. */
+html{background-color:#d9f5f4;padding:env(safe-area-inset-top,0px) env(safe-area-inset-right,0px) env(safe-area-inset-bottom,0px) env(safe-area-inset-left,0px)}
+html body{isolation:isolate;background-image:none!important;background-color:transparent!important}
+.page-scenery{position:fixed;inset:0;height:100vh;height:100lvh;z-index:-1;pointer-events:none;background:#d9f5f4 url('assets/crystal-ribbons.png') center top/cover no-repeat}
+.news-page>.page-scenery{background-image:url('assets/news-crystal-world.png')}
+.gacha-page>.page-scenery{background-image:linear-gradient(#e8ffff24,#e8ffff24),url('assets/gacha-page-background-v18.jpeg')}
+@media(max-width:600px){.home-journal>.page-scenery{top:-58px;height:calc(100vh + 58px);height:calc(100lvh + 58px)}}

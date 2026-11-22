@@ -11,3 +11,6 @@ quiz_start	1問目に回答
 quiz_complete	3問目に回答し結果を表示
 quiz-review/{作品ID}	結果から個別レビューへ
 quiz-share/{方法}	共有または投稿画面の起動
+
+ig-feature/{特集}/{storyまたはbio}/{言語}/open	指定のInstagram投稿リンクから特集を開いた回数。再読み込みを含む。
+ig-feature/{特集}/{storyまたはbio}/{言語}/review/{作品ID}	同じ特集ページで作品レビューをクリックした回数。複数作品へのクリックを含む。

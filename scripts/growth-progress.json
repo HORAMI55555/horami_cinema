@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "baseCommit": "ccd30e8243ff9a056b6c41813895b5231714797f",
-  "step": "11 collection and stories",
+  "step": "14 Instagram feature attribution and five bilingual reviews",
   "status": "prepared-not-published",
   "newReviewIds": [
     "oxygen-2021",
@@ -64,11 +64,7 @@
     "ig-17943710293773720",
     "ig-17923156838127368",
     "ig-17910774551343837",
-    "ig-17947365760731458"
-  ],
-  "total": 407,
-  "englishComplete": 252,
-  "remainingIds": [
+    "ig-17947365760731458",
     "ig-18278897899011708",
     "ig-17918751563091794",
     "ig-17905557005426037",
@@ -78,7 +74,11 @@
     "ig-17963238448531511",
     "ig-17939381164865157",
     "ig-17918132783232428",
-    "ig-18164447029200213",
+    "ig-18164447029200213"
+  ],
+  "total": 407,
+  "englishComplete": 262,
+  "remainingIds": [
     "ig-17874340739634707",
     "ig-17866283069657263",
     "ig-17929821259997122",
@@ -227,9 +227,9 @@
   ],
   "preservedUserRatings": true,
   "next": [
-    "Publish quiz; confirm live quiz_start and quiz_complete",
+    "Publish Step 13 and 14; verify Instagram story and bio events on GoatCounter",
     "Continue archive from remainingIds",
-    "Build first editorial collection"
+    "Compare first campaign at 7 and 28 days"
   ],
   "pending": [
     "Instagram URLs for two new reviews not recovered",

@@ -5,6 +5,7 @@ function translate() {
   const en = lang==='en';
   document.title=(en?'Features & rankings':'特集・ランキング')+' | HORAMI CINEMA';
   document.querySelector('#language').textContent=en?'日本語 ↗':'EN ↗';
+  for(const a of document.querySelectorAll('[data-edition]'))a.href=a.dataset.edition+(en?'-en':'')+'.html';
   showEdition();
   document.querySelectorAll('[data-review]').forEach(a=>a.href='reviews/'+a.dataset.review+(en?'-en':'')+'.html');
   for (const selector of ['.brand','.gacha-link','.news-link']) {
