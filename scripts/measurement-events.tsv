@@ -7,3 +7,7 @@ sort/{値}	並び替え変更
 gacha-draw/{モード}	抽選を開始
 gacha-result/{作品ID}	抽選結果を表示
 gacha-share/{作品ID}/{nativeまたはtwitter}	共有操作が完了、または投稿画面を起動。公開投稿数とは別。
+quiz_start	1問目に回答
+quiz_complete	3問目に回答し結果を表示
+quiz-review/{作品ID}	結果から個別レビューへ
+quiz-share/{方法}	共有または投稿画面の起動
