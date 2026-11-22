@@ -30,4 +30,19 @@ html body{isolation:isolate;background-image:none!important;background-color:tra
 .page-scenery{position:fixed;inset:0;height:100vh;height:100lvh;z-index:-1;pointer-events:none;background:#d9f5f4 url('assets/crystal-ribbons.png') center top/cover no-repeat}
 .news-page>.page-scenery{background-image:url('assets/news-crystal-world.png')}
 .gacha-page>.page-scenery{background-image:linear-gradient(#e8ffff24,#e8ffff24),url('assets/gacha-page-background-v18.jpeg')}
-@media(max-width:600px){.home-journal>.page-scenery{top:-58px;height:calc(100vh + 58px);height:calc(100lvh + 58px)}}
+@media (max-width: 600px) {
+  .home-journal > .page-scenery {
+    background-image: linear-gradient(#ddf7f6, #d9f5f4);
+  }
+  /* Fit the entire ribbon artwork across the phone. Its upper curls frame the wordmark. */
+  .home-journal > .page-scenery::before {
+    content: "";
+    position: absolute;
+    inset-inline: 0;
+    top: calc(env(safe-area-inset-top, 0px) + clamp(36px, 11vw, 56px));
+    aspect-ratio: 2 / 3;
+    background: url('assets/crystal-ribbons.png') center top / 100% auto no-repeat;
+    -webkit-mask-image: linear-gradient(transparent, black 5%, black 86%, transparent);
+    mask-image: linear-gradient(transparent, black 5%, black 86%, transparent);
+  }
+}
