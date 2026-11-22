@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:wght@400;500;600;700&family=Noto+Serif+JP:wght@400;500&display=swap');
 *{box-sizing:border-box}
-body{margin:0;background:#dcefee url(assets/crystal-ribbons.png) center top/100% auto repeat-y;color:#232323;font:16px/1.75 Georgia,"Hiragino Mincho ProN","Yu Mincho",serif}
+body{margin:0;background:#dcefee url(assets/crystal-ribbons.png) center top/100% auto repeat-y;color:var(--journal-text);font:16px/1.75 var(--journal-serif)}
 main{width:min(94%,990px);margin:auto;padding:18px 0 48px}
 a,button{color:inherit;text-underline-offset:.25em}nav,footer{display:flex;justify-content:space-between;padding:10px 4px;font-size:.87rem}
-header,article{background:linear-gradient(120deg,#ffffffc4,#ffffffe0 52%,#ffffff83);border:1px solid #fffffff2;box-shadow:inset 0 0 0 3px #ffffff2b,0 8px 28px #25535e12;backdrop-filter:blur(7px);border-radius:20px}
+header,article{background:linear-gradient(120deg,#ffffff85,#ffffffa8 52%,#ffffff65);border:1px solid #fffffff2;box-shadow:inset 0 0 0 3px #ffffff2b,0 8px 28px #25535e12;backdrop-filter:blur(4px);border-radius:20px}
 header{text-align:center;padding:clamp(25px,5vw,55px) 18px;margin:12px 0 18px}
 h1{font-weight:500;font-size:clamp(1.7rem,4vw,3.25rem);letter-spacing:.045em;line-height:1.3;margin:0}header p{max-width:37em;margin:12px auto 0;text-wrap:balance}
 section{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,345px),1fr));gap:14px}
 article{padding:16px;display:grid;grid-template-columns:minmax(76px,31%) 1fr;align-items:start;gap:15px}article img{width:100%;aspect-ratio:4/5;object-fit:cover;border:3px solid #ffffffc9;border-radius:10px;box-shadow:0 4px 15px #1c33302b}
-h2{font-size:clamp(18px,2vw,23px);line-height:1.4;font-weight:500;margin:.2em 0}article p{font-size:.91rem;margin:.55em 0}small{color:#404040;font-size:.77rem}
+h2{font-size:clamp(18px,2vw,23px);line-height:1.4;font-weight:500;margin:.2em 0}article p{font-size:.91rem;margin:.55em 0}small{color:var(--journal-muted);font-size:.77rem}
 article button{display:block;margin:10px 0 0;padding:5px 9px;border:1px solid #92999388;background:#ffffff85;border-radius:6px;font:inherit;font-size:.78rem;cursor:pointer}button[hidden]{display:none}button[aria-pressed=true]{background:#324843;color:white}footer{justify-content:center;margin-top:12px}

@@ -1,0 +1,25 @@
+:root{
+  --journal-serif:"Cormorant Garamond","Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",Georgia,serif;
+  --journal-title:#305965;
+  --journal-text:#374e55;
+  --journal-muted:#4b646c;
+  --journal-pearl:#81778b;
+  --journal-glass:linear-gradient(123deg,rgba(255,255,255,.62),rgba(247,255,253,.49) 52%,rgba(232,230,247,.47));
+  --serif:var(--journal-serif);
+}
+.site-header .brand-icon img{display:block;width:100%;height:100%;object-fit:contain}
+.signature-ghost{display:inline-block;width:1.36em;height:1.48em;vertical-align:-.33em;margin-inline-end:.24em}
+.trapped-edition,.features,body:has(#panel),.review-page,#story-sheet{font-family:var(--journal-serif);color:var(--journal-text)}
+.trapped-edition nav a:first-child,.review-page a:has(>.signature-ghost){font-family:var(--journal-serif);letter-spacing:.095em;text-decoration:none;color:var(--journal-title)}
+.trapped-edition h1,.trapped-edition h2,.features h1,.rankings h2,#panel h2,.review-page h1,.review-page h2,.news-page .news-feature h2,.gacha-heading h1{color:var(--journal-title);font-family:var(--journal-serif)}
+.trapped-edition header,.trapped-edition article,.features .rankings section,#panel,#story-sheet{background:var(--journal-glass);border:1px solid #ffffffc9;box-shadow:inset 0 1px 2px #ffffffce,0 8px 24px #31535e16;backdrop-filter:blur(5px)}
+.trapped-edition article p,.review-page .review-text,.news-page .news-feature p{color:var(--journal-text)}
+.trapped-edition small,.rank small,.pick small,.progress{color:var(--journal-muted)}
+.trapped-edition h2 a{text-decoration-color:#87a9ae;text-decoration-thickness:1px}
+.trapped-edition article button,.choices button,#story-sheet button,#story-sheet a{color:var(--journal-title);font-family:var(--journal-serif)}
+.trapped-edition article button[aria-pressed=true]{background:#365c65;color:white}
+.brand-icon>img{max-width:100%;max-height:100%}
+.site-header .brand,.site-header .nav-pill,.card-title,.modal-title,.modal-hook,.review-page,.news-page .news-card h2,.gacha-result-copy h2,.rank,.feature-story,.choices button,.features h2{font-family:var(--journal-serif)}
+.card-title,.modal-hook,.gacha-result-copy h2{color:var(--journal-title)}
+.card-meta,.gacha-score,.news-page .news-date{color:var(--journal-muted)}
+.features .feature-story h2{color:inherit}
