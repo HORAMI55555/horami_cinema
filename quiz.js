@@ -4,7 +4,7 @@ let en=params.get('lang')==='en', step=0, answers=[], picks=[], movies=[], tags=
 const say=(ja,english)=>en?english:ja;
 const questions=[
   ['今夜観たいのは？','What fits tonight?',[['film','映画を1本','A film'],['series','シリーズに浸りたい','A series'],['any','どちらでも','Either']]],
-  ['怖さはどのくらい？','How scary?',[['soft','穏やかに（ホラー度なし〜2）','Gentle (unrated for scares or up to 2)'],['mid','ほどよく（2.5〜3.5）','A little tension (2.5–3.5)'],['high','思いきり（4〜5）','Full scares (4–5)'],['any','おまかせ','Surprise me']]],
+  ['怖さはどのくらい？','How scary?',[['beyond','今日はホラー以外','Beyond horror tonight'],['soft','穏やかに（ホラー度なし〜2）','Gentle (unrated for scares or up to 2)'],['mid','ほどよく（2.5〜3.5）','A little tension (2.5–3.5)'],['high','思いきり（4〜5）','Full scares (4–5)'],['any','おまかせ','Surprise me']]],
   ['惹かれるのは？','What draws you in?',[['puzzle','謎を追いたい','A mystery to unravel'],['survive','逃げ場のない緊張感','Survival under pressure'],['people','誰かの気持ちに浸りたい','Characters to care about'],['any','ジャンルはおまかせ','Any theme']]]
 ];
 let detailed = params.get('mode') === 'deep';
@@ -26,15 +26,14 @@ const panel=document.querySelector('#panel');
 function node(tag,text,cls){const el=document.createElement(tag);if(text!==undefined)el.textContent=text;if(cls)el.className=cls;return el;}
 function button(text,onClick,cls){const b=node('button',text,cls);b.onclick=onClick;return b;}
 function matchesScare(m,level){
+  if(level==='beyond')return !['horror','thriller'].includes(m.genre);
   if(level==='soft')return m.scare==null||m.scare<=2;
   if(level==='mid')return m.scare>=2.5&&m.scare<=3.5;
   if(level==='high')return m.scare>=4;
   return true;
 }
 function recommend(rows,metadata,[format,scare,theme]){
-  const score=m=>Number(matchesScare(m,scare))*16+Number(format==='any'||format===m.format)*8+
-    Number((metadata[m.id]?.tags||[]).some(t=>themes[theme].includes(t)))*6+(m.rating??0);
-  return rows.slice().sort((a,b)=>score(b)-score(a)||a.id.localeCompare(b.id)).slice(0,3);
+  return deepPicks(rows,metadata,[format,scare,theme,'any','mix']);
 }
 function eraFits(year, era) {
   if (era === 'any') return true;
@@ -42,14 +41,19 @@ function eraFits(year, era) {
   return era === 'classic' ? year < 2000 : era === 'middle' ? year >= 2000 && year <= 2014 : year >= 2015;
 }
 function deepPicks(rows, metadata, [format, scare, theme, era, priority]) {
-  const scored = rows.map(m => {
+  let recent=[];
+  try{recent=JSON.parse(sessionStorage.getItem('horami.quiz.recent')||'[]');if(!Array.isArray(recent))recent=[];}catch{}
+  const eligible=scare==='beyond'?rows.filter(m=>matchesScare(m,'beyond')):rows;
+  const scored = eligible.map(m => {
     const tagMatch = theme === 'any' || (metadata[m.id]?.tags || []).some(tag=>themes[theme].includes(tag));
     const match = Number(matchesScare(m,scare))*8 + Number(format==='any'||m.format===format)*4
       + Number(eraFits(m.year,era))*2 + Number(tagMatch);
-    const preference = priority==='rating' ? m.rating??-1 : priority==='latest' ? m.year??0 : 0;
-    return {m, match, preference, tie:Math.random()};
+    const preference = priority==='rating' ? m.rating??-1 : priority==='latest' ? m.year??0 : priority==='mix' ? (m.rating??2)+Math.random()*2 : 0;
+    return {m, match, seen:Number(recent.includes(m.id)), preference, tie:Math.random()};
   });
-  return scored.sort((a,b)=>b.match-a.match || b.preference-a.preference || a.tie-b.tie).slice(0,3).map(x=>x.m);
+  const result=scored.sort((a,b)=>b.match-a.match || a.seen-b.seen || b.preference-a.preference || a.tie-b.tie).slice(0,3).map(x=>x.m);
+  try{sessionStorage.setItem('horami.quiz.recent',JSON.stringify([...recent,...result.map(m=>m.id)].slice(-18)));}catch{}
+  return result;
 }
 function modeButton() {
   return button(detailed ? say('3問のかんたん診断へ','Switch to the 3-question quiz') :
@@ -98,10 +102,9 @@ function results(){
     const copy=node('span');copy.append(node('strong',(en?m.en:m.jp)+' ↗'),node('small',say('おすすめ度 ','Rating ')+(m.rating==null?'—':m.rating+'/5')+' · '+say('ホラー度 ','Scare ')+(m.scare==null?'—':m.scare+'/5')),node('small',en?m.hookEn:m.hook));a.append(art,copy);panel.append(a);
   }
   const actions=node('div',undefined,'actions'), status=node('p');status.setAttribute('role','status');
-  const text=say('今夜の映画診断で選ばれた作品','My movie quiz picks')+' · '+picks.map(m=>en?m.en:m.jp).join(' / ');
-  const label=say('結果をシェア ↗','Share picks ↗');
-  if(navigator.share)actions.append(button(label,async()=>{try{await navigator.share({text,url:location.href});window.track?.('quiz-share/native');}catch(e){if(e.name!=='AbortError')status.textContent=say('共有できませんでした。','Sharing failed.');}}));
-  else{const a=node('a',label,'action');a.href='https://twitter.com/intent/tweet?'+new URLSearchParams({text,url:location.href});a.target='_blank';a.rel='noopener';a.dataset.track='quiz-share/twitter';actions.append(a);}
+  actions.append(button(say('ストーリー画像をシェア ↗','Share story card ↗'),()=>{
+    window.track?.('quiz-share/story');openMovieStory(picks,en,'quiz');
+  }));
   actions.append(button(say('もう一度診断','Try again'),reset));actions.append(modeButton());panel.append(actions,status);
 }
 document.querySelector('#language').onclick=()=>{en=!en;updateUrl();render();};

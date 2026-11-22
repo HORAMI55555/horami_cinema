@@ -14,7 +14,7 @@
 .site-header.cinema-nav{justify-content:flex-start!important;gap:6px!important}
 .site-header.cinema-nav .brand{margin:0 auto 0 0!important;width:auto;min-width:0}
 .site-header.cinema-nav .brand-name{font-size:clamp(13px,3.7vw,19px);white-space:nowrap}
-.cinema-nav #language,.cinema-nav #menu-trigger{display:inline-grid;place-items:center;width:auto;min-width:40px;height:36px;padding:0 8px;border:1px solid white;border-radius:10px;background:#edfaf9;color:#20555b;font:14px Georgia,serif}
+.cinema-nav #menu-trigger{display:inline-grid;place-items:center;width:auto;min-width:40px;height:36px;padding:0 8px;border:1px solid white;border-radius:10px;background:#edfaf9;color:#20555b;font:14px Georgia,serif}
 .site-header.cinema-nav #cinema-menu{display:none!important}
 .site-header.cinema-nav #cinema-menu.is-open{display:flex!important;position:absolute;inset:calc(100% + 5px) 0 auto auto;flex-direction:column;width:min(260px,100%);padding:10px;gap:5px!important;background:#e9f8f8;border:1px solid white;border-radius:14px;box-shadow:0 10px 32px #23585e36}
 .site-header.cinema-nav #cinema-menu .nav-pill{display:flex;min-height:38px!important;justify-content:flex-start;padding-inline:14px!important;font-size:13px}
@@ -32,3 +32,4 @@
 @media(max-width:400px){
 html[lang=en] #collection #categories{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
 }
+@media(max-width:600px){body.home-journal{background-position:center -42px}}

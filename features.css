@@ -8,3 +8,12 @@
 .rankings{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:15px}
 .rankings section{padding:16px}.rank{display:grid;grid-template-columns:42px 1.5em 1fr auto;align-items:center;gap:8px;padding:8px 0;border-top:1px solid #bdd8d7}
 .rank img{width:42px;height:42px;object-fit:cover;border-radius:6px}
+.features,.features h1,.features h2{color:#215965}
+.rankings section{background:linear-gradient(115deg,#f3fffc95,#d8f1ef97,#e7e2f498);backdrop-filter:blur(7px);box-shadow:inset 0 1px 3px white,0 5px 20px #50919429}
+.features .feature-story{display:flex;position:relative;isolation:isolate;align-items:end;min-height:clamp(230px,28vw,345px);background:#174c56;border-color:#efffff;box-shadow:0 8px 28px #18495135}
+.feature-story img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 56%;z-index:-2}
+.feature-story::before{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,#092e39f5,#1033458c 58%,transparent),linear-gradient(110deg,#264b5e56,transparent)}
+.features .feature-story div{color:#f0fffc;text-shadow:0 1px 4px #0a2934;padding:clamp(18px,4vw,35px);line-height:1.6}
+.features .feature-story h2{color:inherit;margin:.2em 0;font-size:clamp(24px,4vw,43px)}
+#weekly-picks{scroll-margin-top:15px}#weekly-picks[hidden]{display:none}
+.weekly-film{display:flex;align-items:center;gap:14px;padding:8px;border-bottom:1px solid #a1cbcc70}.weekly-film img{width:48px;height:48px;object-fit:cover;border-radius:9px}
