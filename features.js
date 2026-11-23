@@ -38,7 +38,7 @@ function showEdition(){
   toggleLabel();
   story.querySelector('h2 span').textContent=edition.title[i];
   story.querySelector('div > span:last-of-type').textContent=edition.intro[i];
-  art.src=edition.picks[0].posterUrl;
+  art.src=edition.cover;
   story.href='#weekly-picks';story.setAttribute('aria-controls',list.id);
   story.setAttribute('aria-expanded','false');
   const section=document.createElement('section');

@@ -23,3 +23,5 @@ body.gacha-page{background-image:linear-gradient(#e8ffff24,#e8ffff24),url('asset
 @media(max-width:720px){.gacha-page .gacha-stage{width:100%;}.gacha-page .gacha-heading{padding:10px 8px;}.gacha-page .gacha-heading h1{font-size:24px;}}
 
 .gacha-theme{display:flex;align-items:center;justify-content:center;gap:.6em;margin:0 auto .7rem;color:var(--journal-muted);font:inherit}.gacha-theme select{width:auto;max-width:65%;font:inherit;color:var(--journal-title);border-radius:1em;background:#efffffcc;padding:.35em .7em}
+
+.gacha-theme[hidden]{display:none}

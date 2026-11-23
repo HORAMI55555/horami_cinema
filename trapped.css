@@ -10,3 +10,16 @@ section{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,345px
 article{padding:16px;display:grid;grid-template-columns:minmax(76px,31%) 1fr;align-items:start;gap:15px}article img{width:100%;aspect-ratio:4/5;object-fit:cover;border:3px solid #ffffffc9;border-radius:10px;box-shadow:0 4px 15px #1c33302b}
 h2{font-size:clamp(18px,2vw,23px);line-height:1.4;font-weight:500;margin:.2em 0}article p{font-size:.91rem;margin:.55em 0}small{color:var(--journal-muted);font-size:.77rem}
 article button{display:block;margin:10px 0 0;padding:5px 9px;border:1px solid #92999388;background:#ffffff85;border-radius:6px;font:inherit;font-size:.78rem;cursor:pointer}button[hidden]{display:none}button[aria-pressed=true]{background:#324843;color:white}footer{justify-content:center;margin-top:12px}
+
+.trapped-edition header.haunted-home-header {
+  background: linear-gradient(0deg,rgba(12,40,48,.9),rgba(12,40,48,.04) 85%),
+    url("assets/haunted-home-weekly.webp") 68% 46% / cover no-repeat;
+  min-height: clamp(220px,32vw,330px);
+  display: grid;
+  align-content: end;
+  text-align: left;
+  padding: clamp(18px,4vw,40px);
+  color: #effcf9;
+}
+.haunted-home-header p {margin: .5em 0 0}
+.trapped-edition .haunted-home-header h1 {color:#fff}
