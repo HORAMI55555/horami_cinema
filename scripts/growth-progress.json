@@ -1,7 +1,7 @@
 {
   "date": "2026-11-23",
   "baseCommit": "ccd30e8243ff9a056b6c41813895b5231714797f",
-  "step": "24 complete bilingual editorial fields for 50 archived posts",
+  "step": "25 complete final 50 bilingual archive records",
   "status": "prepared-not-published",
   "newReviewIds": [
     "oxygen-2021",
@@ -169,11 +169,7 @@
     "ig-17917852852439892",
     "ig-18044526553251802",
     "ig-17887882387614175",
-    "ig-18077239573207940"
-  ],
-  "total": 407,
-  "englishComplete": 357,
-  "remainingIds": [
+    "ig-18077239573207940",
     "ig-17874340739634707",
     "ig-17866283069657263",
     "ig-17929821259997122",
@@ -225,11 +221,13 @@
     "ig-17875001420367014",
     "ig-17978575915363349"
   ],
+  "total": 407,
+  "englishComplete": 407,
+  "remainingIds": [],
   "preservedUserRatings": true,
   "next": [
     "Deploy delta and confirm production events",
-    "Record Instagram Insights and Search Console weekly",
-    "Continue remaining archive IDs"
+    "Record Instagram Insights and Search Console weekly"
   ],
   "pending": [
     "Instagram URLs for two new reviews not recovered",
@@ -287,5 +285,5 @@
     "ig-17870307892868139"
   ],
   "themeTagged": 407,
-  "metadataComplete": 357
+  "metadataComplete": 407
 }
