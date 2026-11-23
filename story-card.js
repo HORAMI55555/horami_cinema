@@ -17,7 +17,7 @@ async function renderMovieStory(movies,en,kind){
     const img=new Image();img.src=src;
     try { await img.decode();return img; } catch {return null;}
   }
-    const [paper,logo,...art]=await Promise.all(['assets/crystal-ribbons.png','assets/horami-pearl-wordmark.png',...movies.map(m=>m.posterUrl)].map(image));
+    const [paper,logo,qr,...art]=await Promise.all(['assets/crystal-ribbons.png','assets/horami-pearl-wordmark.png','assets/story-qr-'+kind+(en?'-en':'')+'.png',...movies.map(m=>m.posterUrl)].map(image));
     const theme=getComputedStyle(document.documentElement);
     const token=name=>theme.getPropertyValue('--journal-'+name).trim();
     const family=token('serif');
@@ -81,6 +81,11 @@ async function renderMovieStory(movies,en,kind){
     }
     c.fillStyle=token('muted');text('For films that stay with you.',540,1668,48,900,'center');
     text('@dontlookback25   ·   HORAMI CINEMA',540,1750,32,900,'center');
+    if(qr){
+      c.save();c.imageSmoothingEnabled=false;
+      c.drawImage(qr,862,1648,147,147);c.restore();
+      text(t('友達も試せる','Try it too'),936,1850,25,190,'center');
+    }
     const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));
     if(!blob)throw Error();
     return blob;
@@ -90,7 +95,7 @@ async function openMovieStory(movies,en,kind){
   const t=(ja,english)=>en?english:ja;
   const entry=prepareMovieStory(movies,en,kind);
   if(entry.file && navigator.canShare?.({files:[entry.file]})){
-    try{await navigator.share({files:[entry.file]});return;}
+    try{await navigator.share({files:[entry.file]});window.track?.('story-handoff/'+kind);return;}
     catch(error){if(error.name==='AbortError')return;}
   }
   const sheet=document.createElement('dialog');
@@ -112,12 +117,12 @@ async function openMovieStory(movies,en,kind){
     const filename='HORAMI-'+kind+'-story.png';url=URL.createObjectURL(blob);
     const preview=new Image();preview.src=url;preview.alt=t('ストーリー画像のプレビュー','Story card preview');sheet.insertBefore(preview,status);
     status.textContent=t('保存した画像をInstagramのストーリーズで選んでね。','Choose the saved image in Instagram Stories.');
-    const save=document.createElement('a');save.href=url;save.download=filename;save.textContent=t('画像を保存','Save image');sheet.append(save);
+    const save=document.createElement('a');save.href=url;save.download=filename;save.onclick=()=>window.track?.("story-download/"+kind);save.textContent=t('画像を保存','Save image');sheet.append(save);
     if(typeof File==='function'){
       const files=[entry.file];
       if(navigator.canShare?.({files})){
         const share=document.createElement('button');share.textContent=t('画像をシェア','Share image');
-        share.onclick=async()=>{try{await navigator.share({files});}catch(e){if(e.name!=='AbortError')status.textContent=t('画像を保存して共有してね。','Save the image to share it.');}};
+        share.onclick=async()=>{try{await navigator.share({files});window.track?.("story-handoff/"+kind);}catch(e){if(e.name!=='AbortError')status.textContent=t('画像を保存して共有してね。','Save the image to share it.');}};
         sheet.append(share);
       }
     }

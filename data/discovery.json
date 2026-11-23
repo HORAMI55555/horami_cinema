@@ -1411,7 +1411,10 @@
     "availabilitySource": "https://www.videomarket.jp/title/174YMN/A174YMN004999H01",
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
-    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms.",
+    "tags": [
+      "slasher"
+    ]
   },
   "ig-17949218798913956": {
     "region": "JP",
@@ -1428,7 +1431,11 @@
     "availabilitySource": "https://www.hulu.jp/run",
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
-    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms.",
+    "tags": [
+      "psychological",
+      "trapped"
+    ]
   },
   "ig-18268124680251155": {
     "region": "JP",
@@ -1500,7 +1507,11 @@
     "availabilitySource": "https://www.justwatch.com/jp/映画/m3gan",
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
-    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms.",
+    "tags": [
+      "doll",
+      "scifi"
+    ]
   },
   "ig-17887950252139820": {
     "region": "JP",
@@ -1547,7 +1558,11 @@
     "availabilitySource": "https://www.justwatch.com/jp/映画/the-purge",
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
-    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms.",
+    "tags": [
+      "survival",
+      "crime"
+    ]
   },
   "ig-17949367565888534": {
     "region": "JP",
@@ -1637,7 +1652,11 @@
     "availabilitySource": "https://www.justwatch.com/jp/映画/supuritsuto",
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
-    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms.",
+    "tags": [
+      "trapped",
+      "psychological"
+    ]
   },
   "ig-18051508132820471": {
     "region": "JP",
@@ -1675,7 +1694,11 @@
     "availabilitySource": "https://www.justwatch.com/jp/映画/ready-or-not",
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
-    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms.",
+    "tags": [
+      "survival",
+      "darkcomedy"
+    ]
   },
   "ig-17847385851348587": {
     "region": "JP",
@@ -1854,7 +1877,11 @@
     "availabilitySource": "https://www.netflix.com/jp/title/81504326",
     "availabilityStatus": "verified",
     "availabilityNoteJa": "配信条件は変わる場合があります。リンク先で最新条件をご確認ください。",
-    "availabilityNoteEn": "Availability may change. Check the linked page for current terms."
+    "availabilityNoteEn": "Availability may change. Check the linked page for current terms.",
+    "tags": [
+      "slasher",
+      "scifi"
+    ]
   },
   "ig-18043160681276012": {
     "region": "JP",
@@ -1897,6 +1924,402 @@
     "tags": [
       "comedy",
       "heartwarming"
+    ]
+  },
+  "ig-17959139888894289": {
+    "tags": [
+      "trapped",
+      "supernatural"
+    ]
+  },
+  "ig-18049261651997528": {
+    "tags": [
+      "scifi",
+      "mystery"
+    ]
+  },
+  "ig-17889138891105635": {
+    "tags": [
+      "possession",
+      "supernatural"
+    ]
+  },
+  "ig-18044809106030214": {
+    "tags": [
+      "trapped",
+      "survival"
+    ]
+  },
+  "ig-18041549095901010": {
+    "tags": [
+      "survival",
+      "crime"
+    ]
+  },
+  "ig-18035385080501283": {
+    "tags": [
+      "possession",
+      "mystery"
+    ]
+  },
+  "ig-18056650843711507": {
+    "tags": [
+      "supernatural",
+      "teen"
+    ]
+  },
+  "ig-18091389430430395": {
+    "tags": [
+      "possession",
+      "supernatural"
+    ]
+  },
+  "ig-18047189779704989": {
+    "tags": [
+      "supernatural"
+    ]
+  },
+  "ig-18037906972527192": {
+    "tags": [
+      "creature",
+      "supernatural"
+    ]
+  },
+  "ig-17936014025765195": {
+    "tags": [
+      "darkcomedy",
+      "trapped"
+    ]
+  },
+  "ig-18030756376646738": {
+    "tags": [
+      "slasher",
+      "mystery"
+    ]
+  },
+  "ig-18078964420406479": {
+    "tags": [
+      "slasher",
+      "darkcomedy"
+    ]
+  },
+  "ig-18208166482260303": {
+    "tags": [
+      "supernatural",
+      "psychological"
+    ]
+  },
+  "ig-18029731141577351": {
+    "tags": [
+      "psychological",
+      "mystery"
+    ]
+  },
+  "ig-17988530114015157": {
+    "tags": [
+      "scifi",
+      "creature"
+    ]
+  },
+  "ig-17887508594817008": {
+    "tags": [
+      "psychological",
+      "crime"
+    ]
+  },
+  "ig-17882788844689681": {
+    "tags": [
+      "mystery",
+      "psychological"
+    ]
+  },
+  "ig-17960774491840105": {
+    "tags": [
+      "supernatural",
+      "village"
+    ]
+  },
+  "ig-17956530799745988": {
+    "tags": [
+      "trapped",
+      "supernatural"
+    ]
+  },
+  "ig-17936638997213223": {
+    "tags": [
+      "village",
+      "supernatural"
+    ]
+  },
+  "ig-17966912902657243": {
+    "tags": [
+      "trapped",
+      "mystery"
+    ]
+  },
+  "ig-17962666342693837": {
+    "tags": [
+      "trapped",
+      "survival"
+    ]
+  },
+  "ig-17921912225320982": {
+    "tags": [
+      "possession",
+      "supernatural"
+    ]
+  },
+  "ig-17858551802723227": {
+    "tags": [
+      "survival",
+      "mystery"
+    ]
+  },
+  "ig-17902887905581593": {
+    "tags": [
+      "survival",
+      "crime"
+    ]
+  },
+  "ig-17930615678072461": {
+    "tags": [
+      "slasher"
+    ]
+  },
+  "ig-17873743862606496": {
+    "tags": [
+      "supernatural"
+    ]
+  },
+  "ig-17932171453989829": {
+    "tags": [
+      "supernatural",
+      "possession"
+    ]
+  },
+  "ig-17920396622192516": {
+    "tags": [
+      "creature",
+      "survival"
+    ]
+  },
+  "ig-18046932034309462": {
+    "tags": [
+      "supernatural",
+      "psychological"
+    ]
+  },
+  "ig-17923156838127368": {
+    "tags": [
+      "trapped",
+      "survival"
+    ]
+  },
+  "ig-17947365760731458": {
+    "tags": [
+      "zombie",
+      "survival"
+    ]
+  },
+  "ig-17957849584526911": {
+    "tags": [
+      "trapped",
+      "mystery"
+    ]
+  },
+  "ig-17899396388375926": {
+    "tags": [
+      "village",
+      "creature"
+    ]
+  },
+  "ig-17926084729913365": {
+    "tags": [
+      "scifi",
+      "psychological"
+    ]
+  },
+  "ig-17904268769089378": {
+    "tags": [
+      "crime",
+      "psychological"
+    ]
+  },
+  "ig-17888943701251430": {
+    "tags": [
+      "survival",
+      "creature"
+    ]
+  },
+  "ig-17872509377424816": {
+    "tags": [
+      "supernatural"
+    ]
+  },
+  "ig-17875526402197223": {
+    "tags": [
+      "survival",
+      "trapped"
+    ]
+  },
+  "ig-18144859228151201": {
+    "tags": [
+      "supernatural",
+      "mystery"
+    ]
+  },
+  "ig-17920924147577233": {
+    "tags": [
+      "supernatural",
+      "trapped"
+    ]
+  },
+  "ig-17904995155663926": {
+    "tags": [
+      "supernatural",
+      "psychological"
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-22",
+    "availabilitySource": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+    "availabilityStatus": "verified",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rental / purchase"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "accessJa": "見放題",
+        "accessEn": "Subscription"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "accessJa": "見放題",
+        "accessEn": "Subscription"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "accessJa": "レンタル",
+        "accessEn": "Rental"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/heredeitari-ji-cheng",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rental / purchase"
+      }
+    ]
+  },
+  "ig-17872332098060887": {
+    "tags": [
+      "village",
+      "psychological"
+    ],
+    "region": "JP",
+    "checkedAt": "2026-11-22",
+    "availabilitySource": "https://www.justwatch.com/jp/映画/mitsudosama",
+    "availabilityStatus": "verified",
+    "services": [
+      {
+        "name": "Amazon Prime Video",
+        "url": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "accessJa": "見放題・レンタル・購入",
+        "accessEn": "Subscription / rental / purchase"
+      },
+      {
+        "name": "Hulu",
+        "url": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "accessJa": "見放題",
+        "accessEn": "Subscription"
+      },
+      {
+        "name": "U-NEXT",
+        "url": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "accessJa": "見放題",
+        "accessEn": "Subscription"
+      },
+      {
+        "name": "FOD",
+        "url": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "accessJa": "レンタル",
+        "accessEn": "Rental"
+      },
+      {
+        "name": "Apple TV Store",
+        "url": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "sourceUrl": "https://www.justwatch.com/jp/映画/mitsudosama",
+        "accessJa": "レンタル・購入",
+        "accessEn": "Rental / purchase"
+      }
+    ]
+  },
+  "ig-18140665447077599": {
+    "tags": [
+      "possession",
+      "supernatural"
+    ]
+  },
+  "ig-18040296700269220": {
+    "tags": [
+      "possession",
+      "supernatural"
+    ]
+  },
+  "ig-17846261312273615": {
+    "tags": [
+      "trapped",
+      "survival"
+    ]
+  },
+  "ig-17923904077422171": {
+    "tags": [
+      "supernatural",
+      "mystery"
+    ]
+  },
+  "ig-17865483697943889": {
+    "tags": [
+      "supernatural",
+      "teen"
+    ]
+  },
+  "ig-17881176694712844": {
+    "tags": [
+      "supernatural",
+      "mystery"
+    ]
+  },
+  "ig-17965890991315288": {
+    "tags": [
+      "survival",
+      "creature"
+    ]
+  },
+  "ig-17884578775629069": {
+    "tags": [
+      "slasher",
+      "mystery"
+    ]
+  },
+  "ig-18152776849015155": {
+    "tags": [
+      "survival",
+      "creature"
     ]
   }
 }

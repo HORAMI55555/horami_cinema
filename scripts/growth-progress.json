@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "baseCommit": "ccd30e8243ff9a056b6c41813895b5231714797f",
-  "step": "14 Instagram feature attribution and five bilingual reviews",
+  "step": "19 growth analytics roadmap",
   "status": "prepared-not-published",
   "newReviewIds": [
     "oxygen-2021",
@@ -74,10 +74,16 @@
     "ig-17963238448531511",
     "ig-17939381164865157",
     "ig-17918132783232428",
-    "ig-18164447029200213"
+    "ig-18164447029200213",
+    "ig-17904995155663926",
+    "ig-17872332098060887",
+    "ig-18040296700269220",
+    "ig-17881176694712844",
+    "ig-17884578775629069",
+    "ig-18152776849015155"
   ],
   "total": 407,
-  "englishComplete": 262,
+  "englishComplete": 268,
   "remainingIds": [
     "ig-17874340739634707",
     "ig-17866283069657263",
@@ -154,10 +160,8 @@
     "ig-17937953656468450",
     "ig-17855004269496006",
     "ig-17897747251880762",
-    "ig-17904995155663926",
     "ig-18176414899065624",
     "ig-17868084704128937",
-    "ig-17872332098060887",
     "ig-17912836390521183",
     "ig-17850983510461157",
     "ig-17859551996327939",
@@ -171,7 +175,6 @@
     "ig-18046125172249740",
     "ig-18140665447077599",
     "ig-17883303247667853",
-    "ig-18040296700269220",
     "ig-17881679554688396",
     "ig-17872714129838823",
     "ig-17898827935517773",
@@ -198,16 +201,13 @@
     "ig-17863996243971052",
     "ig-17860021067051621",
     "ig-17848565537219266",
-    "ig-17881176694712844",
     "ig-18077434027204606",
     "ig-17894368486544828",
     "ig-17965890991315288",
     "ig-17886711763617836",
-    "ig-17884578775629069",
     "ig-17855855579105599",
     "ig-17864144506972011",
     "ig-17855025860119691",
-    "ig-18152776849015155",
     "ig-17843506007307349",
     "ig-17872138231821273",
     "ig-18137653540075091",
@@ -227,9 +227,9 @@
   ],
   "preservedUserRatings": true,
   "next": [
-    "Publish Step 13 and 14; verify Instagram story and bio events on GoatCounter",
-    "Continue archive from remainingIds",
-    "Compare first campaign at 7 and 28 days"
+    "Deploy delta and confirm production events",
+    "Record Instagram Insights and Search Console weekly",
+    "Continue remaining archive IDs"
   ],
   "pending": [
     "Instagram URLs for two new reviews not recovered",

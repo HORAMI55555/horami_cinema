@@ -6,11 +6,24 @@ category/{値}	別カテゴリへ切り替え
 sort/{値}	並び替え変更
 gacha-draw/{モード}	抽選を開始
 gacha-result/{作品ID}	抽選結果を表示
-gacha-share/{作品ID}/{nativeまたはtwitter}	共有操作が完了、または投稿画面を起動。公開投稿数とは別。
+gacha-share/story	ガチャの共有ボタン押下。完了・投稿を意味しない。
 quiz_start	1問目に回答
-quiz_complete	3問目に回答し結果を表示
+quiz_complete	3問版・5問版の最終回答で結果を表示
 quiz-review/{作品ID}	結果から個別レビューへ
-quiz-share/{方法}	共有または投稿画面の起動
+quiz-share/story	診断結果の画像共有ボタンを押した回数。
 
 ig-feature/{特集}/{storyまたはbio}/{言語}/open	指定のInstagram投稿リンクから特集を開いた回数。再読み込みを含む。
 ig-feature/{特集}/{storyまたはbio}/{言語}/review/{作品ID}	同じ特集ページで作品レビューをクリックした回数。複数作品へのクリックを含む。
+
+review_view/{page|modal}/{作品ID}/{言語}	個別HTML表示またはモーダル新規表示。再表示を含む。
+watchlist_save/{page|modal|collection}/{作品ID}	端末への保存成功。解除はwatchlist_remove。
+instagram_outbound/{page|modal|navigation}	サイトからInstagramへのリンク操作。フォローはInsightsで別途確認。
+instagram_entry/{story|bio}/{入口}	utm_source=instagramと媒体値が一致した着地。再読み込みを含む。
+story-handoff/{quiz|gacha}	OS共有API正常終了。投稿完了とは別。
+story-download/{quiz|gacha}	画像保存リンクの押下。
+story-return/{quiz|gacha}	共有画像のQR付きURLを開いた回数。
+gacha-theme/{テーマ}	テーマを手動変更。
+quiz_deep_complete	5問診断の完了。quiz_completeの内数。
+gacha-review/{作品ID}	ガチャ結果のレビューリンク押下。
+vod-search/{作品ID}	日本の最新配信先を検索するリンクを押した回数。
+ig-post/catacombs/{素材}/{媒体}/{入口}	投稿実験用リンクの着地。再読み込みを含む。

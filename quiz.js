@@ -103,6 +103,7 @@ function results(){
     const copy=node('span');copy.append(node('strong',(en?m.en:m.jp)+' ↗'),node('small',say('おすすめ度 ','Rating ')+(m.rating==null?'—':m.rating+'/5')+' · '+say('ホラー度 ','Scare ')+(m.scare==null?'—':m.scare+'/5')),node('small',en?m.hookEn:m.hook));a.append(art,copy);panel.append(a);
   }
   const actions=node('div',undefined,'actions'), status=node('p');status.setAttribute('role','status');
+  actions.append(node('p',say('この３本、友達ならどれを選ぶ？','Which of your three would a friend pick?')));
   actions.append(button(say('ストーリーズでシェア ↗','Share story card ↗'),()=>{
     window.track?.('quiz-share/story');openMovieStory(picks,en,'quiz');
   }));

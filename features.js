@@ -26,12 +26,16 @@ function showEdition(){
   const en=lang==='en', i=en?1:0;
   list.replaceChildren();list.hidden=true;
   const art=story.querySelector('img');
+  const action=document.querySelector('#feature-action');
   if(!index){
+    action.textContent=en?'Read feature ↗':'特集を読む ↗';
     story.href=en?'trapped-films-en.html':'trapped-films.html';
     art.src='posters/open-water-2003.jpg';story.onclick=null;
     story.removeAttribute('aria-expanded');story.removeAttribute('aria-controls');return;
   }
   const edition=editions[index-1];
+  const toggleLabel=()=>{action.textContent=list.hidden?(en?'Show films ↓':'作品を表示 ↓'):(en?'Hide films ↑':'作品を閉じる ↑');};
+  toggleLabel();
   story.querySelector('h2 span').textContent=edition.title[i];
   story.querySelector('div > span:last-of-type').textContent=edition.intro[i];
   art.src=edition.picks[0].posterUrl;
@@ -44,6 +48,6 @@ function showEdition(){
     img.alt='';img.src=film.posterUrl;a.append(img,document.createTextNode((en?film.en:film.jp)+' ↗'));section.append(a);
   }
   list.append(section);
-  story.onclick=e=>{e.preventDefault();list.hidden=!list.hidden;story.setAttribute('aria-expanded',String(!list.hidden));if(!list.hidden)section.querySelector('a').focus();};
+  story.onclick=e=>{e.preventDefault();list.hidden=!list.hidden;toggleLabel();story.setAttribute('aria-expanded',String(!list.hidden));if(!list.hidden)section.querySelector('a').focus();};
 }
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)translate();});
