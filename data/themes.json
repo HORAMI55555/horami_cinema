@@ -113,5 +113,30 @@
     "id": "darkcomedy",
     "ja": "ブラックコメディ",
     "en": "Dark comedy"
+  },
+  {
+    "id": "drama",
+    "ja": "ヒューマンドラマ",
+    "en": "Human drama"
+  },
+  {
+    "id": "fantasy",
+    "ja": "ファンタジー",
+    "en": "Fantasy"
+  },
+  {
+    "id": "music",
+    "ja": "音楽・ミュージカル",
+    "en": "Music & musicals"
+  },
+  {
+    "id": "action",
+    "ja": "アクション",
+    "en": "Action"
+  },
+  {
+    "id": "adventure",
+    "ja": "冒険",
+    "en": "Adventure"
   }
 ]

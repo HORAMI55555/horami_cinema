@@ -18,6 +18,11 @@ COLLECTIONS = [
         ('ig-17873743862606496','聞こえるはずのない声','A voice in the wires','発明がきっかけで、家の気配が変わり始める。亡くした人にもう一度会いたい気持ちがいちばん怖い一本。','An invention changes the atmosphere at home. The unsettling part is how much you want the presence to be someone you miss.'),
         ('ig-18370153597224869','念願の一軒家','The dream house','家族で越してきた一軒家に先客がいた。怖さの中で、家族の誰が先に反撃に出るかにも注目。','A family moves into a house that already has an occupant. Watch for the moment someone finally decides to fight back.'),
         ('ig-18079421159225767','棚の上の人形','The doll on the shelf','人形に愛情を注ぐほど、そばに置きたい気持ちも強くなる。家の中での人形の居場所に注目して。','Caring for a doll means keeping it close. Follow where it turns up in the house as comfort gives way to unease.')]),
+    ('nursery-nightmares', ('子ども部屋から始まる悪夢','Nightmares in the nursery'),
+     ('子どもの言葉を、最後まで信じられる？ 家族の中で誰の目を通して観るか、３本から選んで。','Whose version of events would you believe? Pick a film by choosing whose eyes you want to see through.'), [
+        ('ig-17912422550467111','母親の目で見る','Through a mother’s eyes','新しい娘を迎えてから続く小さな事故。ケイトと一緒に、この違和感を夫にどう説明するか考えながら観てほしい。','After a couple adopts Esther, small accidents start piling up. Try putting Kate’s unease into words her husband might actually believe.'),
+        ('ig-17932171453989829','少女の声を聴く','Listen to the child','母が仕掛けを知り尽くした降霊会で、娘だけが台本にない言葉を話し出す。その最初の一言を待つ時間が怖い。','A mother knows every trick in her séance. The suspense is waiting for her little girl to say the first thing nobody scripted.'),
+        ('ig-17924596022023891','少年の目で見る','Through the boy’s eyes','窓の向こうに見えたものを医師は副作用だと言う。防護服を脱いだイーライと一緒に、誰を信じていいか考える一本。','The doctors have an explanation for what Eli sees through the glass. Once he takes off his protective suit, who would you trust in his place?')]),
     ('after-horror', ('怖い映画のあとに、ひと息','A breather after the scares'),
      ('観終わったあとも眠れない夜に。歌う、恋する、笑う、の３本から。','Still too wired to sleep? Wind down with a song, an unlikely romance or a laugh.'), [
         ('ig-18279545686010546','歌いたい夜','Sing along','海辺の結婚式とABBAの曲。気持ちを切り替えたいなら、最初のサビから一緒に歌ってみて。','A seaside wedding and a whole songbook of ABBA. If you need a change of mood, join in at the first chorus.'),

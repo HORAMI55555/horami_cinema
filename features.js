@@ -19,35 +19,14 @@ translate();
 
 function showEdition(){
   const editions=JSON.parse(document.querySelector('#editions').textContent);
-  const cycle=editions.length+1;
   const week=Math.floor((Date.now()-Date.parse('2026-11-16T00:00:00+09:00'))/604800000);
-  const index=((week%cycle)+cycle)%cycle;
-  const story=document.querySelector('#story'), list=document.querySelector('#weekly-picks');
-  const en=lang==='en', i=en?1:0;
-  list.replaceChildren();list.hidden=true;
-  const art=story.querySelector('img');
-  const action=document.querySelector('#feature-action');
-  if(!index){
-    action.textContent=en?'Read feature ↗':'特集を読む ↗';
-    story.href=en?'trapped-films-en.html':'trapped-films.html';
-    art.src='posters/open-water-2003.jpg';story.onclick=null;
-    story.removeAttribute('aria-expanded');story.removeAttribute('aria-controls');return;
-  }
-  const edition=editions[index-1];
-  const toggleLabel=()=>{action.textContent=list.hidden?(en?'Show films ↓':'作品を表示 ↓'):(en?'Hide films ↑':'作品を閉じる ↑');};
-  toggleLabel();
+  const index=((week%editions.length)+editions.length)%editions.length;
+  const edition=editions[index], en=lang==='en', i=en?1:0;
+  const story=document.querySelector('#story');
+  story.href=edition.slug+(en?'-en':'')+'.html';
   story.querySelector('h2 span').textContent=edition.title[i];
   story.querySelector('div > span:last-of-type').textContent=edition.intro[i];
-  art.src=edition.cover;
-  story.href='#weekly-picks';story.setAttribute('aria-controls',list.id);
-  story.setAttribute('aria-expanded','false');
-  const section=document.createElement('section');
-  for(const film of edition.picks){
-    const a=document.createElement('a'),img=document.createElement('img');
-    a.className='weekly-film';a.href='reviews/'+film.id+(en?'-en':'')+'.html';
-    img.alt='';img.src=film.posterUrl;a.append(img,document.createTextNode((en?film.en:film.jp)+' ↗'));section.append(a);
-  }
-  list.append(section);
-  story.onclick=e=>{e.preventDefault();list.hidden=!list.hidden;toggleLabel();story.setAttribute('aria-expanded',String(!list.hidden));if(!list.hidden)section.querySelector('a').focus();};
+  story.querySelector('img').src=edition.cover;
+  document.querySelector('#feature-action').textContent=en?'Read feature ↗':'特集を読む ↗';
 }
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)translate();});
